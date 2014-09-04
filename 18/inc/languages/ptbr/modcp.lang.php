@@ -6,18 +6,18 @@
  */
 
 $l['nav_width'] = "180";
-$l['nav_modcp'] = "Mod CP";
+$l['nav_modcp'] = "Painel da Moderação";
 $l['nav_menu'] = "Menu";
 
-$l['mcp_nav_home'] = "Mod CP Home";
-$l['mcp_nav_forums'] = "Forums &amp; Posts";
-$l['mcp_nav_announcements'] = "Announcements";
-$l['mcp_nav_modqueue'] = "Moderation Queue";
-$l['mcp_nav_report_center'] = "Report Center";
-$l['mcp_nav_all_reports'] = "All Reports";
-$l['mcp_nav_modlogs'] = "Moderator Logs";
-$l['mcp_nav_users'] = "Users";
-$l['mcp_nav_editprofile'] = "Profile Editor";
+$l['mcp_nav_home'] = "Início - Painel da Moderação";
+$l['mcp_nav_forums'] = "Fóruns &amp; Postagens";
+$l['mcp_nav_announcements'] = "Anúncios";
+$l['mcp_nav_modqueue'] = "Fila de moderação";
+$l['mcp_nav_report_center'] = "Central de Denúncias";
+$l['mcp_nav_all_reports'] = "Todas as Denúncias";
+$l['mcp_nav_modlogs'] = "Registros de Moderador";
+$l['mcp_nav_users'] = "Usuários";
+$l['mcp_nav_editprofile'] = "Editor de perfil";
 $l['mcp_nav_banning'] = "Banning";
 $l['mcp_nav_warninglogs'] = "Warning Logs";
 $l['mcp_nav_ipsearch'] = "IP Search";
