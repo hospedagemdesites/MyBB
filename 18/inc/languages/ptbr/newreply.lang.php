@@ -5,53 +5,53 @@
  *
  */
 
-$l['nav_newreply'] = "Post Reply";
+$l['nav_newreply'] = "Postar Resposta";
 
-$l['post_reply_to'] = "Post Reply to {1}";
-$l['post_new_reply'] = "Post a New Reply";
-$l['reply_to'] = "Reply to thread: {1}";
-$l['post_subject'] = "Post Subject:";
-$l['your_message'] = "Your Message:";
-$l['post_options'] = "Post Options:";
-$l['options_sig'] = "<strong>Signature:</strong> include your signature. (registered users only)";
-$l['options_emailnotify'] = "<strong>Email Notification:</strong> receive an email whenever there is a new reply. (registered users only)";
-$l['options_disablesmilies'] = "<strong>Disable Smilies:</strong> disable smilies from showing in this post.";
-$l['post_reply'] = "Post Reply";
-$l['preview_post'] = "Preview Post";
-$l['mod_options'] ="Moderator Options:";
-$l['close_thread'] = "<strong>Close Thread</strong>: prevent further posting in this thread.";
-$l['stick_thread'] = "<strong>Stick Thread:</strong> stick this thread to the top of the forum.";
-$l['forum_rules'] = "{1} - Rules";
-$l['thread_review'] = "Thread Review (Newest First)";
-$l['thread_review_more'] = "This thread has more than {1} replies. <a href=\"{2}\">Read the whole thread.</a>";
-$l['posted_by'] = "Posted by";
-$l['draft_saved'] = "The new post has successfully been saved as a draft.<br />You will now be taken to your draft listing.";
-$l['image_verification'] = "Image Verification";
-$l['verification_note'] = "Please enter the text contained within the image into the text box below it. This process is used to prevent automated posts.";
-$l['verification_subnote'] = "(case insensitive)";
-$l['invalid_captcha'] = "The image verification code that you entered was incorrect. Please enter the code exactly how it appears in the image.";
-$l['error_post_already_submitted'] = "You have already posted this reply to the specified thread. Please visit the thread to see your reply.";
-$l['multiquote_external_one'] = "You have selected one post outside of this thread.";
-$l['multiquote_external'] = "You have selected {1} posts outside of this thread.";
-$l['multiquote_external_one_deselect'] = "deselect this post";
-$l['multiquote_external_deselect'] = "deselect these posts";
-$l['multiquote_external_one_quote'] = "Quote this post too";
-$l['multiquote_external_quote'] = "Quote these posts too";
+$l['post_reply_to'] = "Postar Resposta para {1}";
+$l['post_new_reply'] = "Postar uma Nova Resposta";
+$l['reply_to'] = "Responder ao Tópico: {1}";
+$l['post_subject'] = "Assunto:";
+$l['your_message'] = "Sua Mensagem:";
+$l['post_options'] = "Opções:";
+$l['options_sig'] = "<strong>Assinatura:</strong> incluir a sua assinatura. (somente usuários registrados)";
+$l['options_emailnotify'] = "<strong>Notificação por E-mail:</strong> receba um e-mail sempre que houver uma nova resposta. (somente usuários registrados)";
+$l['options_disablesmilies'] = "<strong>Desativar Carinhas:</strong> desativar carinhas exibidos nesta postagem.";
+$l['post_reply'] = "Postar Resposta";
+$l['preview_post'] = "Pré-Visualizar Postagem";
+$l['mod_options'] ="Opções do Moderador:";
+$l['close_thread'] = "<strong>Fechar Tópico</strong>: previne novas postagens neste tópico.";
+$l['stick_thread'] = "<strong>Fixar Tópico:</strong> fixar este tópico no topo do fórum.";
+$l['forum_rules'] = "{1} - Regras";
+$l['thread_review'] = "Revisão de Tópico (Novos Primeiro)";
+$l['thread_review_more'] = "Este tópico tem mais de {1} respostas. <a href=\"{2}\">Leia o tópico inteiro.</a>";
+$l['posted_by'] = "Postado por";
+$l['draft_saved'] = "A nova postagem foi salva como rascunho com sucesso.<br />Agora você será levado a sua lista de rascunhos.";
+$l['image_verification'] = "Imagem de Verificação";
+$l['verification_note'] = "Por favor, informe o texto da imagem no campo logo abaixo dela. Este processo é usado para prevenção de postagens automáticas.";
+$l['verification_subnote'] = "(maiúsculas e minúsculas)";
+$l['invalid_captcha'] = "O código de verificação de imagem que você inseriu estava incorreto. Por favor, digite o código exatamente como ele aparece na imagem.";
+$l['error_post_already_submitted'] = "Você já postou essa resposta para o tópico especificado. Por favor, visite o tópico para ver a sua resposta.";
+$l['multiquote_external_one'] = "Você selecionou uma postagem fora deste tópico.";
+$l['multiquote_external'] = "Você selecionou {1} postagens fora deste tópico.";
+$l['multiquote_external_one_deselect'] = "desmarque esta postagem";
+$l['multiquote_external_deselect'] = "desmarque estas postagens";
+$l['multiquote_external_one_quote'] = "Citar esta postagem também";
+$l['multiquote_external_quote'] = "Citar estas postagens também";
 
-$l['redirect_newreply'] = "Thank you, your reply has been posted.";
-$l['redirect_newreply_moderation'] = "The administrator has specified that all new posts require moderation. You will now be returned to the thread.";
-$l['redirect_newreply_post'] = "<br />You will now be taken to your post.";
-$l['redirect_newreplyerror'] = "Sorry, but your reply has been rejected for lack of content. <br />You will now be returned to the thread.";
-$l['redirect_threadclosed'] = "You cannot post replies in this thread because it has been closed by a moderator.";
-$l['error_post_noperms'] = "You don't have permission to edit this draft.";
+$l['redirect_newreply'] = "Obrigado, sua resposta foi postada.";
+$l['redirect_newreply_moderation'] = "O administrador especificou que todas as postagens novas exigem moderação. Agora você retornará para o tópico.";
+$l['redirect_newreply_post'] = "<br />Agora você será levado para sua postagem.";
+$l['redirect_newreplyerror'] = "Desculpe, mas sua postagem foi recusada devido à falta de conteúdo. <br />Agora voc~e retornará ao tópico.";
+$l['redirect_threadclosed'] = "Você não pode postar respostas neste tópico, porque ele foi fechado por um moderador.";
+$l['error_post_noperms'] = "Você não tem permissão para editar este rascunho.";
 
 
-$l['error_stop_forum_spam_spammer'] = 'Sorry, your username or IP address matches that of a known spammer. If you feel this is a mistake, please contact an administrator';
-$l['error_stop_forum_spam_fetching'] = 'Sorry, something went wrong verifying your reply against a spammer database. Most likely the database couldn\'t be accessed. Please try again later.';
+$l['error_stop_forum_spam_spammer'] = 'Desculpe, seu nome de usuário ou endereço IP corresponde ao de um spammer conhecido. Se você considera isso um erro, entre em contato com o administrador';
+$l['error_stop_forum_spam_fetching'] = 'Desculpe, algo deu errado verificando sua resposta em um banco de dados do spammers. Provavelmente o banco de dados não pode ser acessado. Por favor, tente novamente mais tarde.';
 
-$l['error_suspendedposting'] = "Your posting privileges are currently suspended {1}.<br /><br />
+$l['error_suspendedposting'] = "Seus privilégios de postagem no momento estão suspensos {1}.<br /><br />
 
-Suspension Date: {2}";
-$l['error_suspendedposting_temporal'] = "until {1}";
-$l['error_suspendedposting_permanent'] = "permanently";
+Data de Suspensão: {2}";
+$l['error_suspendedposting_temporal'] = "até {1}";
+$l['error_suspendedposting_permanent'] = "permanentemente";
 
