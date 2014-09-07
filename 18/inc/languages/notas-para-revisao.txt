@@ -2,13 +2,16 @@ Termos a serem substituídos, mediante consulta pública no fórum, para melhoria d
 
 Announcements e Anúncios > Comunicados
 Avisos > Advertências
-Stuck > Pregado > Fixado
+Login > Identificar-se > Entrar
+Logout > Sair
+MyCode > MyCode
 Notes > Notas > Anotações
 Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Smiles > Carinhas
-MyCode > MyCode
+Stuck > Pregado > Fixado
 Subscription > Subscrição > Assinatura
+
 ACP > Painel de Controle da Administração > Painel da Administração
 MCP > Painel de Controle da Moderação > Painel da Moderação
 UCP > Painel de Controle do Usuário > Painel de Controle
