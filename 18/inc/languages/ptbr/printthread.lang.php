@@ -2,10 +2,10 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['forum'] = "Forum:";
-$l['printable_version'] = "Printable Version";
-$l['pages'] = "Pages:";
-$l['thread'] = "Thread:";
+$l['forum'] = "Fórum:";
+$l['printable_version'] = "Versão para Impressão";
+$l['pages'] = "Páginas:";
+$l['thread'] = "Tópico:";
