@@ -2,8 +2,10 @@ Termos a serem substituídos, mediante consulta pública no fórum, para melhoria d
 
 Announcements e Anúncios > Comunicados
 Avisos > Advertências
+Inline > Em Linha
 Login > Identificar-se > Entrar
 Logout > Sair
+Merge > Unir > Mesclar
 MyCode > MyCode
 Notes > Notas > Anotações
 Poll > Enquete > Votação
