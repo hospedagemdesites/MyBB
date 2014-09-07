@@ -2,10 +2,10 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['nav_pms'] = "Private Messages";
+$l['nav_pms'] = "Mensagens Privadas";
 $l['nav_send'] = "Compose";
 $l['nav_tracking'] = "Message Tracking";
 $l['nav_folders'] = "Folder Management";
