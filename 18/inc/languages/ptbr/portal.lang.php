@@ -2,31 +2,31 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
 $l['nav_portal'] = "Portal";
-$l['posted_by'] = "Posted by:";
-$l['forum'] = "Forum:";
-$l['replies'] = "Replies";
-$l['no_replies'] = "No Replies";
-$l['latest_threads'] = "Latest Threads";
-$l['latest_threads_replies'] = "Replies:";
-$l['latest_threads_views'] = "Views:";
-$l['latest_threads_lastpost'] = "Last Post:";
-$l['private_messages'] = "Private Messages";
-$l['pms_received_new'] = "{1}, you have <b>{2}</b> unread message(s).";
-$l['pms_unread'] = "Unread Messages";
-$l['pms_total'] = "Total Messages";
-$l['search_forums'] = "Search Forums";
-$l['advanced_search'] = "Advanced Search";
-$l['forum_stats'] = "Forum Statistics";
-$l['num_members'] = "Members:";
-$l['latest_member'] = "Latest member:";
-$l['num_threads'] = "Forum threads:";
-$l['num_posts'] = "Forum posts:";
-$l['full_stats'] = "Full Statistics";
-$l['welcome'] = "Welcome, {1}";
+$l['posted_by'] = "Postado por:";
+$l['forum'] = "Fórum:";
+$l['replies'] = "Respostas";
+$l['no_replies'] = "Sem Respostas";
+$l['latest_threads'] = "Últimos Tópicos";
+$l['latest_threads_replies'] = "Respostas:";
+$l['latest_threads_views'] = "Visualizações:";
+$l['latest_threads_lastpost'] = "Última Postagem:";
+$l['private_messages'] = "Mensagens Privadas";
+$l['pms_received_new'] = "{1}, você tem <b>{2}</b> mensagem(s) não lidas.";
+$l['pms_unread'] = "Mensagens Não Lidas";
+$l['pms_total'] = "Total de Mensagens";
+$l['search_forums'] = "Pesquisar Fóruns";
+$l['advanced_search'] = "Pesquisa Avançada";
+$l['forum_stats'] = "Estatísticas do Fórum";
+$l['num_members'] = "Membros:";
+$l['latest_member'] = "Último Membro:";
+$l['num_threads'] = "Tópicos do Fórum:";
+$l['num_posts'] = "Postagens do Fórum:";
+$l['full_stats'] = "Estatísticas Completas";
+$l['welcome'] = "Bem-Vindo, {1}";
 $l['guest'] = "Guest";
 $l['guest_welcome_registration'] = "You have to <a href=\"{1}\">register</a> before you can post on our site.";
 $l['username'] = "Username";
