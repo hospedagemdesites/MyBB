@@ -11,6 +11,7 @@ MyCode > MyCode
 Notes > Notas > Anotações
 Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
+Restore > Restaurar > Recuperar
 Smiles > Carinhas
 Subscription > Subscrição > Assinatura
 Unapproved > Desaprovado > Não Aprovado
