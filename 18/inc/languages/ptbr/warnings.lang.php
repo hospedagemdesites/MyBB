@@ -2,10 +2,10 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['nav_profile'] = "Profile of {1}";
+$l['nav_profile'] = "Perfil de {1}";
 $l['nav_warning_log'] = "Warning Log";
 $l['nav_add_warning'] = "Warn User";
 $l['nav_view_warning'] = "Warning Details";
