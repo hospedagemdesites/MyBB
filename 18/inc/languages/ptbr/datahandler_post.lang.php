@@ -24,6 +24,6 @@ $l['postdata_require_prefix'] = 'Este fórum requer um prefixo de tópico a ser 
 
 $l['thread_closed'] = "Tópico Fechado";
 $l['thread_opened'] = "Tópico Aberto";
-$l['thread_stuck'] = "Tópico Pregado";
-$l['thread_unstuck'] = "Tópico Despregado";
+$l['thread_stuck'] = "Tópico Fixado";
+$l['thread_unstuck'] = "Tópico Desafixado";
 

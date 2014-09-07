@@ -9,8 +9,8 @@ Notes > Notas > Anotações
 Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Smiles > Carinhas
-Stuck > Pregado > Fixado
 Subscription > Subscrição > Assinatura
+View / Viewing > Visualizar / Visualizando > ver / Vendo
 
 ACP > Painel de Controle da Administração > Painel da Administração
 MCP > Painel de Controle da Moderação > Painel da Moderação
