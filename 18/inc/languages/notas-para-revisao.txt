@@ -2,6 +2,7 @@ Termos a serem substituídos, mediante consulta pública no fórum, para melhoria d
 
 Announcements e Anúncios > Comunicados
 Avisos > Advertências
+Delayed > Atrasada > Adiada
 Inline > Em Linha
 Login > Identificar-se > Entrar
 Logout > Sair
@@ -12,6 +13,7 @@ Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Smiles > Carinhas
 Subscription > Subscrição > Assinatura
+Unapproved > Desaprovado > Não Aprovado
 View / Viewing > Visualizar / Visualizando > ver / Vendo
 
 ACP > Painel de Controle da Administração > Painel da Administração

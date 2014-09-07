@@ -2,44 +2,44 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['delete_poll'] = "Delete Poll";
-$l['close_thread'] = "Close Thread";
-$l['stick_thread'] = "Stick Thread";
+$l['delete_poll'] = "Excluir Enquete";
+$l['close_thread'] = "Fechar Tópico";
+$l['stick_thread'] = "Fixar Tópico";
 
-$l['author'] = "Author";
-$l['message'] = "Message";
-$l['threaded'] = "Threaded Mode";
-$l['linear'] = "Linear Mode";
-$l['thread_modes'] = "Thread Modes";
-$l['next_oldest'] = "Next Oldest";
-$l['next_newest'] = "Next Newest";
-$l['view_printable'] = "View a Printable Version";
-$l['send_thread'] = "Send this Thread to a Friend";
-$l['subscribe_thread'] = "Subscribe to this thread";
-$l['unsubscribe_thread'] = "Unsubscribe from this thread";
-$l['add_poll_to_thread'] = "Add Poll to this thread";
-$l['moderation_options'] = "Moderation Options:";
-$l['delayed_moderation'] = "Delayed Moderation";
-$l['thread_notes'] = "Edit / View Thread Notes";
-$l['open_close_thread'] = "Open / Close Thread";
-$l['approve_thread'] = "Approve Thread";
-$l['unapprove_thread'] = "Unapprove Thread";
-$l['soft_delete_thread'] = "Soft Delete Thread";
-$l['restore_thread'] = "Restore Thread";
-$l['delete_thread'] = "Delete Thread Permanently";
-$l['delete_posts'] = "Delete Selective Posts";
-$l['move_thread'] = "Move / Copy Thread";
-$l['stick_unstick_thread'] = "Stick / Unstick Thread";
-$l['split_thread'] = "Split Thread";
-$l['merge_threads'] = "Merge Threads";
-$l['remove_redirects'] = "Remove Redirects";
-$l['remove_subscriptions'] = "Remove All Subscriptions";
-$l['poll'] = "Poll:";
-$l['show_results'] = "Show Results";
-$l['edit_poll'] = "Edit poll";
+$l['author'] = "Autor";
+$l['message'] = "Mensagem";
+$l['threaded'] = "Modo de Listagem";
+$l['linear'] = "Modo Linear";
+$l['thread_modes'] = "Modo de Tópicos";
+$l['next_oldest'] = "Mais Antigo";
+$l['next_newest'] = "Mais Recente";
+$l['view_printable'] = "Visualizar uma Versão para Impressão";
+$l['send_thread'] = "Enviar este Tópico a um Amigo";
+$l['subscribe_thread'] = "Subscrever este tópico";
+$l['unsubscribe_thread'] = "Cancelar Subscrição deste tópico";
+$l['add_poll_to_thread'] = "Adicionar Enquete a este Tópico";
+$l['moderation_options'] = "Opções de Moderação:";
+$l['delayed_moderation'] = "Moderação Atrasada";
+$l['thread_notes'] = "Editar / Visualizar Anotações do Tópico";
+$l['open_close_thread'] = "Abrir / Fechar Tópico";
+$l['approve_thread'] = "Aprovar Tópico";
+$l['unapprove_thread'] = "Não Aprovar Tópico";
+$l['soft_delete_thread'] = "Excluir Tópico Levemente";
+$l['restore_thread'] = "Restaurar Tópico";
+$l['delete_thread'] = "Excluir Tópico Permanentemente";
+$l['delete_posts'] = "Excluir Postagens Selecionadas";
+$l['move_thread'] = "Mover / Copiar Tópico";
+$l['stick_unstick_thread'] = "Fixar / Desafixar Tópico";
+$l['split_thread'] = "Dividir Tópico";
+$l['merge_threads'] = "Unir Tópicos";
+$l['remove_redirects'] = "Remover Redirecionamentos";
+$l['remove_subscriptions'] = "Remover Todas as Subscrições";
+$l['poll'] = "Enquete:";
+$l['show_results'] = "Exibir Resultados";
+$l['edit_poll'] = "Editar enquete";
 $l['public_note'] = "<b>Note:</b> This is a public poll, other users will be able to see what you voted for.";
 $l['total'] = "Total";
 $l['vote'] = "Vote!";
