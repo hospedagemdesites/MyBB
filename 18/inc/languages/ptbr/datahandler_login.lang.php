@@ -1,8 +1,8 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
 $l['logindata_invalidpwordusername'] = "Você informou uma combinação de nome de usuário e senha inválida. <br /><br />Se você esqueceu sua senha, por favor <a href=\"member.php?action=lostpw\">Recupere uma nova</a>.";

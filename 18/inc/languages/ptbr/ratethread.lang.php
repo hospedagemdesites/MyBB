@@ -1,8 +1,8 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * Traduzido por "" ""
  */
 
 $l['redirect_threadrated'] = "Thank you, the thread has been rated successfully. You will now be returned to the thread.";

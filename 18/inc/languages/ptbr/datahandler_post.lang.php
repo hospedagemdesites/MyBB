@@ -1,8 +1,8 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
 $l['postdata_invalid_user_id'] = 'A id de usuário não existe. Por favor forneça uma id de usuário válida.';

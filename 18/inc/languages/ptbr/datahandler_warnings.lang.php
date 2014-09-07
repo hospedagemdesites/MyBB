@@ -1,8 +1,8 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
 $l['warnings_reached_max_warnings_day'] = 'Você não pode avisar a todos como atingiu seu limite no número de avisos diário.<br /><br />O número máximo de avisos que você pode dar por dia é {1}."';
