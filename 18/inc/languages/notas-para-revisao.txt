@@ -1,6 +1,7 @@
 Termos a serem substituídos, mediante consulta pública no fórum, para melhoria da tradução com o contexto de um fórum de discussão:
 
 Announcements e Anúncios > Comunicados
+Avatar > Imagem de Exibição
 Avisos > Advertências
 Delayed > Atrasada > Adiada
 Inline > Em Linha
@@ -14,6 +15,7 @@ Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Restore > Restaurar > Recuperar
 Smiles > Carinhas
 Subscription > Subscrição > Assinatura
+Tracking > Rastremaneto > Seguir
 Unapproved > Desaprovado > Não Aprovado
 View / Viewing > Visualizar / Visualizando > ver / Vendo
 
