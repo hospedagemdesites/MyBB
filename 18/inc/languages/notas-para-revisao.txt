@@ -7,3 +7,7 @@ Notes > Notas > Anotações
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Smiles > Carinhas
 MyCode > MyCode
+Subscription > Subscrição > Assinatura
+ACP > Painel de Controle da Administração > Painel da Administração
+MCP > Painel de Controle da Moderação > Painel da Moderação
+UCP > Painel de Controle do Usuário > Painel de Controle
