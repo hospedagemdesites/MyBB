@@ -4,6 +4,7 @@ Announcements e Anúncios > Comunicados
 Avisos > Advertências
 Stuck > Pregado > Fixado
 Notes > Notas > Anotações
+Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Smiles > Carinhas
 MyCode > MyCode
