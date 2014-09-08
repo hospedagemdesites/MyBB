@@ -254,7 +254,7 @@ Para completar o processo de registro no {2}, você precisará acessar a URL aba
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
-Se o link acima não funciona corretamente, vá em
+Se o link acima não funcionar corretamente, vá em:
 
 {3}/member.php?action=activate
 
@@ -271,7 +271,7 @@ Para completar o processo de registro no {2}, você precisará acessar a URL aba
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
-Se o link acima não funciona corretamente, vá em
+Se o link acima não funcionar corretamente, vá em:
 
 {3}/member.php?action=activate
 
@@ -288,7 +288,7 @@ Para completar o processo de registro no {2}, você precisará acessar a URL aba
 
 {3}/member.php?action=activate&uid={4}&code={5}
 
-Se o link acima não funciona corretamente, vá em
+Se o link acima não funcionar corretamente, vá em:
 
 {3}/member.php?action=activate
 
@@ -345,7 +345,7 @@ Se essas alterações estão corretas, por favor, complete o processo de valida�
 
 {5}/member.php?action=activate&uid={8}&code={6}
 
-Se o link acima não funciona corretamente, vá para
+Se o link acima não funcionar corretamente, vá em:
 
 {5}/member.php?action=activate
 

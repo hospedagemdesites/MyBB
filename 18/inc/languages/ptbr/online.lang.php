@@ -129,7 +129,7 @@ $l['revoking_warning'] = "Revogando uma Advertência";
 $l['warning_user'] = "Advertindo um usuário";
 $l['viewing_warning'] = "Visualizando uma Advertência";
 $l['managing_warnings'] = "Gerenciando advertências";
-$l['changing_dst'] = "Alterando Ajuste de DST";
+$l['changing_dst'] = "Alterando Correção de Horário de Verão";
 $l['printing_thread'] = "Imprimindo um Tópico";
 $l['printing_thread2'] = "Imprimindo Tópico <a href=\"{1}\">{2}</a>";
 $l['managing_buddyignorelist'] = "Gerenciando Lista de Amigos / Ignorados";

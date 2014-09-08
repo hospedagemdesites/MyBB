@@ -11,7 +11,7 @@ $l['stick_thread'] = "Fixar Tópico";
 
 $l['author'] = "Autor";
 $l['message'] = "Mensagem";
-$l['threaded'] = "Modo de Listagem";
+$l['threaded'] = "Modo Lista";
 $l['linear'] = "Modo Linear";
 $l['thread_modes'] = "Modo de Tópicos";
 $l['next_oldest'] = "Mais Antigo";

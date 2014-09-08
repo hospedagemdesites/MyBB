@@ -99,12 +99,12 @@ $l['email_notify'] = "Subscrever-se automaticamente a tópicos em que você post
 $l['receive_pms'] = "Receber mensagens privadas de outros usuários.";
 $l['pm_notice'] = "Alertar-me com um aviso quando receber uma Mensagem Privada.";
 $l['email_notify_newpm'] = "Notifique-me por e-mail quando receber uma nova Mensagem Privada.";
-$l['time_offset'] = "Fuso Horário (correção <acronym title=\"Horário de Verão\">DST</acronym> excluída):";
-$l['time_offset_desc'] = "Se você mora em uma zona horária que difere da configurada para este fórum, você pode seleciná-la na lista abaixo.";
+$l['time_offset'] = "Fuso Horário (sem a correção de <acronym title=\"Horário de Verão\">Horário de Verão</acronym>):";
+$l['time_offset_desc'] = "Se você mora em uma zona horária diferente da configurada neste fórum, você pode selecioná-la na lista abaixo.";
 $l['dst_correction'] = "Correção de Horário de Verão:";
-$l['dst_correction_auto'] = "Detectar automaticamente as configurações DST";
-$l['dst_correction_enabled'] = "Sempre usar correção DST";
-$l['dst_correction_disabled'] = "Nunca usar correção DST";
+$l['dst_correction_auto'] = "Detectar automaticamente";
+$l['dst_correction_enabled'] = "Sempre usar correção";
+$l['dst_correction_disabled'] = "Nunca usar correção";
 $l['redirect_registered_coppa_activate'] = "Obrigado por se registar no {1}, {2}. Sua conta foi criada com sucesso, no entanto, como o proprietário desta conta tem menos de 13 anos de idade, é necessária a permissão dos pais ou responsáveis legais.<br /><br />Os pais ou responsáveis legais precisam baixar, preencher e enviar para nós uma cópia do <a href=\"member.php?action=coppa_form\">Formulário de Permissão &amp; Conformidade COPPA</a>.<br /><br />Quando recebermos uma cópia deste formulário devidamente preenchido, a conta será ativada.";
 $l['coppa_compliance'] = "Conformidade COPPA";
 $l['coppa_desc'] = "Para se registrar neste fórum, precisamos verificar se sua idade está em conformidade com o <a href=\"http://coppa.org/\" title=\"Ato de Proteção e Privacidade Online de Crianças - Children's Online Privacy Protection Act\" target=\"_blank\">COPPA</a>. Por favor insira a sua data de nascimento abaixo.<br /><br />Se você tem idade inferior a 13 anos, a permissão de pais ou responsáveis deve ser obtida antes do registo. Os pais ou responsáveis legais precisam baixar, preencher e enviar para nós uma cópia do <a href=\"member.php?action=coppa_form\" target=\"_blank\">Formulário de Permissão &amp; Conformidade COPPA</a>.";
@@ -182,7 +182,7 @@ $l['admin_edit_in_acp'] = "Editar este usuário no Painel da Administração";
 $l['admin_ban_in_acp'] = "Banir este usuário no Painel da Administração";
 $l['admin_options'] = "Opções de Administrador";
 
-$l['redirect_registered_activation'] = "Obrigado por se registar no {1}, {2}.<p>Para completar seu cadastro, por favor, verifique seu e-mail para obter instruções de ativação de conta. Até você ativar sua conta, você não poderá postar nos fóruns";
+$l['redirect_registered_activation'] = "Obrigado por se registar no {1}, {2}.<p>Para completar seu cadastro, por favor, verifique seu e-mail para obter instruções de ativação de conta. Até você ativar sua conta, você não poderá postar nos fóruns.";
 $l['redirect_emailupdated'] = "Seu e-mail foi alterado com êxito.<br />Você vai agora ser levado de volta para a página principal.";
 $l['redirect_accountactivated'] = "Sua conta foi ativada com sucesso.<br />Você vai agora ser levado de volta para a página principal.";
 $l['redirect_accountactivated_admin'] = "Seu e-mail foi validado com sucesso.<br />O seu registo agora deve ser ativado por um administrador. Até lá, você não poderá postar nestes fóruns.<br />Você vai agora ser levado de volta para a página principal.";
@@ -198,7 +198,7 @@ $l['redirect_registered_passwordsent'] = "Uma senha aleatória foi gerada e envi
 $l['redirect_validated'] = "Obrigado, sua conta foi validada.<br />Agora você será levado para os fóruns.";
 
 $l['error_activated_by_admin'] = "Você não pode reenviar seu e-mail de ativação pois todos os registros devem ser aprovados por um administrador.";
-$l['error_alreadyregistered'] = "Desculpe, mas nosso sistema mostra que você já registrou-se neste fórum e o registro de múltiplas contas foi desativado.";
+$l['error_alreadyregistered'] = "Desculpe, mas nosso sistema informa que você já se registrou neste fórum e o registro de múltiplas contas não é permitido.";
 $l['error_alreadyregisteredtime'] = "Não podemos processar sua inscrição porque já houve {1} novo(s) registro(s) a partir de seu endereço IP na(s) última(s) {2} hora(s). Por favor, tente novamente mais tarde.";
 $l['error_badlostpwcode'] = "Parece que você informou um código inválido para redefinição de senha. Por favor, leia novamente o e-mail que foi enviado ou entre em contato com um administrador para mais ajuda.";
 $l['error_badactivationcode'] = "Você digitou um código de ativação de conta inválido. Para reenviar todos e-mails de ativação para o e-email em arquivo, por favor, clique <a href=\"member.php?action=resendactivation\">aqui</a>.";
@@ -232,7 +232,7 @@ $l['error_question_wrong'] = "A resposta que você forneceu para a questão da s
 
 $l['subscription_method'] = "Modo Padrão de Subscrição de Tópico:";
 $l['no_auto_subscribe'] = "Não subscrever";
-$l['no_subscribe'] = "Não notificar";
+$l['no_subscribe'] = "Subscrever sem notificação";
 $l['instant_email_subscribe'] = "Notificação instantânea por e-mail";
 $l['instant_pm_subscribe'] = "Notificação instantânea por MP";
 
