@@ -12,6 +12,7 @@ MyCode > MyCode
 Notes > Notas > Anotações
 Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
+Referral > Referência > Indicação
 Restore > Restaurar > Recuperar
 Smiles > Carinhas
 Source Mode > Modo Fonte > Modo Código
