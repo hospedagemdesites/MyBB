@@ -194,9 +194,9 @@ $l['redirect_searchresults'] = "Obrigado, a sua pesquisa foi submetida e você v
 
 $l['quick_reply'] = "Resposta Rápida";
 $l['message_note'] = "Digite sua resposta para esta mensagem aqui.";
-$l['send_reply'] = "Enviar Resposa";
+$l['send_reply'] = "Enviar Resposta";
 $l['quickreply_signature'] = "Assinatura";
 $l['quickreply_disable_smilies'] = "Desativar Carinhas";
 $l['quickreply_save_copy'] = "Salvar uma Cópia";
-$l['quickreply_read_receipt'] = "<strong>Solicitar Confirmação de Leitura</strong>";
+$l['quickreply_read_receipt'] = " <strong>Solicitar Confirmação de Leitura</strong>";
 

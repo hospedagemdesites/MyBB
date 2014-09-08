@@ -178,7 +178,7 @@ $l['date_format_desc'] = "A data será exibida em";
 $l['time_format'] = "Formato da Hora:";
 $l['time_format_desc'] = "A hora será exibida em";
 $l['time_offset'] = "Fuso Horário (sem a correção de <acronym title=\"Horário de Verão\">Horário de Verão</acronym>):";
-$l['time_offset_desc'] = "Escolha o fuso horário da lista em baixo:";
+$l['time_offset_desc'] = "Escolha o fuso horário na lista abaixo:";
 $l['gmt'] = "GMT";
 $l['dst_correction'] = "Correção do Horário de Verão:";
 $l['dst_correction_auto'] = "Detectar Automaticamente";

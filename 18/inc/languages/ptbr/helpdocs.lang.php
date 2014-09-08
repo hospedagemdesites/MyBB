@@ -8,7 +8,7 @@
 // Help Document 1
 $l['d1_name'] = "Registro de Usuário";
 $l['d1_desc'] = "Vantagens e privilégios para registo de usuário.";
-$l['d1_document'] = "Algumas partes deste fórum podem exigir que você seja registrado e esteja logado. O registo é gratuito e leva apenas alguns minutos para completar.
+$l['d1_document'] = "Algumas partes deste fórum podem exigir que você seja Registrado e tenha Entrado. O registo é gratuito e leva apenas alguns minutos para completar.
 <br /><br />Recomendamos que se registre-se; uma vez registrado você poderá postar mensagens, definir suas preferências e manter um perfil.
 <br /><br />Algumas das características que geralmente exigem registro são assinaturas, alteração de estilos, acessar seu bloco de notas pessoal e enviá-lo aos membros do fórum.";
 

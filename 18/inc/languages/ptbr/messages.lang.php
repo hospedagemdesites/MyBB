@@ -49,8 +49,8 @@ $l['error_nousername'] = "Você não digitou um nome de usuário.";
 $l['error_invalidusername'] = "O nome de usuário que você digitou parece ser inválido.";
 $l['error_invalidpassword'] = "A senha digitada está incorreta. Se você esqueceu sua senha, clique <a href=\"member.php?action=lostpw\">aqui</a>. Caso contrário, volte e tente novamente.";
 $l['error_postflooding'] = "Lamentamos mas não podemos processar sua postagem. O administrador especificou que você só pode postar uma vez cada {1} segundos.";
-$l['error_nopermission_guest_1'] = "Ou você não está logado ou não tem permissão para ver esta página. Isto pode ser por um dos seguintes motivos:";
-$l['error_nopermission_guest_2'] = "Você não está logado ou registrado. Por favor, utilize o formulário na parte inferior desta página para identificar-se.";
+$l['error_nopermission_guest_1'] = "Ou você não está identificado ou não tem permissão para ver esta página. Isto pode ser por um dos seguintes motivos:";
+$l['error_nopermission_guest_2'] = "Você não está identificado ou registrado. Por favor, utilize o formulário na parte inferior desta página para identificar-se.";
 $l['error_nopermission_guest_3'] = "Você não tem permissão para acessar esta página. Você está tentando acessar páginas administrativas ou um recurso a qual você não deveria?  Verifique nas regras do fórum se você tem permissão para executar esta ação.";
 $l['error_nopermission_guest_4'] = "Sua conta foi desativada por um administrador, ou ele pode estar aguardando ativação de conta.";
 $l['error_nopermission_guest_5'] = "Você acessou esta página diretamente, em vez de usar formas adequadas ou links.";
@@ -64,8 +64,8 @@ $l['error_nopermission_user_3'] = "Você não tem permissão para acessar esta p
 $l['error_nopermission_user_4'] = "Sua conta pode estar ainda aguardando ativação ou moderação.";
 $l['error_nopermission_user_5'] = "Você acessou esta página diretamente, em vez de usar formas adequadas ou link.";
 $l['error_nopermission_user_resendactivation'] = "Reenviar código de ativação";
-$l['error_nopermission_user_username'] = "Você está atualmente logado com o nome de usuário: '{1}'";
-$l['logged_in_user'] = "Usuário logado";
+$l['error_nopermission_user_username'] = "Você está atualmente identificado com o nome de usuário: '{1}'";
+$l['logged_in_user'] = "Usuário identificado";
 $l['error_too_many_images'] = "Muitas imagens.";
 $l['error_too_many_images2'] = "Lamentamos, mas não podemos processar sua postagem pois ela contém muitas imagens. Por favor, retire algumas imagens de sua postagem para continuar.";
 $l['error_too_many_images3'] = "<b>Nota:</b> A quantidade máxima de imagens por postagem é";
@@ -165,7 +165,7 @@ Sua senha no {2} foi redefinida.
 
 Sua nova senha é: {3}
 
-Você precisará desta senha para identificar-se (logar) no forum. Uma vez logado, você deverá alterá-la no seu Painel de Controle do Usuário.
+Você precisará desta senha para identificar-se (logar) no fórum. Uma vez logado, você deverá alterá-la no seu Painel de Controle do Usuário.
 
 Atenciosamente,
 Equipe do {2}";
