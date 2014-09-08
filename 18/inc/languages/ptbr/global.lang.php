@@ -73,7 +73,7 @@ $l['login_username2'] = "Nome de Usuário/E-mail:";
 $l['login_password'] = "Senha:";
 $l['lost_password'] = "Perdeu a Senha?";
 $l['remember_me'] = "Lembrar-me";
-$l['remember_me_desc'] = "Se marcada, seus detalhes de login serão lembrados neste computador, caso contrário, você se desconectará do fórum assim que fechar o navegador.";
+$l['remember_me_desc'] = "Se marcada, seus detalhes de acesso serão lembrados neste computador, caso contrário, você se desconectará do fórum assim que fechar o navegador.";
 
 $l['month_1'] = "Janeiro";
 $l['month_2'] = "Fevereiro";
@@ -338,7 +338,7 @@ $l['seconds'] = "Segundos";
 $l['seconds_short'] = "s";
 
 $l['rel_in'] = "Em ";
-$l['rel_ago'] = "de idade";
+$l['rel_ago'] = "atrás";
 $l['rel_less_than'] = "Menos de ";
 $l['rel_time'] = "{1}{2} {3} {4}";
 $l['rel_minutes_single'] = "minuto";

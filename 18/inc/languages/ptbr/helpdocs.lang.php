@@ -20,7 +20,7 @@ $l['d2_document'] = "Em algum momento durante a sua estadia, você pode decidir 
 // Help Document 3
 $l['d3_name'] = "Utilização dos Cookies no MyBB";
 $l['d3_desc'] = "O MyBB usa cookies para armazenar determinadas informações sobre seu registro.";
-$l['d3_document'] = "O MyBB faz uso dos cookies para armazenar suas informações de login, se você está registrado, e a sua última visita, se você não está.
+$l['d3_document'] = "O MyBB faz uso dos cookies para armazenar suas informações de acesso, se você está registrado, e a sua última visita, se você não está.
 <br /><br />Cookies são pequenos documentos de texto armazenados em seu computador; os cookies definidos por este fórum somente podem ser utilizados por este website e não representam nenhum risco.
 <br /><br />Cookies neste fórum também rastreiam os tópicos específicos que você leu e quando os leu por último.
 <br /><br />Para limpar todos os cookies definidos por este fórum, você pode clicar <a href=\"misc.php?action=clearcookies&amp;key={1}\">aqui</a>.";
@@ -29,7 +29,7 @@ $l['d3_document'] = "O MyBB faz uso dos cookies para armazenar suas informaçõe
 $l['d4_name'] = "Entrando e Saindo";
 $l['d4_desc'] = "Como entrar e sair.";
 $l['d4_document'] = "Quando você entra, você define um cookie em sua máquina para que você possa visualizar os fóruns sem ter que digitar sempre seu nome de usuário e senha a cada acesso. Sair limpa esses cookies para garantir que ninguém mais possa visualizar o fórum como se fosse você.
-<br /><br />Para entrar, basta clicar no link de login no canto superior direito do fórum. Para sair, clique em link sair no mesmo lugar. No caso de você não poder sair, limpar os cookies em sua máquina terá o mesmo efeito.";
+<br /><br />Para entrar, basta clicar no link de acesso no canto superior direito do fórum. Para sair, clique em link sair no mesmo lugar. No caso de você não poder sair, limpar os cookies em sua máquina terá o mesmo efeito.";
 
 // Help Document 5
 $l['d5_name'] = "Postando um novo tópico";

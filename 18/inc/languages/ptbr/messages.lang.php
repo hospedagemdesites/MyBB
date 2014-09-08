@@ -54,7 +54,7 @@ $l['error_nopermission_guest_2'] = "Você não está logado ou registrado. Por f
 $l['error_nopermission_guest_3'] = "Você não tem permissão para acessar esta página. Você está tentando acessar páginas administrativas ou um recurso a qual você não deveria?  Verifique nas regras do fórum se você tem permissão para executar esta ação.";
 $l['error_nopermission_guest_4'] = "Sua conta foi desativada por um administrador, ou ele pode estar aguardando ativação de conta.";
 $l['error_nopermission_guest_5'] = "Você acessou esta página diretamente, em vez de usar formas adequadas ou links.";
-$l['login'] = "Login";
+$l['login'] = "Entrar";
 $l['need_reg'] = "Precisa se registrar?";
 $l['forgot_password'] = "Esqueceu sua senha?";
 $l['error_nopermission_user_1'] = "Você não tem permissão para acessar esta página. Isto pode ser devido a um dos seguintes motivos:";
@@ -177,7 +177,7 @@ Obrigado por registar-se no {2}. Abaixo está o seu nome de usuário e a senha g
 Nome de Usuário: {3}
 Senha: {4}
 
-É recomendável que você altere sua senha imediatamente depois que você efetuar login. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
+É recomendável que você altere sua senha imediatamente depois que você entrar. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
 
 Atenciosamente,
 Equipe do {2}";
@@ -189,7 +189,7 @@ Obrigado por se registar no {2}. Abaixo está o seu nome de usuário e a senha g
 Seu endereço de e-mail
 Senha: {4}
 
-É recomendável que você altere sua senha imediatamente depois que você efetuar login. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
+É recomendável que você altere sua senha imediatamente depois que você entrar. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
 
 Atenciosamente,
 Equipe do {2}";
@@ -201,7 +201,7 @@ Obrigado por se registar no {2}. Abaixo está o seu nome de usuário e a senha g
 Nome de Usuário: {3} (Ou seu endereço de e-mail)
 Senha: {4}
 
-É recomendável que você altere sua senha imediatamente depois que você efetuar login. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
+É recomendável que você altere sua senha imediatamente depois que você entrar. Você pode fazer isso acessando seu Painel de Controle do Usuário e depois clicando em alterar senha no menu à esquerda.
 
 Atenciosamente,
 Equipe do {2}";
