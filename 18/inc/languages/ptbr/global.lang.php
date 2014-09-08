@@ -31,7 +31,7 @@ $l['welcome_newposts'] = "Ver Novas Postagens";
 $l['welcome_todaysposts'] = "Ver Postagens de Hoje";
 $l['welcome_pms'] = "Mensagens Privadas";
 $l['welcome_pms_usage'] = "(Não lidas {1}, Total {2})";
-$l['welcome_back'] = "<strong>Bemvindo novamente, {1}</strong>. Sua última visita: {2}";
+$l['welcome_back'] = "<strong>Bem-vindo novamente, {1}</strong>. Sua última visita: {2}";
 $l['welcome_guest'] = "Olá, visitante!";
 $l['welcome_current_time'] = "<strong>Hora atual:</strong> {1}";
 
@@ -122,7 +122,7 @@ $l['add_attachment'] = "Adicionar Anexo";
 $l['update_attachment'] = "Atualizar Anexo";
 $l['post_preview'] = "Prever";
 $l['change_user'] = "Alterar usuário";
-$l['post_icon'] = "Postar ícone:";
+$l['post_icon'] = "Ícone:";
 $l['no_post_icon'] = "sem ícone";
 $l['thread_subscription_method'] = "Subscrição de Tópico:";
 $l['thread_subscription_method_desc'] = "Especifica o tipo de notificação e subscrição que você gostaria de ter para esse tópico. (Apenas para usuários registados)";
@@ -357,7 +357,7 @@ $l['banned_lifted_never'] = "Nunca";
 $l['banned_email_warning'] = "Você está usando um e-mail que não é permitido neste fórum. Por favor, redefini-o antes de continuar.";
 $l['powered_by'] = "Powered By";
 $l['copyright'] = "Copyright";
-$l['attach_quota'] = "Atualmente você está usando <strong>{1}</strong> de seu uso alocado para anexos ({2})";
+$l['attach_quota'] = "Atualmente você está usando <strong>{1}</strong> de seu espaço reservado para anexos ({2})";
 $l['view_attachments'] = "[Visualizar meus anexos]";
 $l['unlimited'] = "Ilimitado";
 

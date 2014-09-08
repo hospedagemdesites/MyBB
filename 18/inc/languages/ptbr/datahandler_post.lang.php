@@ -6,8 +6,8 @@
  */
 
 $l['postdata_invalid_user_id'] = 'A id de usuário não existe. Por favor forneça uma id de usuário válida.';
-$l['postdata_firstpost_no_subject'] = 'O tópico não tem um assunto. Por favor, digite um assunto.';
-$l['postdata_missing_subject'] = 'O assunto está faltando. Por favor, digite um assunto.';
+$l['postdata_firstpost_no_subject'] = 'O tópico não tem um título. Por favor, digite um título.';
+$l['postdata_missing_subject'] = 'O título está faltando. Por favor, digite um título.';
 $l['postdata_missing_message'] = 'A mensagem está faltando. Por favor digite uma mensagem.';
 $l['postdata_message_too_long'] = 'A mensagem é muito longa. Por favor digite uma mensagem mais curta do que {1} caracteres (atualmente {2}).';
 $l['postdata_message_too_short'] = 'A mensagem é muito curta. Por favor digite uma mensagem com mais do que {1} caracteres.';

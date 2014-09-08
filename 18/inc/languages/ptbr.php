@@ -18,7 +18,7 @@ $langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/";
 $langinfo['version'] = "1800";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
-$langinfo['admin'] = 1;
+$langinfo['admin'] = 0;
 
 // Sets if the language is RTL (Right to Left) (1 = yes, 0 = no)
 $langinfo['rtl'] = 0;
