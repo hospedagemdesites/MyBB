@@ -14,7 +14,9 @@ Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Restore > Restaurar > Recuperar
 Smiles > Carinhas
+Source Mode > Modo Fonte > Modo Código
 Subscription > Subscrição > Assinatura
+Summary > Sumário > Resumo
 Tracking > Rastremaneto > Seguir
 Unapproved > Desaprovado > Não Aprovado
 View / Viewing > Visualizar / Visualizando > ver / Vendo
