@@ -2,44 +2,44 @@
 /**
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
- * Traduzido por "" ""
+ * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['no_new_subject'] = "You did not enter a new subject.";
-$l['post_moderation'] = "Your post is now under moderation.";
-$l['thread_moderation'] = "Your thread is now under moderation.";
-$l['post_doesnt_exist'] = "The specified post does not exist.";
-$l['thread_doesnt_exist'] = "The specified thread does not exist.";
-$l['thread_closed_edit_subjects'] = "This thread is closed and you may not edit subjects.";
-$l['no_permission_edit_subject'] = "You do not have permission to edit this thread subject.";
-$l['thread_closed_edit_message'] = "This thread is closed and you may not edit messages within it.";
-$l['no_permission_edit_post'] = "You do not have permission to edit this message.";
-$l['edit_time_limit'] = "You can only edit messages for {1} minutes after they were posted.";
-$l['postbit_edited'] = "This post was last modified: {1} by";
-$l['postbit_editreason'] = "Edit Reason";
-$l['save_changes'] = "Save Changes";
-$l['cancel_edit'] = "Cancel Edit";
-$l['answer_valid_not_exists'] = "The question you are trying to answer does not exist.";
-$l['captcha_not_exists'] = "The image verification image you are trying to refresh does not exist.";
-$l['captcha_valid_not_exists'] = "The image verification image you are trying to check does not seem to exist.";
-$l['captcha_does_not_match'] = "The image verification code that you entered was incorrect. Please enter the code exactly how it appears in the image.";
-$l['captcha_matches'] = "The image verification code you entered was correct.";
-$l['answer_does_not_match'] = "The answer you entered is not correct.";
-$l['banned_username'] = "The username you entered has been disallowed by the administrator";
-$l['banned_characters_username'] = "Your username contains one or more invalid characters";
-$l['complex_password_fails'] = "Password requires an upper case letter, lower case letter and a number";
-$l['username_taken'] = "{1} is already registered by another member";
-$l['username_available'] = "{1} is available";
-$l['invalid_username'] = "{1} is not the username of a registered member";
-$l['valid_username'] = "{1} is a valid referrer.";
-$l['buddylist_error'] = "It seems like you do not have any buddies on your buddy list. Please add some before trying to use this.";
-$l['close'] = "Close";
-$l['select_buddies'] = "Select Buddies";
-$l['select_buddies_desc'] = "To add one or more of your buddies as recipients, select them below and click OK.";
-$l['selected_recipients'] = "Selected recipients";
+$l['no_new_subject'] = "Você não inseriu um novo assunto.";
+$l['post_moderation'] = "Sua postagem está agora sob moderação.";
+$l['thread_moderation'] = "Seu tópico está agora sob moderação.";
+$l['post_doesnt_exist'] = "A postagem especificada não existe.";
+$l['thread_doesnt_exist'] = "O tópico especificado não existe.";
+$l['thread_closed_edit_subjects'] = "Este tópico está fechado e você não pode editar os assuntos.";
+$l['no_permission_edit_subject'] = "Você não tem permissão para editar o assunto deste tópico.";
+$l['thread_closed_edit_message'] = "Este tópico está fechado e você não pode editar as mensagens nele.";
+$l['no_permission_edit_post'] = "Você não tem permissão para editar esta mensagem.";
+$l['edit_time_limit'] = "Você apenas pode editar mensagens durante {1} minutos após terem sido postadas.";
+$l['postbit_edited'] = "Esta postagem foi editada a: {1} por";
+$l['postbit_editreason'] = "Razão de Editar";
+$l['save_changes'] = "Salvar Alterações";
+$l['cancel_edit'] = "Cancelar Edição";
+$l['answer_valid_not_exists'] = "A questão que está tentando responder não existe.";
+$l['captcha_not_exists'] = "A imagem de verificação que está tentando atualizar não existe.";
+$l['captcha_valid_not_exists'] = "A imagem de verificação que você está tentando verificar, não existe.";
+$l['captcha_does_not_match'] = "O código da imagem de verificação que você inseriu está incorreto. Por favor, insira o código tal como é exibido na imagem.";
+$l['captcha_matches'] = "O código da imagem de verificação que inseriu está correto.";
+$l['answer_does_not_match'] = "A resposta que você inseriu não está correta.";
+$l['banned_username'] = "O nome de usuário escolhido foi bloqueado por um administrador";
+$l['banned_characters_username'] = "O seu nome de usuário contém um ou mais caracteres inválidos";
+$l['complex_password_fails'] = "A Senha requer uma letra maiúscula, letra minúscula e um número";
+$l['username_taken'] = "{1} já foi registado por outro membro";
+$l['username_available'] = "{1} está disponível";
+$l['invalid_username'] = "{1} não é um nome de usuário de um membro registrado";
+$l['valid_username'] = "{1} é uma referência válida.";
+$l['buddylist_error'] = "Parece que você não tem quaisquer amigos na sua lista de amigos. Por favor, adicione alguns antes de utilizar esta funcionalidade.";
+$l['close'] = "Fechar";
+$l['select_buddies'] = "Selecionar Amigos";
+$l['select_buddies_desc'] = "Para adicionar um ou mais amigos como recipientes, selecione-os abaixo e clique OK.";
+$l['selected_recipients'] = "Destinatários selecionados";
 $l['ok'] = "OK";
-$l['cancel'] = "Cancel";
+$l['cancel'] = "Cancelar";
 $l['online'] = "Online";
 $l['offline'] = "Offline";
-$l['edited_post'] = "Edited Post";
-$l['usergroup'] = "Usergroup";
+$l['edited_post'] = "Postagens Editadas";
+$l['usergroup'] = "Grupo de Usuários";
