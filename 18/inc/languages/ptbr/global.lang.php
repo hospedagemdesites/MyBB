@@ -475,7 +475,7 @@ $l['task_threadviews_ran'] = "A tarefa de visualizações de tópicos ocorreu co
 $l['task_usercleanup_ran'] = "A tarefa de limpeza de usuários ocorreu com sucesso.";
 $l['task_massmail_ran'] = "A tarefa de e-mail em massa ocorreu com sucesso.";
 $l['task_userpruning_ran'] = "A tarefa de aparação de usuários ocorreu com sucesso.";
-$l['task_delayedmoderation_ran'] = "A tarefa de moderação atrasada ocorreu com sucesso.";
+$l['task_delayedmoderation_ran'] = "A tarefa de moderação adiada ocorreu com sucesso.";
 $l['task_massmail_ran_errors'] = "Um ou mais problemas ocorreram enviando para \"{1}\":
 {2}";
 $l['task_versioncheck_ran'] = "A tarefa de verificação de versão foi executada com sucesso.";
