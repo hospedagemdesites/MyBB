@@ -5,6 +5,7 @@ Avatar > Imagem de Exibição
 Avisos > Advertências
 Delayed > Atrasada > Adiada
 Inline > Em Linha
+Locked > Bloqueado / Trancado
 Login > Identificar-se > Entrar
 Logout > Sair
 Merge > Unir > Mesclar
@@ -14,6 +15,7 @@ Poll > Enquete > Votação
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
 Referral > Referência > Indicação
 Restore > Restaurar > Recuperar
+Request > Solicitação / Pedido
 Smiles > Carinhas
 Source Mode > Modo Fonte > Modo Código
 Subscription > Subscrição > Assinatura
