@@ -29,7 +29,7 @@ $l['image_verification'] = "Imagem de Verificação";
 $l['verification_note'] = "Por favor, insira o texto contido dentro da imagem na caixa de texto abaixo. Este processo é usado para evitar mensagens automáticas.";
 $l['verification_subnote'] = "(maiúsculas e minúsculas)";
 $l['invalid_captcha'] = "O código de verificação de imagem que você informou estava incorreto. Por favor, digite o código exatamente como ele aparece na imagem.";
-$l['error_post_already_submitted'] = "Você já postou este tópico neste fórum. Por favor, visite o fórum para ver seu tópico.";
+$l['error_post_already_submitted'] = "Você já postou este tópico neste fórum. Por favor, visite o fórum para visualizar seu tópico.";
 $l['no_prefix'] = "Nenhum prefixo";
 $l['forum_rules'] = "{1} - Regras";
 

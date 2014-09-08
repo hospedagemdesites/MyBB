@@ -116,7 +116,7 @@ $l['attachments_desc'] = "Opcionalmente, você pode anexar um ou mais anexos a e
 $l['remove_attachment'] = "Remover";
 $l['approve_attachment'] = "Aprovar";
 $l['unapprove_attachment'] = "Reprovar";
-$l['insert_attachment_post'] = "Inserir na Postagem";
+$l['insert_attachment_post'] = "Inserir na Mensagem";
 $l['new_attachment'] = "Novo Anexo:";
 $l['add_attachment'] = "Adicionar Anexo";
 $l['update_attachment'] = "Atualizar Anexo";
@@ -200,7 +200,7 @@ $l['editor_enteremail'] = "Digite o Endereço de e-mail:";
 $l['editor_enterdisplayedtext'] = "Digite o Texto de exibição:";
 $l['editor_enterurl'] = "Digite a URL:";
 $l['editor_enteryoutubeurl'] = "Digite a URL ou o ID do vídeo do YouTube:";
-$l['editor_insertquote'] = "Digite a Citação";
+$l['editor_insertquote'] = "Inserir uma Citação";
 $l['editor_invalidyoutube'] = "Vídeo do YouTube inválido";
 $l['editor_dailymotion'] = "Dailymotion";
 $l['editor_metacafe'] = "MetaCafe";
@@ -264,7 +264,7 @@ $l['postbit_quick_edit'] = "Edição Rápida";
 $l['postbit_full_edit'] = "Edição Completa";
 $l['postbit_show_ignored_post'] = "Mostrar esta postagem";
 $l['postbit_currently_ignoring_user'] = "O conteúdo desta mensagem está escondido, porque {1} está em sua <a href=\"usercp.php?action=editlists\">lista de ignorados</a>.";
-$l['postbit_warning_level'] = "Nível de Avisos:";
+$l['postbit_warning_level'] = "Nível de Advertências:";
 $l['postbit_warn'] = "Avisar o autor por esta postagem";
 $l['postbit_purgespammer'] = "Remover Spammer";
 
@@ -300,7 +300,7 @@ $l['unknown_error'] = "Um erro desconhecido ocorreu.";
 $l['post_fetch_error'] = 'Houve um erro ao buscar as postagens.';
 
 $l['smilieinsert'] = "Carinhas";
-$l['smilieinsert_getmore'] = "pegar mais";
+$l['smilieinsert_getmore'] = "Mostrar todos";
 $l['on'] = "Ligado";
 $l['off'] = "Desligado";
 $l['unread_report'] = "Aviso ao moderador: Há 1 denúncia não lida.";
@@ -338,7 +338,7 @@ $l['seconds'] = "Segundos";
 $l['seconds_short'] = "s";
 
 $l['rel_in'] = "Em ";
-$l['rel_ago'] = "idade";
+$l['rel_ago'] = "de idade";
 $l['rel_less_than'] = "Menos de ";
 $l['rel_time'] = "{1}{2} {3} {4}";
 $l['rel_minutes_single'] = "minuto";
@@ -405,7 +405,7 @@ $l['error_cannot_upload_php_post'] = "Não é possível fazer upload de arquivos
 $l['error_database_repair'] = "MyBB está automaticamente reparando uma tabela danificada.";
 
 $l['unknown_user_trigger'] = "Um erro desconhecido foi acionado.";
-$l['warnings'] = "Os seguintes avisos ocorreram:";
+$l['warnings'] = "As seguintes advertências ocorreram:";
 
 $l['ajax_loading'] = "Carregando. <br />Por favor, aguarde..";
 $l['saving_changes'] = "Salvando alterações..";
