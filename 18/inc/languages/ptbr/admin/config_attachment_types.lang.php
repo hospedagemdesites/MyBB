@@ -1,44 +1,44 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago "ArnodLayne-xXx" http://portal.bf4brasil.com.br/
  */
 
-$l['attachment_types'] = "Attachment Types";
-$l['attachment_types_desc'] = "Here you can create and manage attachment types which define which types of files users can attach to posts.";
-$l['add_new_attachment_type'] = "Add New Attachment Type";
-$l['add_attachment_type'] = "Add Attachment Type";
-$l['add_attachment_type_desc'] = "Adding a new attachment type will allow members to attach files of this type to their posts. You have the ability to control the extension, MIME type, maximum size and show a small icon for each attachment type.";
-$l['edit_attachment_type'] = "Edit Attachment Type";
-$l['edit_attachment_type_desc'] = "You have the ability to control the extension, MIME type, maximum size and show a small MIME type for this attachment type.";
+$l['attachment_types'] = "Tipos de anexos";
+$l['attachment_types_desc'] = "Aqui você pode criar e gerenciar tipos de anexos que definem quais tipos de arquivos os usuários podem anexar a mensagens.";
+$l['add_new_attachment_type'] = "Adicionar Novo tipo de anexo";
+$l['add_attachment_type'] = "Adicionar tipo de anexo";
+$l['add_attachment_type_desc'] = "Adicionando um tipo de anexo você permitirá aos seus usuários anexarem este tipo de arquivo nas mensagens. Você pode controlar esta extensão através da norma MIME , tamanho máximo e mostrar um pequeno ícone para cada tipo de arquivo.";
+$l['edit_attachment_type'] = "Editar Tipo de Anexo";
+$l['edit_attachment_type_desc'] = "Você tem a capacidade de controlar a extensão, norma MIME, o tamanho máximo e mostrar uma pequena norma MIME para este tipo de anexo.";
 
-$l['extension'] = "Extension";
-$l['maximum_size'] = "Maximum Size";
-$l['no_attachment_types'] = "There are no attachment types on your forum at this time.";
+$l['extension'] = "Extensão";
+$l['maximum_size'] = "Tamanho Máximo;
+$l['no_attachment_types'] = "Neste momento não existem tipos de anexos em seu fórum.";
 
-$l['name'] = "Name";
-$l['name_desc'] = "Enter the name of the attachment type.";
-$l['file_extension'] = "File Extension";
-$l['file_extension_desc'] = "Enter the file extension you wish to allow uploads for here (Do not include the period before the extension) (Example: txt)";
-$l['mime_type'] = "MIME Type";
-$l['mime_type_desc'] = "Enter the MIME type sent by the server when downloading files of this type (<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">See a list here</a>)";
-$l['maximum_file_size'] = "Maximum File Size (Kilobytes)";
-$l['maximum_file_size_desc'] = "The maximum file size for uploads of this attachment type in Kilobytes (1 MB = 1024 KB)";
-$l['limit_intro'] = "Please ensure the maximum file size is below the smallest of the following PHP limits:";
-$l['limit_post_max_size'] = "Max Post Size: {1}";
-$l['limit_upload_max_filesize'] = "Upload Max File Size: {1}";
-$l['attachment_icon'] = "Attachment Icon";
-$l['attachment_icon_desc'] = "If you wish to show a small attachment icon for attachments of this type then enter the path to it here. {theme} will be replaced by the image directory for the viewers theme allowing you to specify per-theme attachment icons.";
-$l['save_attachment_type'] = "Save Attachment Type";
+$l['name'] = "Nome";
+$l['name_desc'] = "Insira o nome do tipo de anexo.";
+$l['file_extension'] = "Extensão de Arquivo";
+$l['file_extension_desc'] = "Insira a extensão do arquivo que você deseja permitir uploads daqui (Não inclua o período antes da extensão) (Exemplo: txt)";
+$l['mime_type'] = "Norma MIME ";
+$l['mime_type_desc'] = "Insira a norma MIME enviada pelo servidor quando tipos de arquivos forem descarregados pelo usuário.(<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">Veja uma lista aqui</a>)";
+$l['maximum_file_size'] = "Tamanho Máximo de arquivo (Kilobytes)";
+$l['maximum_file_size_desc'] = "O tamanho máximo para upload neste tipo de arquivos em Kilobytes (1 MB = 1024 KB)";
+$l['limit_intro'] = "Por favor, verifique o tamanho máximo do arquivo que deve ser inferior aos limites de envio em seu PHP:";
+$l['limit_post_max_size'] = "Tamanho máximo de postagem: {1}";
+$l['limit_upload_max_filesize'] = "Tamanho máximo arquivo para envio: {1}";
+$l['attachment_icon'] = "Ícone de Anexo";
+$l['attachment_icon_desc'] = "Se você deseja mostrar um ícone para este tipo de anexo insira o caminho dele aqui. {theme} será substituído pelo diretório de imagem do tema selecionado pelo usuário permitindo especificar ícones de anexos de acordo com o tema escolhido.";
+$l['save_attachment_type'] = "Salvar Tipo de Anexo";
 
-$l['error_invalid_attachment_type'] = "You have selected an invalid attachment type.";
-$l['error_missing_mime_type'] = "You did not enter a MIME type for this attachment type";
-$l['error_missing_extension'] = "You did not enter a file extension for this attachment type";
+$l['error_invalid_attachment_type'] = "Você selecionou um tipo de anexo inválido.";
+$l['error_missing_mime_type'] = "Você não inseriu uma norma MIME para este tipo de anexo.";
+$l['error_missing_extension'] = "Você não inseriu uma extensão de arquivo para este tipo de anexo.";
 
-$l['success_attachment_type_created'] = "The attachment type has been created successfully.";
-$l['success_attachment_type_updated'] = "The attachment type has been updated successfully.";
-$l['success_attachment_type_deleted'] = "The attachment type has been deleted successfully.";
+$l['success_attachment_type_created'] = "O tipo de anexo foi criado com sucesso.";
+$l['success_attachment_type_updated'] = "O tipo de anexo foi atualizado com sucesso.";
+$l['success_attachment_type_deleted'] = "O tipo de anexo foi deletado com sucesso.";
 
-$l['confirm_attachment_type_deletion'] = "Are you sure you wish to delete this attachment type?";
+$l['confirm_attachment_type_deletion'] = "Você deseja excluir este tipo de anexo?";
 
