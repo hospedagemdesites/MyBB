@@ -1,8 +1,8 @@
-Termos a serem substituídos, mediante consulta pública no fórum, para melhoria da tradução com o contexto de um fórum de discussão:
+Termos a serem substituÃ­dos, mediante consulta pÃºblica no fÃ³rum, para melhoria da traduÃ§Ã£o com o contexto de um fÃ³rum de discussÃ£o:
 
-Announcements e Anúncios > Comunicados
-Avatar > Imagem de Exibição
-Avisos > Advertências
+Announcements e AnÃºncios > Comunicados
+Avatar > Imagem de ExibiÃ§Ã£o
+Avisos > AdvertÃªncias
 Delayed > Atrasada > Adiada
 Inline > Em Linha
 Locked > Bloqueado / Trancado
@@ -10,20 +10,21 @@ Login > Identificar-se > Entrar
 Logout > Sair
 Merge > Unir > Mesclar
 MyCode > MyCode
-Notes > Notas > Anotações
-Poll > Enquete > Votação
+Notes > Notas > AnotaÃ§Ãµes
+Poll > Enquete > VotaÃ§Ã£o
 Post / Posts > Postagem / Postagens > Mensagem / Mensagens
-Referral > Referência > Indicação
+Referral > ReferÃªncia > IndicaÃ§Ã£o
 Restore > Restaurar > Recuperar
-Request > Solicitação / Pedido
+Request > SolicitaÃ§Ã£o / Pedido
 Smiles > Carinhas
-Source Mode > Modo Fonte > Modo Código
-Subscription > Subscrição > Assinatura
-Summary > Sumário > Resumo
+Source Mode > Modo Fonte > Modo CÃ³digo
+Subscription > SubscriÃ§Ã£o > Assinatura
+Summary > SumÃ¡rio > Resumo
 Tracking > Rastremaneto > Seguir
-Unapproved > Desaprovado > Não Aprovado
+Unapproved > Desaprovado > NÃ£o Aprovado
 View / Viewing > Visualizar / Visualizando > ver / Vendo
+Banning > Banimento > ExpulsÃ£o
 
-ACP > Painel de Controle da Administração > Painel da Administração
-MCP > Painel de Controle da Moderação > Painel da Moderação
-UCP > Painel de Controle do Usuário > Painel de Controle
+ACP > Painel de Controle da AdministraÃ§Ã£o > Painel da AdministraÃ§Ã£o
+MCP > Painel de Controle da ModeraÃ§Ã£o > Painel da ModeraÃ§Ã£o
+UCP > Painel de Controle do UsuÃ¡rio > Painel de Controle
