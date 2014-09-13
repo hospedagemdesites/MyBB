@@ -1,35 +1,35 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago "ArnoldLayne-xXx" http://portal.bf4brasil.com.br/
  */
 
-$l['bad_words'] = "Word Filters";
-$l['edit_bad_word'] = "Edit Filter";
-$l['edit_bad_word_desc'] = "Here you can edit the filter and its replacement.";
-$l['bad_word_filters'] = "Word Filters";
-$l['bad_word_filters_desc'] = "This feature allows you to manage a listing of words or phrases which are automatically replaced in posts on your forum. It is useful for replacing swear words and such.";
+$l['bad_words'] = "Palavras Proibidas";
+$l['edit_bad_word'] = "Editor de Filtros";
+$l['edit_bad_word_desc'] = "Aqui você pode editar o filtro e seu substituto.";
+$l['bad_word_filters'] = "Palavras Proibidas";
+$l['bad_word_filters_desc'] = "Este recurso permite que você gerencie uma lista de palavras ou frases que são automaticamente substituídos em posts em seu fórum. É útil para substituir palavrões e etc";
 
-$l['bad_word'] = "Word";
-$l['bad_word_desc'] = "Enter the word which you wish to be filtered. The '*' character represents any single character (a-zA-Z0-9_).";
-$l['bad_word_max'] = "A filtered word can't be longer than 100 characters.";
-$l['replacement'] = "Replacement";
-$l['replacement_desc'] = "Enter the string which will replace the filtered word (If this is blank, asterisks will be shown)";
-$l['replacement_word_max'] = "A replacement word can't be longer than 100 characters.";
-$l['error_replacement_word_invalid'] = "A replacement word cannot be equivalent to it's word filter.";
+$l['bad_word'] = "Palavra;
+$l['bad_word_desc'] = "Entre a palavra que você deseja filtrar. O '*' (asterisco) representa qualquer caractere simples (a-zA-Z0-9_).";
+$l['bad_word_max'] = "Uma palavra filtrada não pode ser maio que 100 caracteres.";
+$l['replacement'] = "Substituto";
+$l['replacement_desc'] = "Digite a sequência que irá substituir a palavra filtrada (Se em branco, asteriscos serão mostrados)";
+$l['replacement_word_max'] = "Uma palavra substituída não pode exceder 100 caracteres.";
+$l['error_replacement_word_invalid'] = "Uma palavra substituída não pode ser igual à outra palavra filtrada.";
 
-$l['save_bad_word'] = "Save Filter";
-$l['no_bad_words'] = "There are no word filters currently set at this time.";
-$l['add_bad_word'] = "Add a Filter";
+$l['save_bad_word'] = "Salvar Filtro";
+$l['no_bad_words'] = "Não há filtro de palavras no momento.";
+$l['add_bad_word'] = "Adicionar um filtro";
 
-$l['error_missing_bad_word'] = "You did not enter a word filter.";
-$l['error_invalid_bid'] = "The specified filter does not exist.";
-$l['error_bad_word_filtered'] = "The filter you entered already exists.";
+$l['error_missing_bad_word'] = "Você não inseriu uma palavra filtrada.";
+$l['error_invalid_bid'] = "O filtro especificado não existe";
+$l['error_bad_word_filtered'] = "O filtro especificado já existe";
 
-$l['success_added_bad_word'] = "The filter has been added successfully.";
-$l['success_deleted_bad_word'] = "The filter has been deleted successfully.";
-$l['success_updated_bad_word'] = "The filter has been updated successfully.";
+$l['success_added_bad_word'] = "O filtro foi adicionado com sucesso.";
+$l['success_deleted_bad_word'] = "O filtro foi excluído com sucesso.";
+$l['success_updated_bad_word'] = "O filtro foi atualizado com sucesso";
 
-$l['confirm_bad_word_deletion'] = "Are you sure you wish to delete this filter?";
+$l['confirm_bad_word_deletion'] = "Você realmente deseja excluir este filtro?";
 
