@@ -1,46 +1,46 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx - http://bf4brasil.com.br/
  */
 
-$l['banning'] = "Banning";
-$l['banned_ips'] = "Banned IPs";
-$l['banned_ips_desc'] = "Here you can manage IP addresses which are banned from accessing your board.";
-$l['banned_accounts'] = "Banned Accounts";
-$l['disallowed_usernames'] = "Disallowed Usernames";
-$l['disallowed_usernames_desc'] = "Here you manage a list of usernames which cannot be registered or used by users. This feature is also particularly useful for reserving usernames.";
-$l['disallowed_email_addresses'] = "Disallowed Email Addresses";
-$l['disallowed_email_addresses_desc'] = "Here you manage a list of email addresses which cannot be registered or used by users.";
+$l['banning'] = "Bloqueados";
+$l['banned_ips'] = "IP´s bloqueados";
+$l['banned_ips_desc'] = "Aqui você pode gerenciar endereços de IP que estão bloqueados acessando o seu fórum.";
+$l['banned_accounts'] = "Contas Bloqueadas";
+$l['disallowed_usernames'] = "Nome de Usuários não permitidos";
+$l['disallowed_usernames_desc'] = "Aqui você gerenciar uma lista de nomes de usuários que não podem ser registradas ou utilizadas pelos usuários. Esse recurso também é particularmente útil para a reserva de nome de usuários.";
+$l['disallowed_email_addresses'] = "Endereços de emails não permitidos";
+$l['disallowed_email_addresses_desc'] = "Aqui você pode gerenciar uma lista de emails que não podem ser registrados ou usados pelos usuários.";
 
-$l['banned_ip_addresses'] = "Banned IP Addresses";
-$l['username'] = "Username";
-$l['date_disallowed'] = "Date Disallowed";
-$l['last_attempted_use'] = "Last Attempted Use";
-$l['email_address'] = "Email Address";
-$l['ip_address'] = "IP Address";
-$l['ban_date'] = "Ban Date";
-$l['last_access'] = "Last Access";
-$l['no_bans'] = "There are no bans currently set at this time.";
-$l['add_disallowed_username'] = "Add a Disallowed Username";
-$l['username_desc'] = "Note: To indicate a wild card match, use *";
-$l['disallow_username'] = "Disallow Username";
-$l['add_disallowed_email_address'] = "Add a Disallowed Email Address";
-$l['email_address_desc'] = "Note: To indicate a wild card match, use *";
-$l['disallow_email_address'] = "Disallow Email Address";
-$l['ban_an_ip_address'] = "Ban an IP Address";
-$l['ip_address_desc'] = "Note: To ban a range of IP addresses use * (Ex: 127.0.0.*) or CIDR notation (Ex: 127.0.0.0/8)";
-$l['ban_ip_address'] = "Ban IP Address";
+$l['banned_ip_addresses'] = "Endereços de IP´s bloqueados";
+$l['username'] = "Nome de Usuário";
+$l['date_disallowed'] = "Data não permitida";
+$l['last_attempted_use'] = "Última tentativa de uso";
+$l['email_address'] = "Endereço de Email";
+$l['ip_address'] = "Endereço de IP";
+$l['ban_date'] = "Data de Bloqueio";
+$l['last_access'] = "Último acesso";
+$l['no_bans'] = "Não há contas bloqueios no momento.";
+$l['add_disallowed_username'] = "Adicionar um nome de usuário não permitido";
+$l['username_desc'] = "Nota: Para indicar um caractere curinga, use *";
+$l['disallow_username'] = "Nome de usuário não permitido";
+$l['add_disallowed_email_address'] = "Adicionar um endereço de email não permitido";
+$l['email_address_desc'] = "Nota: Para indicar um caractere curinga, use *";
+$l['disallow_email_address'] = "Endereço de Email não permitidos";
+$l['ban_an_ip_address'] = "Bloquear um endereço de IP";
+$l['ip_address_desc'] = "Note: Para bloquear um intervalo de endereços use * (Ex: 127.0.0.*) ou notação CIDR (Ex: 127.0.0.0/8)";
+$l['ban_ip_address'] = "Endereço de IP bloqueado";
 
-$l['error_missing_ban_input'] = "You did not enter a value to ban.";
-$l['error_invalid_filter'] = "The specified filter does not exist.";
-$l['error_filter_already_banned'] = "The filter you entered is already banned.";
+$l['error_missing_ban_input'] = "Você não digitou um valor para bloquear.";
+$l['error_invalid_filter'] = "O filtro especificado não existe.";
+$l['error_filter_already_banned'] = "O filtro especificado encontra-se bloqueado.";
 
-$l['success_ip_banned'] = "The IP address has been banned successfully.";
-$l['success_username_disallowed'] = "The username has been disallowed successfully.";
-$l['success_email_disallowed'] = "The email address has been disallowed successfully.";
-$l['success_ban_deleted'] = "The specified ban has been deleted successfully.";
+$l['success_ip_banned'] = "O endereço de IP foi bloqueado com sucesso.";
+$l['success_username_disallowed'] = "O nome de usuário foi bloqueado com sucesso.";
+$l['success_email_disallowed'] = "O endereço de email foi bloqueado com sucesso.";
+$l['success_ban_deleted'] = "O bloqueio especificado foi excluído corretamente.";
 
-$l['confirm_ban_deletion'] = "Are you sure you wish to delete this ban?";
+$l['confirm_ban_deletion'] = "Você tem certeza que deseja excluir este bloqueio?";
 
