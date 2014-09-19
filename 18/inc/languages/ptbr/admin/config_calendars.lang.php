@@ -1,68 +1,68 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  *
  */
 
-$l['calendars'] = "Calendars";
-$l['manage_calendars'] = "Manage Calendars";
-$l['manage_calendars_desc'] = "This section allows you to manage the calendars on your board. If you change the display order for one or more calendars make sure you submit the form at the bottom of the page.";
-$l['add_calendar'] = "Add New Calendar";
-$l['add_calendar_desc'] = "Here you can create a new calendar.";
-$l['edit_calendar'] = "Edit Calendar";
-$l['edit_calendar_desc'] = "Here you can edit the settings for this calendar.";
+$l['calendars'] = "Calendários";
+$l['manage_calendars'] = "Gerenciar calendários";
+$l['manage_calendars_desc'] = "Esta sessão permite-lhe gerenciar calendários em seu fórum.Se você mudar a ordem de exibição para um ou mais calendário certifique-se de submeter no formulário no rodapé da página.";
+$l['add_calendar'] = "Adicionar Novo Calendário";
+$l['add_calendar_desc'] = "Aqui você pode criar um novo calendário.";
+$l['edit_calendar'] = "Editar Calendário";
+$l['edit_calendar_desc'] = "Aqui você pode editar as configurações do calendário.";
 
-$l['calendar'] = "Calendar";
-$l['order'] = "Order";
-$l['no_calendars'] = "There are no calendars on your forum at this time.";
-$l['save_calendar_orders'] = "Save Calendar Display Order";
+$l['calendar'] = "Calendário";
+$l['order'] = "Ordenação";
+$l['no_calendars'] = "Não há calendários em seu fórum agora.";
+$l['save_calendar_orders'] = "Salvar Exibição de Ordenação do calendário";
 
-$l['name'] = "Name";
-$l['display_order'] = "Display Order";
-$l['week_start'] = "Start of Week";
-$l['week_start_desc'] = "Here you can set the day weeks should start on for this calendar.";
-$l['sunday'] = "Sunday";
-$l['monday'] = "Monday";
-$l['tuesday'] = "Tuesday";
-$l['wednesday'] = "Wednesday";
-$l['thursday'] = "Thursday";
-$l['friday'] = "Friday";
-$l['saturday'] = "Saturday";
-$l['event_limit'] = "Event Limit";
-$l['event_limit_desc'] = "The number of events to be shown before a single link to all events on the particular day is shown instead.";
-$l['show_birthdays'] = "Show Birthdays?";
-$l['show_birthdays_desc'] = "Do you wish to show birthdays of registered users in this calendar?";
-$l['moderate_events'] = "Moderate New Events?";
-$l['moderate_events_desc'] = "If this option is set to 'Yes,' all events will be moderated apart from those created by members with 'Bypass moderation queue' set for their calendar permissions.";
-$l['allow_html'] = "Allow HTML in Events?";
-$l['allow_mycode'] = "Allow MyCode in Events?";
-$l['allow_img'] = "Allow [IMG] Code in Events?";
-$l['allow_video'] = "Allow [VIDEO] Code in Events?";
-$l['allow_smilies'] = "Allow Smilies in Events?";
-$l['save_calendar'] = "Save Calendar";
+$l['name'] = "Nome";
+$l['display_order'] = "Mostrar ordenação";
+$l['week_start'] = "Início da Semana";
+$l['week_start_desc'] = "Aqui você pode definir o dia da semana que inicia o calendário.";
+$l['sunday'] = "Domingo";
+$l['monday'] = "Segunda";
+$l['tuesday'] = "Terça";
+$l['wednesday'] = "Quarta";
+$l['thursday'] = "Quinta";
+$l['friday'] = "Sexta";
+$l['saturday'] = "Sábado";
+$l['event_limit'] = "Limite do Evento";
+$l['event_limit_desc'] = "O número de eventos exibidos antes de um único link para todos os eventos no dia em particular é mostrado em seu lugar.";
+$l['show_birthdays'] = "Mostrar Aniversários?";
+$l['show_birthdays_desc'] = "Você deseja mostrar aniversários de usuários registrados neste calendário?";
+$l['moderate_events'] = "Moderar novos eventos?";
+$l['moderate_events_desc'] = "Se esta opção estiver em 'Sim,' todos os eventos serão moderados além daqueles com 'Ignorar fila de moderação' configurados para as permissões do calendário";
+$l['allow_html'] = "Permitir HTML nos Eventos?";
+$l['allow_mycode'] = "Permitir MyCode nos Eventos?";
+$l['allow_img'] = "Permitir código [IMG] Code nos Eventos?";
+$l['allow_video'] = "Permitir código [VIDEO] nos Eventos?";
+$l['allow_smilies'] = "Permitir emoticons nos eventos?";
+$l['save_calendar'] = "Salvar Calendário";
 
-$l['permissions'] = "Permissions";
-$l['edit_permissions'] = "Edit Calendar Permissions";
-$l['calendar_permissions_for'] = "Calendar Permissions for";
-$l['permissions_group'] = "Group";
-$l['permissions_view'] = "View";
-$l['permissions_post_events'] = "Post Events";
-$l['permissions_bypass_moderation'] = "Bypass Moderation";
-$l['permissions_moderator'] = "Moderator Permissions";
-$l['permissions_all'] = "All?";
-$l['permissions_use_group_default'] = "Use Group Default";
-$l['save_permissions'] = "Save Permissions";
+$l['permissions'] = "Permissão";
+$l['edit_permissions'] = "Editar Permissão do Calendário";
+$l['calendar_permissions_for'] = "Permissões de calendário para";
+$l['permissions_group'] = "Grupo";
+$l['permissions_view'] = "Visualizar";
+$l['permissions_post_events'] = "Postar Eventos";
+$l['permissions_bypass_moderation'] = "Ignorar Moderação";
+$l['permissions_moderator'] = "Permissão de Moderação";
+$l['permissions_all'] = "Tudo?";
+$l['permissions_use_group_default'] = "Usar Grupo Padrão";
+$l['save_permissions'] = "Salvar Permissões";
 
-$l['error_invalid_calendar'] = "The specified calendar does not exist.";
-$l['error_missing_name'] = "You did not enter a name for this calendar";
-$l['error_missing_order'] = "You did not enter a display order for this calendar";
+$l['error_invalid_calendar'] = "O calendário especificado não existe.";
+$l['error_missing_name'] = "Você não inseriu um nome para o seu calendário";
+$l['error_missing_order'] = "Você não digitou uma ordem de exibição para este calendário.";
 
-$l['success_calendar_created'] = "The calendar has been created successfully.";
-$l['success_calendar_updated'] = "The calendar has been updated successfully.";
-$l['success_calendar_permissions_updated'] = "The calendar permissions have been updated successfully.";
-$l['success_calendar_deleted'] = "The selected calendar has been deleted successfully.";
-$l['success_calendar_orders_updated'] = "The calendar display orders have been updated successfully.";
+$l['success_calendar_created'] = "O Calendário foi criado corretamente.";
+$l['success_calendar_updated'] = "O Calendário foi atualizado corretamente.";
+$l['success_calendar_permissions_updated'] = "As permissões de calendários foram atualizados corretamente.";
+$l['success_calendar_deleted'] = "O calendário selecionado foi excluído.";
+$l['success_calendar_orders_updated'] = "As ordens de exibição de calendário foram atualizadas com sucesso.";
 
-$l['confirm_calendar_deletion'] = "Are you sure you wish to delete this calendar?";
+$l['confirm_calendar_deletion'] = "Você realmente deseja excluir este calendário?";
 
