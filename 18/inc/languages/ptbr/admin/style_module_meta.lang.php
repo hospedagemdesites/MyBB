@@ -1,15 +1,15 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago "ArnoldLayne-xXx" http://bf4brasil.com.br/
  */
 
-$l['templates_and_style'] = "Templates &amp; Style";
+$l['templates_and_style'] = "Modelos &amp; Temas";
 
-$l['themes'] = "Themes";
-$l['templates'] = "Templates";
+$l['themes'] = "Temas";
+$l['templates'] = "Modelos";
 
-$l['can_manage_themes'] = "Can manage themes?";
-$l['can_manage_templates'] = "Can manage templates?";
+$l['can_manage_themes'] = "Pode gerenciar temas?";
+$l['can_manage_templates'] = "Pode gerenciar modelos?";
 
