@@ -1,24 +1,24 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago "ArnoldLayne-xXx" http://bf4brasil.com.br/
  */
 
-$l['preferences_and_personal_notes'] = "Preferences &amp; Personal Notes";
-$l['prefs_and_personal_notes_description'] = "Here you can manage your Admin Control Panel preferences and leave personal notes for yourself.";
+$l['preferences_and_personal_notes'] = "Preferências &amp; Bloco Pessoal";
+$l['prefs_and_personal_notes_description'] = "Aqui você pode gerenciar as preferências de seu Painel Administrativo e deixar anotações por sua conta.";
 
-$l['preferences'] = "Preferences";
-$l['global_preferences'] = "Global Preferences";
-$l['acp_theme'] = "Admin Control Panel Theme";
-$l['select_acp_theme'] = "Please select a theme to use in the Admin Control Panel.";
-$l['acp_language'] = "Admin Control Panel Language";
-$l['select_acp_language'] = "Please select a language to use in the Admin Control Panel.";
-$l['notes_not_shared'] = "These notes are not shared with other Administrators.";
-$l['save_notes_and_prefs'] = "Save Personal Notes & Preferences";
-$l['personal_notes'] = "Personal Notes";
-$l['codemirror'] = "Turn on / off Code Mirror";
-$l['use_codemirror_desc'] = "This preference allows you to turn off Code Mirror (used in template editing and stylesheet editing for syntax highlighting) if you are experiencing issues / slow loading.";
+$l['preferences'] = "Preferências";
+$l['global_preferences'] = "Preferências Globais";
+$l['acp_theme'] = "Tema do Painel Administrativo";
+$l['select_acp_theme'] = "Por favor , selecione um tema para uso no Painel Administrativo.";
+$l['acp_language'] = "Idioma do Painel Administrativo";
+$l['select_acp_language'] = "Por favor, selecione o idioma do Painel Administrativo.";
+$l['notes_not_shared'] = "Estas observações não serão compartilhadas com os outros administradores.";
+$l['save_notes_and_prefs'] = "Salvar Preferências e bloco pessoal";
+$l['personal_notes'] = "Bloco Pessoal";
+$l['codemirror'] = "Ligar ou Desligar edito de código";
+$l['use_codemirror_desc'] = "Esta opção permite desativar o editor de código (muito usado na edição e criação de código e folhas de estilho devido o código estar destacado em cores diferentes (Syntax Highlight). Se estiver tendo problemas de exibição ou lentidão é aconselhado desativar";
 
-$l['success_preferences_updated'] = "The preferences have been successfully updated.";
+$l['success_preferences_updated'] = "As preferências foram devidamente atualizadas.";
 
