@@ -5,7 +5,7 @@
  * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
  */
 
-$l['warnings_reached_max_warnings_day'] = 'Você não pode avisar a todos como atingiu seu limite diário no número de advertências.<br /><br />O número máximo de advertências que você pode dar por dia é de {1}."';
+$l['warnings_reached_max_warnings_day'] = 'Você não pode advertir a todos pois atingiu seu limite diário no número de advertências.<br /><br />O número máximo de advertências que você pode dar por dia é de {1}."';
 $l['warnings_error_invalid_user'] = "Usuário selecionado não existe.";
 $l['warnings_error_invalid_post'] = "Postagem selecionada não existe.";
 $l['warnings_error_cannot_warn_self'] = "Não é possível adicionar seu próprio nível de advertência.";

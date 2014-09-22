@@ -265,7 +265,7 @@ $l['postbit_full_edit'] = "Edição Completa";
 $l['postbit_show_ignored_post'] = "Mostrar esta postagem";
 $l['postbit_currently_ignoring_user'] = "O conteúdo desta mensagem está escondido, porque {1} está em sua <a href=\"usercp.php?action=editlists\">lista de ignorados</a>.";
 $l['postbit_warning_level'] = "Nível de Advertências:";
-$l['postbit_warn'] = "Avisar o autor por esta postagem";
+$l['postbit_warn'] = "Advertir o autor por esta postagem";
 $l['postbit_purgespammer'] = "Remover Spammer";
 
 $l['postbit_button_reputation_add'] = 'Avaliar';
@@ -278,7 +278,7 @@ $l['postbit_button_qdelete'] = 'Excluir';
 $l['postbit_button_qrestore'] = 'Restaurar';
 $l['postbit_button_profile'] = 'Perfil';
 $l['postbit_button_pm'] = 'MP';
-$l['postbit_button_warn'] = 'Avisar';
+$l['postbit_button_warn'] = 'Advertir';
 $l['postbit_button_edit'] = 'Editar';
 $l['postbit_button_multiquote'] = 'Citar';
 $l['postbit_button_reply_pm'] = 'Responder';

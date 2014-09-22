@@ -219,7 +219,7 @@ $l['lifted_ban'] = "Banimento de Usuário Elevado";
 $l['no_bans_ending'] = "Não há banimentos finalizando em breve.";
 
 $l['warning_logs'] = "Registro de Advertências";
-$l['warned_user'] = "Usuários Avisados";
+$l['warned_user'] = "Usuários Advertidos";
 $l['warning'] = "Advertência";
 $l['date_issued'] = "Data de Emissão";
 $l['expires'] = "Expira";
@@ -228,7 +228,7 @@ $l['issued_date'] = "Data de Emissão";
 $l['issued_by'] = "Emitido por";
 $l['details'] = "Detalhes";
 $l['filter_warning_logs'] = "Filtrar Registros de Advertências";
-$l['filter_warned_user'] = "Usuário Avisado:";
+$l['filter_warned_user'] = "Usuário Advertido:";
 $l['filter_issued_by'] = "Advertência emitida por:";
 $l['filter_reason'] = "Razão Contém:";
 $l['view'] = "Visualizar";
