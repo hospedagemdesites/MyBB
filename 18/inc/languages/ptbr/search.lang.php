@@ -67,7 +67,7 @@ $l['unstick_threads'] = "Desafixar Tópicos";
 $l['delete_threads'] = "Excluir Tópicos";
 $l['move_threads'] = "Mover Tópicos";
 $l['approve_threads'] = "Aprovar Tópicos";
-$l['unapprove_threads'] = "Não Aprovar Tópicos";
+$l['unapprove_threads'] = "Desaprovar Tópicos";
 $l['inline_soft_delete_posts'] = "Excluir Postagens Levemente";
 $l['inline_restore_posts'] = "Restaurar Postagens";
 $l['inline_delete_posts'] = "Excluir Postagens Permanentemente";
@@ -96,7 +96,7 @@ $l['results'] = "resultados";
 $l['mod_options'] = "Opções de Moderador";
 $l['find_all'] = "Procurar Tudo";
 $l['find_only_approved'] = "Procurar somente aprovados";
-$l['find_only_unapproved'] = "Procurar somente não aprovados";
+$l['find_only_unapproved'] = "Procurar somente desaprovados";
 $l['find_only_softdeleted'] = "Procurar somente excluídos levemente";
 
 $l['redirect_searchresults'] = "Obrigado, a sua pesquisa foi efetuada e você agora será redirecionado à lista de resultados.";
