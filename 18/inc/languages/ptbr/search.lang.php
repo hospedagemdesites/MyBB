@@ -60,11 +60,11 @@ $l['selectall'] = "Selecione todos os resultados adicionais?";
 $l['any_prefix'] = "Procurar tópicos por qualquer prefixo";
 $l['no_prefix'] = "Sem prefixo";
 $l['inline_thread_moderation'] = "Moderação de tópico:";
-$l['close_threads'] = "Encerrar tópicos";
+$l['close_threads'] = "Fechar Tópicos";
 $l['open_threads'] = "Abrir Tópicos";
 $l['stick_threads'] = "Fixar Tópicos";
-$l['unstick_threads'] = "Libertar Tópicos";
-$l['delete_threads'] = "Eliminar Tópicos";
+$l['unstick_threads'] = "Desafixar Tópicos";
+$l['delete_threads'] = "Excluir Tópicos";
 $l['move_threads'] = "Mover Tópicos";
 $l['approve_threads'] = "Aprovar Tópicos";
 $l['unapprove_threads'] = "Não Aprovar Tópicos";
@@ -99,7 +99,7 @@ $l['find_only_approved'] = "Procurar somente aprovados";
 $l['find_only_unapproved'] = "Procurar somente não aprovados";
 $l['find_only_softdeleted'] = "Procurar somente excluídos levemente";
 
-$l['redirect_searchresults'] = "Obrigado, a sua pesquisa foi colocada e você vai agora ser redirecionado para a lista de resultados.";
+$l['redirect_searchresults'] = "Obrigado, a sua pesquisa foi efetuada e você agora será redirecionado à lista de resultados.";
 
 $l['error_minsearchlength'] = "Um ou mais dos seus critérios de pesquisa foram menores que o comprimento mínimo. O comprimento mínimo de pesquisa é de {1} caracteres.<br /><br />Se você esta a tentar pesquisar por uma frase inteira, coloque-a entre  aspas. Por exemplo \"A rápida raposa castanha ataca o preguiçoso cão\".";
 $l['error_nosearchresults'] = "Desculpe, mas não foram obtidos resultados, com os critérios de pesquisa colocados. Por favor altere os critérios de pesquisa e tente novamente.";
