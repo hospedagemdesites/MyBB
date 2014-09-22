@@ -11,7 +11,7 @@ $l['languages_desc'] = "Os pacotes de idiomas que instalou no seu fórum encontr
 $l['find_language_packs'] = "Procurar Pacotes de Idioma";
 $l['language_files'] = "Arquivos de Idioma";
 $l['language_files_desc'] = "Abaixo estão os arquivos dentro do Idioma selecionados, do Fórum e do Painel de Controle da Administração. Aqui pode escolher editar estes arquivos.";
-$l['quick_phrases'] = "Acesso rápido a frases";
+$l['quick_phrases'] = "Frases Rápidas";
 $l['quick_phrases_desc'] = "Acesso rápido à modificação do idioma das frases.";
 
 $l['edit_with'] = "Editar {1}";
