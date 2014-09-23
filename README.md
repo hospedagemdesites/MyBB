@@ -1,3 +1,5 @@
+![](https://mediacru.sh/2jDDrUQZOUms.png)
+
 MyBB
 ====
 
