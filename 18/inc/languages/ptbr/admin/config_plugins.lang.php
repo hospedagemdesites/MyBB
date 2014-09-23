@@ -1,52 +1,52 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago http://bf4brasil.com.br/
  */
 
 $l['plugins'] = "Plugins";
-$l['plugins_desc'] = "This section allows you to activate, deactivate, and manage the plugins that you have uploaded to your forum's <strong>inc/plugins</strong> directory. To hide a plugin from view, but not lose any stored information from it, click the Deactivate link.";
-$l['plugin_updates'] = "Plugin Updates";
-$l['plugin_updates_desc'] = "This section allows you to check for updates on all your plugins.";
-$l['browse_plugins'] = "Browse Plugins";
-$l['browse_plugins_desc'] = "Here you may browse the official MyBB modifications site for plugins compatible with your series of MyBB.";
-$l['browse_all_plugins'] = "Browse All Plugins";
+$l['plugins_desc'] = "Esta seção permite-lhe ativar, desativar e gerenciar os plugins que enviou para a pasta <strong>inc/plugins</strong> do seu fórum. Para ocultar um plugin sem perder a informação que está armazenada no mesmo, clique no link Desativar.";
+$l['plugin_updates'] = "Atualizações de Plugins";
+$l['plugin_updates_desc'] = "Esta secção permite-lhe verificar por atualizações em todos os seus plugins.";
+$l['browse_plugins'] = "Observar Plugins";
+$l['browse_plugins_desc'] = "Aqui você pode sondar por plugins compatíveis com o seu fórum na página oficial do Mybb .";
+$l['browse_all_plugins'] = "Observar todos os Plugins";
 
 $l['plugin'] = "Plugin";
-$l['active_plugin'] = "Active Plugins";
-$l['inactive_plugin'] = "Inactive Plugins";
-$l['your_version'] = "Your Version";
-$l['latest_version'] = "Latest Version";
+$l['active_plugin'] = "Plugins Ativos";
+$l['inactive_plugin'] = "Plugins Desativados";
+$l['your_version'] = "Sua Versão";
+$l['latest_version'] = "Última Versão";
 $l['download'] = "Download";
-$l['deactivate'] = "Deactivate";
-$l['activate'] = "Activate";
-$l['install_and_activate'] = "Install &amp; Activate";
-$l['uninstall'] = "Uninstall";
-$l['created_by'] = "Created by";
-$l['no_plugins'] = "There are no plugins on your forum at this time.";
-$l['no_active_plugins'] = "There are no active plugins on your forum.";
-$l['no_inactive_plugins'] = "There are no inactive plugins available.";
+$l['deactivate'] = "Desativar";
+$l['activate'] = "Ativar";
+$l['install_and_activate'] = "Instalar &amp; Ativar";
+$l['uninstall'] = "Desinstalar";
+$l['created_by'] = "Criado por";
+$l['no_plugins'] = "Não existem plugins no seu fórum neste momento.";
+$l['no_active_plugins'] = "Não existem plugins ativos no seu fórum.";
+$l['no_inactive_plugins'] = "Não existem plugins inativos disponíveis.";
 
-$l['plugin_incompatible'] = "This plugin is incompatible with MyBB {1}";
+$l['plugin_incompatible'] = "Este plugin é incompatível com o MyBB {1}";
 
-$l['recommended_plugins_for_mybb'] = "Recommended Plugins for MyBB {1}";
-$l['browse_results_for_mybb'] = "Browse Results for MyBB {1}";
-$l['search_for_plugins'] = "Search for Plugins";
-$l['search'] = "Search";
+$l['recommended_plugins_for_mybb'] = "Plugins recomendados para o seu fórum MyBB {1}";
+$l['browse_results_for_mybb'] = "Especular Resultados do MyBB {1}";
+$l['search_for_plugins'] = "Pesquisar por Plugins";
+$l['search'] = "Pesquisar";
 
-$l['error_vcheck_no_supported_plugins'] = "None of the plugins installed support version checking.";
-$l['error_vcheck_communications_problem'] = "There was a problem communicating with the MyBB modifications version server. Please try again in a few minutes.";
-$l['error_vcheck_vulnerable'] = "[Vulnerable plugin]:";
-$l['error_vcheck_vulnerable_notes'] = "This submission has currently been marked as vulnerable by the MyBB Staff. We recommend complete removal of this modification. Please see the notes below: ";
-$l['error_no_input'] = "Error code 1: No input specified.";
-$l['error_no_pids'] = "Error code 2: No plugin ids specified.";
-$l['error_communication_problem'] = "There was a problem communicating with the MyBB modifications server. Please try again in a few minutes.";
-$l['error_invalid_plugin'] = "The selected plugin does not exist.";
-$l['error_no_results_found'] = "No results were found for the specified keywords.";
+$l['error_vcheck_no_supported_plugins'] = "Nenhum dos plugins instalados suporta a verificação da versão.";
+$l['error_vcheck_communications_problem'] = "Existe um problema de comunicação com o servidor de modificações do MyBB. Por favor, tente novamente dentro de alguns minutos.";
+$l['error_vcheck_vulnerable'] = "[Plugins Vulneráveis]:";
+$l['error_vcheck_vulnerable_notes'] = "Esta submissão está marcada como vulnerável pela equipe do MyBB. Recomendamos que remova completamente esta modificação. Por favor, veja as notas abaixo: ";
+$l['error_no_input'] = "Erro código 1: Entrada inespecífica.";
+$l['error_no_pids'] = "Erro código 2: Não foi especificado um plugin.";
+$l['error_communication_problem'] = "Existe um problema de comunicação com o servidor de modificações MyBB. Por favor, tente novamente dentro de alguns minutos.";
+$l['error_invalid_plugin'] = "O plugin selecionado não existe.";
+$l['error_no_results_found'] = "Não foram obtidos resultados para as palavras chaves expecificadas.";
 
-$l['success_plugins_up_to_date'] = "Congratulations, all of your plugins are up to date.";
-$l['success_plugin_activated'] = "The selected plugin has been activated successfully.";
-$l['success_plugin_deactivated'] = "The selected plugin has been deactivated successfully.";
-$l['success_plugin_installed'] = "The selected plugin has been installed and activated successfully.";
-$l['success_plugin_uninstalled'] = "The selected plugin has been uninstalled successfully.";
+$l['success_plugins_up_to_date'] = "Parabéns, todos os seus plugins estão atualizados.";
+$l['success_plugin_activated'] = "O Plugin selecionado foi ativado com sucesso.";
+$l['success_plugin_deactivated'] = "O Plugin selecionado foi desativado com sucesso.";
+$l['success_plugin_installed'] = "O Plugin selecionado foi instalado e ativado com sucesso.";
+$l['success_plugin_uninstalled'] = "O Plugin selecionado foi desinstalado com sucesso.";
