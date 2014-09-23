@@ -1,46 +1,46 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais, MyBBGroup 201 Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['post_icons'] = "Post Icons";
-$l['add_post_icon'] = "Add New Post Icon";
-$l['add_post_icon_desc'] = "Here you can add a single new post icon.";
-$l['add_multiple_post_icons'] = "Add Multiple Post Icons";
-$l['add_multiple_post_icons_desc'] = "Here you can add multiple new post icons.";
-$l['edit_post_icon'] = "Edit Post Icon";
-$l['edit_post_icon_desc'] = "Here you can edit a post icon.";
-$l['manage_post_icons'] = "Manage Post Icons";
-$l['manage_post_icons_desc'] = "This section allows you to edit, delete, and manage your post icons.";
+$l['post_icons'] = "Ícones de Mensagem";
+$l['add_post_icon'] = "Adicionar Novo Ícone";
+$l['add_post_icon_desc'] = "Aqui você pode adicionar um único novo ícone.";
+$l['add_multiple_post_icons'] = "Adicionar Múltiplos Ícones";
+$l['add_multiple_post_icons_desc'] = "Aqui pode adicionar múltiplos e novos ícones.";
+$l['edit_post_icon'] = "Editar Ícone";
+$l['edit_post_icon_desc'] = "Aqui pode editar um ícone.";
+$l['manage_post_icons'] = "Gerenciar Ícones";
+$l['manage_post_icons_desc'] = "Esta secção permite-lhe editar, apagar e gerenciar os seus ícones.";
 
-$l['name_desc'] = "This is the name for the post icon.";
-$l['image_path'] = "Image Path";
-$l['image_path_desc'] = "This is the path to the post icon image. If you want to use different post icon images for different themes, please use <strong>{theme}</strong> to represent the image directory of each theme.";
-$l['save_post_icon'] = "Save Post Icon";
-$l['reset'] = "Reset";
+$l['name_desc'] = "Este é o nome para o ícone.";
+$l['image_path'] = "Caminho da imagem";
+$l['image_path_desc'] = "Este é o caminho para a imagem do ícone.";
+$l['save_post_icon'] = "Salvar Ícone";
+$l['reset'] = "Reiniciar";
 
-$l['path_to_images'] = "Path to Images";
-$l['path_to_images_desc'] = "This is the path to the folder that the images are in.";
-$l['show_post_icons'] = "Show Post Icons";
-$l['image'] = "Image";
-$l['add'] = "Add?";
-$l['save_post_icons'] = "Save Post Icons";
+$l['path_to_images'] = "Caminho para as imagens";
+$l['path_to_images_desc'] = "Este é o caminho para a pasta onde as imagens estão.";
+$l['show_post_icons'] = "Exibir Ícones";
+$l['image'] = "Imagem";
+$l['add'] = "Adicionar?";
+$l['save_post_icons'] = "Salvar Ícones";
 
-$l['no_post_icons'] = "There are no post icons on your forum at this time.";
+$l['no_post_icons'] = "Não existem ícones de mensagem no seu fórum neste momento.";
 
-$l['error_missing_name'] = "You did not enter a name for this post icon";
-$l['error_missing_path'] = "You did not enter a path to this post icon";
-$l['error_missing_path_multiple'] = "You did not enter a path";
-$l['error_invalid_path'] = "You did not enter a valid path";
-$l['error_no_images'] = "There are no post icons in the specified directory, or all post icons in the directory have already been added.";
-$l['error_none_included'] = "You did not select any post icons to include.";
-$l['error_invalid_post_icon'] = "The specified post icon does not exist.";
+$l['error_missing_name'] = "Não inseriu um nome para este ícone";
+$l['error_missing_path'] = "Não inseriu um caminho para este ícone";
+$l['error_missing_path_multiple'] = "Não inseriu um caminho";
+$l['error_invalid_path'] = "Não inseriu um caminho válido";
+$l['error_no_images'] = "Não existem ícones na pasta especificada ou todos os ícones na pasta foram adicionados.";
+$l['error_none_included'] = "Não selecionou nenhum ícone para incluir.";
+$l['error_invalid_post_icon'] = "O ícone especificado não existe.";
 
-$l['success_post_icon_added'] = "The post icon has been added successfully.";
-$l['success_post_icons_added'] = "The selected post icons have been added successfully.";
-$l['success_post_icon_updated'] = "The post icon has been updated successfully.";
-$l['success_post_icon_deleted'] = "The selected post icon has been deleted successfully.";
+$l['success_post_icon_added'] = "O ícone foi adicionado com sucesso.";
+$l['success_post_icons_added'] = "Os ícones selecionados foram adicionados com sucesso.";
+$l['success_post_icon_updated'] = "O ícone foi atualizado com sucesso.";
+$l['success_post_icon_deleted'] = "Os ícones selecionados foram apagados com sucesso.";
 
-$l['confirm_post_icon_deletion'] = "Are you sure you wish to delete this post icon?";
+$l['confirm_post_icon_deletion'] = "Tem a certeza que quer excluir este ícone?";
