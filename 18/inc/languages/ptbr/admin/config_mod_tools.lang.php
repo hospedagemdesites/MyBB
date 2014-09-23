@@ -1,6 +1,6 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Língua Brasileira
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por dthiago "ArnodLayne-xXx" http://portal.bf4brasil.com.br/
  */
@@ -29,7 +29,7 @@ $l['security_questions'] = "Perguntas de Segurança";
 $l['can_manage_settings'] = "Pode gerenciar definições?";
 $l['can_manage_banned_accounts'] = "Pode gerenciar contas banidas?";
 $l['can_manage_custom_profile_fields'] = "Pode gerenciar campos de perfil padrões?";
-$l['can_manage_smilies'] = "Pode gerenciar carinhas
+$l['can_manage_smilies'] = "Pode gerenciar carinhas";
 $l['can_manage_bad_words'] = "Pode gerenciar filtro de palavras?";
 $l['can_manage_custom_mycode'] = "Pode gerenciar MyCode?";
 $l['can_manage_language_packs'] = "Pode gerenciar pacotes de idiomas?";

@@ -1,6 +1,6 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Língua Brasileira
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por dthiago "ArnoldLayne-xXx" http://portal.bf4brasil.com.br/
  */
