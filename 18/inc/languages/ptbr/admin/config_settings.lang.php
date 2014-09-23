@@ -1,99 +1,98 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['board_settings'] = "Board Settings";
-$l['change_settings'] = "Change Settings";
-$l['change_settings_desc'] = "This section allows you to manage all of the various settings relating to your board. To begin, select a group below to manage settings relating to that group.";
-$l['add_new_setting'] = "Add New Setting";
-$l['add_new_setting_desc'] = "This section allows you to add a new setting to your board.";
-$l['modify_existing_settings'] = "Modify Settings";
-$l['modify_existing_settings_desc'] = "This section allows you to modify an existing setting on your forum.";
-$l['add_new_setting_group'] = "Add New Setting Group";
-$l['add_new_setting_group_desc'] = "This section allows you to create a setting group to categorize individual settings.";
-$l['edit_setting_group'] = "Edit Setting Group";
-$l['edit_setting_group_desc'] = "This section allows you to edit an existing setting group.";
+$l['board_settings'] = "Configurações do Fórum";
+$l['change_settings'] = "Modificar Configurações";
+$l['change_settings_desc'] = "Esta seção permite gerenciar todas as configurações e ajustes referentes ao seu fórum. Para iniciar, selecione um grupo abaixo para gerenciar as configurações atuais no mesmo.";
+$l['add_new_setting'] = "Adicionar Configuração";
+$l['add_new_setting_desc'] = "Esta seção permite-lhe adicionar uma nova configuração ao seu fórum.";
+$l['modify_existing_settings'] = "Modificar Configuração";
+$l['modify_existing_settings_desc'] = "Esta seção permite-lhe modificar uma configuração existente no seu fórum.";
+$l['add_new_setting_group'] = "Adicionar Grupo de Configurações";
+$l['add_new_setting_group_desc'] = "Esta seção permite-lhe criar um grupo de configurações para categorizar configurações individuais.";
+$l['edit_setting_group'] = "Editar Grupo de Configuração";
+$l['edit_setting_group_desc'] = "Esta seção permite-lhe editar um grupo de configurações existente.";
 
-$l['title'] = "Title";
-$l['description'] = "Description";
-$l['group'] = "Group";
-$l['display_order'] = "Display Order";
-$l['name'] = "Identifier";
-$l['name_desc'] = "This unique identifier is used in the settings array to reference this setting (in scripts, translations, and templates).";
-$l['group_name_desc'] = "This unique identifier is used for the translation system.";
-$l['text'] = "Text";
-$l['textarea'] = "Textarea";
-$l['yesno'] = "Yes / No Choice";
-$l['onoff'] = "On / Off Choice";
-$l['select'] = "Selection Box";
-$l['radio'] = "Radio Buttons";
-$l['checkbox'] = "Checkboxes";
-$l['language_selection_box'] = "Language Selection Box";
-$l['forum_selection_box'] = "Forum Selection Box";
-$l['group_selection_box'] = "Group Selection Box";
-$l['adminlanguage'] = "Administration Language Selection Box";
-$l['cpstyle'] = "Control Panel Style Selection Box";
-$l['php'] = "Evaluated PHP";
-$l['type'] = "Type";
+$l['title'] = "Título";
+$l['description'] = "Descrição";
+$l['group'] = "Grupo";
+$l['display_order'] = "Ordem de Exibição";
+$l['name'] = "Identificador";
+$l['name_desc'] = "Este identificador único é usado numa matriz de configurações para fazer referência a esta configuração (em scripts, traduções, e modelos).";
+$l['group_name_desc'] = "Este identificador único é usado para o sistema de tradução.";
+$l['text'] = "Texto";
+$l['textarea'] = "Área de texto";
+$l['yesno'] = "Opção Sim / Não";
+$l['onoff'] = "Opção Ligado / Desligado";
+$l['select'] = "Caixa de Seleção";
+$l['radio'] = "Botões de Rádio";
+$l['checkbox'] = "Caixas de Seleção";
+$l['language_selection_box'] = "Caixa de Seleção de Linguagem";
+$l['forum_selection_box'] = "Caixa de seleção do fórum";
+$l['group_selection_box'] = "Caixa de seleção do grupo";
+$l['adminlanguage'] = "Seleção de Linguagem do Administrativo";
+$l['cpstyle'] = "Painel de Controle da caixa da Seleção de estilo";
+$l['php'] = "PHP Disponível";
+$l['type'] = "Tipo";
 $l['extra'] = "Extra";
-$l['extra_desc'] = "If this setting is a select, radio or check box enter a key paired (key=Item) list of items to show. Separate items with a new line. If PHP, enter the PHP to be evaluated.";
-$l['value'] = "Value";
-$l['insert_new_setting'] = "Insert New Setting";
-$l['edit_setting'] = "Edit Setting";
-$l['delete_setting'] = "Delete Setting";
-$l['setting_configuration'] = "Setting Configuration";
-$l['update_setting'] = "Update Setting";
-$l['save_settings'] = "Save Settings";
-$l['setting_groups'] = "Setting Groups";
-$l['bbsettings'] = "Settings";
-$l['insert_new_setting_group'] = "Insert New Setting Group";
-$l['setting_group_setting'] = "Setting Group / Setting";
-$l['order'] = "Order";
-$l['delete_setting_group'] = "Delete Setting Group";
-$l['save_display_orders'] = "Save Display Orders";
-$l['update_setting_group'] = "Update Setting Group";
-$l['modify_setting'] = "Modify Setting";
-$l['search'] = "Search";
-$l['plugin_settings'] = "Plugin Settings";
+$l['extra_desc'] = "Se esta configuração for uma seleção, botão de opção ou botão de marcação, informe-nos a lista de chaves combinadas (chave=Item) para mostrar. Separe cada uma das chaves com uma linha. Se for código PHP, digite-o para ser avaliado.";
+$l['value'] = "Valor";
+$l['insert_new_setting'] = "inserir  Configuração";
+$l['edit_setting'] = "Editar Configuração";
+$l['delete_setting'] = "Remover Configuração";
+$l['setting_configuration'] = "Definição das Configurações";
+$l['update_setting'] = "Atualizar Configurações";
+$l['save_settings'] = "Salvar Configurações";
+$l['setting_groups'] = "Grupos de Configurações";
+$l['bbsettings'] = "Configurações";
+$l['insert_new_setting_group'] = "Inserir Grupo de Configurações";
+$l['setting_group_setting'] = "Grupo de Configurações / Definições";
+$l['order'] = "Ordem";
+$l['delete_setting_group'] = "Apagar Grupo de Configurações";
+$l['save_display_orders'] = "Guardar Ordens de Exibição";
+$l['update_setting_group'] = "Atualizar Grupo de Configurações";
+$l['modify_setting'] = "Alterar Configuração";
+$l['search'] = "Procurar";
+$l['plugin_settings'] = "Configurações Plugin";
 
-$l['show_all_settings'] = "Show All Settings";
-$l['settings_search'] = "Search For Settings";
+$l['show_all_settings'] = "Mostrar todas as Configurações";
+$l['settings_search'] = "Procurar por Configurações";
 
-$l['confirm_setting_group_deletion'] = "Are you sure you wish to delete this setting group?";
-$l['confirm_setting_deletion'] = "Are you sure you wish to delete this setting?";
+$l['confirm_setting_group_deletion'] = "Tem  certeza que deseja excluir este grupo de Configurações?";
+$l['confirm_setting_deletion'] = "Tem certeza que deseja excluir esta configuração?";
 
-$l['error_missing_title'] = "You did not enter a title for this setting";
-$l['error_missing_group_title'] = "You did not enter a title for this setting group";
-$l['error_invalid_gid'] = "You did not select a valid group to place this setting in";
-$l['error_invalid_gid2'] = "You have followed a link to an invalid setting group. Please ensure it exists.";
-$l['error_missing_name'] = "You did not enter an identifier for this setting";
-$l['error_missing_group_name'] = "You did not enter an identifier for this setting group";
-$l['error_invalid_type'] = "You did not select a valid type for this setting";
-$l['error_invalid_sid'] = "The specified setting does not exist";
-$l['error_duplicate_name'] = "The identifier specified has already been used for the \"{1}\" setting -- it must be unique";
-$l['error_duplicate_group_name'] = "The identifier specified has already been used for the \"{1}\" setting group -- it must be unique";
-$l['error_no_settings_found'] = "No settings were found for the specified search phrase.";
-$l['error_cannot_edit_default'] = "Default settings and groups may not be edited or removed.";
-$l['error_cannot_edit_php'] = "This is a special type of setting which cannot be edited.";
-$l['error_ajax_search'] = "There was a problem searching for settings:";
-$l['error_ajax_unknown'] = "An unknown error occurred while searching for settings.";
-$l['error_chmod_settings_file'] = "The settings file \"./inc/settings.php\" isn't writable. Please CHMOD to 777.<br />For more information on CHMODing, see the <a href=\"http://docs.mybb.com/HowTo_Chmod.html\" target=\"_blank\">MyBB Docs</a>.";
-$l['error_hidden_captcha_conflict'] = "The hidden captcha value cannot be \"{1}\" as it conflicts with another registration field.";
+$l['error_missing_title'] = "Você não inseriu um título para esta configuração";
+$l['error_missing_group_title'] = "Você não inseriu um título para este grupo de configurações";
+$l['error_invalid_gid'] = "Você não selecionou um grupo válido onde colocar esta configuração";
+$l['error_invalid_gid2'] = "Você seguiu um link para um grupo de configuração inválido. Por favor, verifique a existência.";
+$l['error_missing_name'] = "Você não inseriu um identificador para esta configuração";
+$l['error_missing_group_name'] = "Você não inseriu um identificador para este grupo de configurações";
+$l['error_invalid_type'] = "Você não selecionou um tipo válido para esta configuração";
+$l['error_invalid_sid'] = "A configuração especificada não existe";
+$l['error_duplicate_name'] = "O identificador especificado já está em uso pela configuração \"{1}\" -- deverá ser o único";
+$l['error_duplicate_group_name'] = "O identificador especificado está em uso pelo grupo de configurações \"{1}\" -- deverá ser o único";
+$l['error_no_settings_found'] = "Não fora encontrada nenhuma configuração para o termo de pesquisa especificado.";
+$l['error_cannot_edit_default'] = "Configurações e grupos de configurações padrões não podem ser editados ou removidos.";
+$l['error_cannot_edit_php'] = "Este é um tipo especial de configuração que não pode ser editado.";
+$l['error_ajax_search'] = "Ocorreu um problema ao efetuar  pesquisa de configuração:";
+$l['error_ajax_unknown'] = "ocorreu um erro desconhecido enquanto efetuava a pesquisa de configurações.";
+$l['error_chmod_settings_file'] = "A configuração do arquivo \"./inc/settings.php\" não é editável. Por favor edite o CHMOD para 777.<br />Para mais informações de como modificar o CHMOD, verifique em <a href=\"http://docs.mybb.com/index.php/HowTo_Chmod.html\" target=\"_blank\">MyBB Docs</a>.";
+$l['error_hidden_captcha_conflict'] = "O captcha escondido não pode ser \"{1}\" porque está em conflito com outro campo de registro.";
 
-$l['success_setting_added'] = "The setting has been created successfully.";
-$l['success_setting_updated'] = "The setting has been updated successfully.";
-$l['success_setting_deleted'] = "The selected setting has been deleted successfully.";
-$l['success_settings_updated'] = "The settings have been updated successfully.";
-$l['success_display_orders_updated'] = "The setting display orders have been updated successfully.";
-$l['success_setting_group_added'] = "The setting group has been created successfully.";
-$l['success_setting_group_updated'] = "The setting group has been updated successfully.";
-$l['success_setting_group_deleted'] = "The selected setting group has been deleted successfully.";
-$l['success_duplicate_settings_deleted'] = "All duplicate setting groups have been deleted successfully.";
+$l['success_setting_added'] = "A configuração foi criada com sucesso.";
+$l['success_setting_updated'] = "A configuração foi atualizada com sucesso.";
+$l['success_setting_deleted'] = "A configuração selecionada foi excluida com sucesso.";
+$l['success_settings_updated'] = "As configurações foram atualizadas com sucesso.";
+$l['success_display_orders_updated'] = "As ordens de exibição da configuração foram atualizadas com sucesso.";
+$l['success_setting_group_added'] = "O grupo de configuração foi criado com sucesso.";
+$l['success_setting_group_updated'] = "O grupo de configuração foi atualizado com sucesso.";
+$l['success_setting_group_deleted'] = "O grupo de configuração selecionado foi apagado com sucesso.";
+$l['success_duplicate_settings_deleted'] = "Todos os grupo de configurações duplicados foram apagados com sucesso.";
 
-$l['searching'] = 'Searching...';
-$l['search_error'] = 'There was an error fetching your search results:';
-$l['search_done'] = 'Done!';
-
+$l['searching'] = 'Procurando...';
+$l['search_error'] = 'Ocorreu um erro ao obter os resultados de pesquisa:';
+$l['search_done'] = 'Concluído!';
