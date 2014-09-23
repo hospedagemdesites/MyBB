@@ -6,13 +6,16 @@
  */
 
 // The friendly name of the language
-$langinfo['name'] = "Português (Brasileiro)";
+$langinfo['name'] = "Língua Brasileira(Português  Brasileiro)";
 
 // The author of the language
 $langinfo['author'] = "Leandro dos Santos";
+$langinfo['author'] = "dthiago ArnoldLayne-xXx";
+
 
 // The language authors website
 $langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/";
+$langinfo['website'] = "http://bf4brasil.com.br/";
 
 // Compatible version of MyBB
 $langinfo['version'] = "1800";
