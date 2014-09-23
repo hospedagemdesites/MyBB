@@ -1,45 +1,45 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+  * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago "ArnodLayne-xXx" http://portal.bf4brasil.com.br/
  */
 
-$l['configuration'] = "Configuration";
+$l['configuration'] = "Configuração";
 
-$l['bbsettings'] = "Settings";
-$l['banning'] = "Banning";
-$l['custom_profile_fields'] = "Custom Profile Fields";
-$l['smilies'] = "Smilies";
-$l['word_filters'] = "Word Filters";
+$l['bbsettings'] = "Definições";
+$l['banning'] = "Expulsões";
+$l['custom_profile_fields'] = "Campos de Perfil";
+$l['smilies'] = "Carinhas";
+$l['word_filters'] = "Filtro de Palavras";
 $l['mycode'] = "MyCode";
-$l['languages'] = "Languages";
-$l['post_icons'] = "Post Icons";
-$l['help_documents'] = "Help Documents";
+$l['languages'] = "Idiomas";
+$l['post_icons'] = "Ícones de Mensagem";
+$l['help_documents'] = "Documentos de Ajuda";
 $l['plugins'] = "Plugins";
-$l['attachment_types'] = "Attachment Types";
-$l['moderator_tools'] = "Moderator Tools";
+$l['attachment_types'] = "Tipos de Anexo";
+$l['moderator_tools'] = "Ferramentas de Moderação";
 $l['spiders_bots'] = "Spiders / Bots";
-$l['calendars'] = "Calendars";
-$l['warning_system'] = "Warning System";
-$l['thread_prefixes'] = "Thread Prefixes";
-$l['security_questions'] = "Security Questions";
+$l['calendars'] = "Calendários";
+$l['warning_system'] = "Sistema de Avisos";
+$l['thread_prefixes'] = "Prefixos de Tópicos";
+$l['security_questions'] = "Perguntas de Segurança";
 
-$l['can_manage_settings'] = "Can manage settings?";
-$l['can_manage_banned_accounts'] = "Can manage banned accounts?";
-$l['can_manage_custom_profile_fields'] = "Can manage custom profile fields?";
-$l['can_manage_smilies'] = "Can manage smilies?";
-$l['can_manage_bad_words'] = "Can manage word filters?";
-$l['can_manage_custom_mycode'] = "Can manage custom MyCode?";
-$l['can_manage_language_packs'] = "Can manage language packs?";
-$l['can_manage_post_icons'] = "Can manage post icons?";
-$l['can_manage_help_documents'] = "Can manage help documents?";
-$l['can_manage_plugins'] = "Can manage plugins?";
-$l['can_manage_attachment_types'] = "Can manage attachment types?";
-$l['can_manage_spiders_bots'] = "Can manage spiders / bots?";
-$l['can_manage_calendars'] = "Can manage calendars?";
-$l['can_manage_warning_system'] = "Can manage warning system?";
-$l['can_manage_mod_tools'] = "Can manage moderator tools?";
-$l['can_manage_thread_prefixes'] = "Can manage thread prefixes?";
-$l['can_manage_security_questions'] = "Can manage security questions?";
+$l['can_manage_settings'] = "Pode gerenciar definições?";
+$l['can_manage_banned_accounts'] = "Pode gerenciar contas banidas?";
+$l['can_manage_custom_profile_fields'] = "Pode gerenciar campos de perfil padrão?";
+$l['can_manage_smilies'] = "Pode gerenciar carinhas?";
+$l['can_manage_bad_words'] = "Pode gerenciar filtro de palavras?";
+$l['can_manage_custom_mycode'] = "Pode gerenciar MyCode ?";
+$l['can_manage_language_packs'] = "Pode gerenciar pacotes de idiomas?";
+$l['can_manage_post_icons'] = "Pode gerenciar ícones de mensagem?";
+$l['can_manage_help_documents'] = "Pode gerenciar documentos de ajuda?";
+$l['can_manage_plugins'] = "Pode gerenciar plugins?";
+$l['can_manage_attachment_types'] = "Pode gerenciar tipos de anexo?";
+$l['can_manage_spiders_bots'] = "Pode gerenciar spiders / bots?";
+$l['can_manage_calendars'] = "Pode gerenciar calendários?";
+$l['can_manage_warning_system'] = "Pode gerenciar Sistema de avisos?";
+$l['can_manage_mod_tools'] = "Pode gerenciar ferramentas de moderação?";
+$l['can_manage_thread_prefixes'] = "Pode gerenciar prefixos de tópico?";
+$l['can_manage_security_questions'] = "Pode gerenciar perguntas de segurança?";
 
