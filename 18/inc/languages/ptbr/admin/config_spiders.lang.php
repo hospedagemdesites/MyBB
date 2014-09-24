@@ -1,42 +1,42 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
-
+ 
 $l['spiders_bots'] = "Spiders / Bots";
-$l['spiders_bots_desc'] = "This section allows you to manage the search engine spiders &amp; bots automatically detected by your forum. You're also able to see when a particular bot last visited.";
-$l['add_new_bot'] = "Add New Bot";
-$l['add_new_bot_desc'] = "Here you can add a new bot that you would like to be detected by your forum.";
+$l['spiders_bots_desc'] = "Esta seção permite gerenciar os buscadores detectados automáticamente pelo fórum em particular a última visita.";
+$l['add_new_bot'] = "Adicionar novo Bot";
+$l['add_new_bot_desc'] = "Aqui você pode adicionar um novo Bot para ser detectado pelo fórum.";
 
-$l['edit_bot'] = "Edit Bot";
-$l['edit_bot_desc'] = "Here you can edit an existing bot.";
+$l['edit_bot'] = "Editar Bot";
+$l['edit_bot_desc'] = "Aqui você pode editar um Bot existente.";
 
 $l['bot'] = "Bot";
-$l['last_visit'] = "Last Visit";
-$l['no_bots'] = "There are no search engine spiders or web crawlers being tracked by this forum.";
+$l['last_visit'] = "Última Visita";
+$l['no_bots'] = "Não existem motores pesquisa a serem seguidos por este fórum.";
 
-$l['name'] = "Name";
-$l['name_desc'] = "Enter the name of this bot which you want to identify it by";
-$l['user_agent'] = "User Agent String";
-$l['user_agent_desc'] = "Enter the string which will be matched against the bots user agent (partial matches are accepted)";
-$l['language_str'] = "Language";
-$l['language_desc'] = "Select the language pack the bot will use when viewing the board.";
-$l['theme'] = "Theme";
-$l['theme_desc'] = "Select the theme the bot will use when viewing the board.";
-$l['user_group'] = "User Group";
-$l['user_group_desc'] = "Select the user group permissions will be applied from for this board (Note: It is not recommended you change this from the default Guests group)";
-$l['save_bot'] = "Save Bot";
-$l['use_board_default'] = "Use Board Default";
+$l['name'] = "Nome";
+$l['name_desc'] = "Insira o nome para este deste Bot";
+$l['user_agent'] = "Sequência de Usuário";
+$l['user_agent_desc'] = "insira a sequência que deseja ser comparada a outros Bots (são aceitos resultados parciais)";
+$l['language_str'] = "Idioma";
+$l['language_desc'] = "Selecione o pacote de idioma que os bots vão usar ao verem este Fórum.";
+$l['theme'] = "Tema";
+$l['theme_desc'] = "Selecione o tema que os bots vão usar ao verem este Fórum.";
+$l['user_group'] = "Grupo de usuários";
+$l['user_group_desc'] = "Selecione a permissão de Grupo de Usuários que serão aplicados para este fórum (Nota: Não é recomendado que altere isto, pelo grupo de visitantes padrão)";
+$l['save_bot'] = "Salvar Bot";
+$l['use_board_default'] = "Usar o Fórum padrão";
 
-$l['error_invalid_bot'] = "The specified bot does not exist.";
-$l['error_missing_name'] = "You did not enter a name for this bot";
-$l['error_missing_agent'] = "You did not enter a user agent string for this bot";
+$l['error_invalid_bot'] = "O Bot especificado não existe.";
+$l['error_missing_name'] = "Você não inseriu um nome para este Bot";
+$l['error_missing_agent'] = "Você não inseriu uma sequência de usuário para este Bot";
 
-$l['success_bot_created'] = "The bot has been created successfully.";
-$l['success_bot_updated'] = "The bot has been updated successfully.";
-$l['success_bot_deleted'] = "The selected bot has been deleted successfully.";
+$l['success_bot_created'] = "O Bot foi criado com sucesso.";
+$l['success_bot_updated'] = "O Bot foi atualizado com sucesso.";
+$l['success_bot_deleted'] = "O Bot selecionado foi excluido com sucesso.";
 
-$l['confirm_bot_deletion'] = "Are you sure you wish to delete this bot?";
+$l['confirm_bot_deletion'] = "Tem a certeza que deseja excluir este Bot?";
 
