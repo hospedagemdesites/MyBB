@@ -3,6 +3,7 @@
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por dthiago "ArnodLayne-xXx" http://portal.bf4brasil.com.br/
+ * Revisado por NewtonPDL
  */
 
 $l['attachment_types'] = "Tipos de anexos";
@@ -14,17 +15,17 @@ $l['edit_attachment_type'] = "Editar Tipo de Anexo";
 $l['edit_attachment_type_desc'] = "Você tem a capacidade de controlar a extensão, norma MIME, o tamanho máximo e mostrar uma pequena norma MIME para este tipo de anexo.";
 
 $l['extension'] = "Extensão";
-$l['maximum_size'] = "Tamanho Máximo;
+$l['maximum_size'] = "Tamanho Máximo"; 
 $l['no_attachment_types'] = "Neste momento não existem tipos de anexos em seu fórum.";
 
 $l['name'] = "Nome";
 $l['name_desc'] = "Insira o nome do tipo de anexo.";
-$l['file_extension'] = "Extensão de Arquivo";
-$l['file_extension_desc'] = "Insira a extensão do arquivo que você deseja permitir uploads daqui (Não inclua o período antes da extensão) (Exemplo: txt)";
+$l['file_extension'] = "Extensão do Arquivo";
+$l['file_extension_desc'] = "Insira a extensão do arquivo que você deseja permitir uploads daqui (Não inclua o ponto ou asterisco antes da extensão) (Exemplo: txt)"; //tradução literal adaptada para melhor compreensão.
 $l['mime_type'] = "Norma MIME ";
-$l['mime_type_desc'] = "Insira a norma MIME enviada pelo servidor quando tipos de arquivos forem descarregados pelo usuário.(<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">Veja uma lista aqui</a>)";
+$l['mime_type_desc'] = "Insira a norma MIME enviada pelo servidor quando estes tipos de arquivos forem baixados. (<a href=\"http://www.webmaster-toolkit.com/mime-types.shtml\">Veja uma lista aqui</a>)"; //Adaptado sentido da tradução.
 $l['maximum_file_size'] = "Tamanho Máximo de arquivo (Kilobytes)";
-$l['maximum_file_size_desc'] = "O tamanho máximo para upload neste tipo de arquivos em Kilobytes (1 MB = 1024 KB)";
+$l['maximum_file_size_desc'] = "O tamanho máximo para upload deste tipo de arquivos em Kilobytes (1 MB = 1024 KB)";
 $l['limit_intro'] = "Por favor, verifique o tamanho máximo do arquivo que deve ser inferior aos limites de envio em seu PHP:";
 $l['limit_post_max_size'] = "Tamanho máximo de postagem: {1}";
 $l['limit_upload_max_filesize'] = "Tamanho máximo arquivo para envio: {1}";
