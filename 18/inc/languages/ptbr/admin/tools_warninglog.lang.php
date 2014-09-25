@@ -1,51 +1,51 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
 
-$l['warning_logs'] = "Warning Logs";
-$l['warning_logs_desc'] = "This section allows you to view a history of warnings issued to users.";
-$l['warned_user'] = "Warned User";
-$l['warning'] = "Warning";
-$l['date_issued'] = "Date Issued";
-$l['expires'] = "Expires";
-$l['expiry_date'] = "Expiry Date";
-$l['issued_date'] = "Issued Date";
-$l['issued_by'] = "Issued By";
-$l['details'] = "Details";
-$l['filter_warning_logs'] = "Filter Warning Logs";
-$l['filter_warned_user'] = "Warned user:";
-$l['filter_issued_by'] = "Warning issued by:";
-$l['filter_reason'] = "Reason contains:";
-$l['sort_by'] = "Sort By:";
-$l['results_per_page'] = "Results Per Page:";
-$l['view'] = "View";
-$l['no_warning_logs'] = "There are no warning logs to view.";
-$l['revoked'] = "Revoked ";
-$l['post'] = "Post";
+$l['warning_logs'] = "Relatório de Avisos";
+$l['warning_logs_desc'] = "Esta seção permite-lhe visualizar o histórico dos avisos dados aos usuários.";
+$l['warned_user'] = "Usuário";
+$l['warning'] = "Aviso";
+$l['date_issued'] = "Data do Aviso";
+$l['expires'] = "Expira em";
+$l['expiry_date'] = "Data de Expiração";
+$l['issued_date'] = "Data do Aviso";
+$l['issued_by'] = "Avisado Por";
+$l['details'] = "Detalhes";
+$l['filter_warning_logs'] = "Filtrar Relatórios";
+$l['filter_warned_user'] = "Usuário Avisado:";
+$l['filter_issued_by'] = "Usuário Avisado por:";
+$l['filter_reason'] = "Motivos:";
+$l['sort_by'] = "Ordenar Por:";
+$l['results_per_page'] = "Resultados por Página:";
+$l['view'] = "Visualizar";
+$l['no_warning_logs'] = "Não existem relatórios de avisos para visualizar.";
+$l['revoked'] = "Revogado ";
+$l['post'] = "Mensagem";
 
-$l['asc'] = "Ascending";
-$l['desc'] = "Descending";
+$l['asc'] = "Crescente";
+$l['desc'] = "Decrescente";
 
-$l['in'] = "in";
-$l['order'] = "order";
+$l['in'] = "em ordem";
+$l['order'] = "";
 
-$l['warning_details'] = "Warning Details";
-$l['warning_note'] = "Administrative Notes";
-$l['already_expired'] = "Expired";
-$l['warning_revoked'] = "Revoked";
-$l['warning_active'] = "Active";
-$l['error_invalid_warning'] = "An invalid warning was specified.";
+$l['warning_details'] = "Detalhes do Aviso";
+$l['warning_note'] = "Notas Administrativas";
+$l['already_expired'] = "Expirado";
+$l['warning_revoked'] = "Revogado";
+$l['warning_active'] = "Ativo";
+$l['error_invalid_warning'] = "Foi especificado um aviso inválido.";
 
-$l['revoke_warning'] = "Revoke this Warning";
-$l['revoke_warning_desc'] = "To revoke this warning please enter a reason below. This will not remove any bans or suspensions imposed by this warning.";
-$l['reason'] = "Reason:";
-$l['warning_is_revoked'] = "This warning has been revoked";
-$l['revoked_by'] = "Revoked by:";
-$l['date_revoked'] = "Date Revoked:";
-$l['error_already_revoked'] = "This warning has already been revoked.";
-$l['error_no_revoke_reason'] = "You did not enter a reason as to why you want to revoke this warning.";
-$l['redirect_warning_revoked'] = "This warning has been revoked and the users warning points decreased successfully.";
+$l['revoke_warning'] = "Revogar este Aviso";
+$l['revoke_warning_desc'] = "Para revogar este aviso, por favor ,insira o motivo abaixo. Esta ação não vai remover nenhuma expulsão ou suspensão imposta por este aviso.";
+$l['reason'] = "Motivo:";
+$l['warning_is_revoked'] = "Este aviso foi revogado";
+$l['revoked_by'] = "Revogado por:";
+$l['date_revoked'] = "Data:";
+$l['error_already_revoked'] = "Este aviso fora revogado.";
+$l['error_no_revoke_reason'] = "Você não inseriu um motivo justificando a revogação deste aviso.";
+$l['redirect_warning_revoked'] = "Este aviso foi revogado e os pontos dos usuários retroragiram com sucesso.";
