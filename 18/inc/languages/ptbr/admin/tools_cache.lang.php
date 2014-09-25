@@ -1,22 +1,21 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
 $l['cache'] = "Cache:";
-$l['cache_manager'] = "Cache Manager";
-$l['cache_manager_description'] = "Here you can manage caches which are used as a method of optimizing MyBB. Rebuilding a cache will take all the necessary data used to create the cache and re-synchronize it. Reloading a cache will reload it into the selected cache handler (disk, eaccelerator, memcache, etc). Reloading is useful when switching from the database or file system to xcache, eaccelerator, or another cache handler.";
-$l['rebuild_cache'] = "Rebuild Cache";
-$l['reload_cache'] = "Reload Cache";
-$l['rebuild_reload_all'] = "(Rebuild & Reload All)";
+$l['cache_manager'] = "Administração do  Cache";
+$l['cache_manager_description'] = "Aqui você pode gerenciar os caches  usados como método de otimização do MyBB. Reconstruir o cache irá fazer com que todos os dados necessários sejam obtidos e ressincronizados novamente. Recarregar o cache irá fazer com que o cache seja carregada novamente pelo gestor usado (disco, aceleradores, memória cache, etc). Recarregar é útil quando se troca a base de dados ou arquivos de sistema para o cache, aceleradores ou outro gestor de cache.";
+$l['rebuild_cache'] = "Reconstruir Cache";
+$l['reload_cache'] = "Recarregar Cache";
+$l['rebuild_reload_all'] = "(Reconstruir & Atualizar tudo)";
 
-$l['error_cannot_rebuild'] = "This cache cannot be rebuilt.";
-$l['error_empty_cache'] = "Cache is empty.";
-$l['error_incorrect_cache'] = "Incorrect cache specified.";
-$l['error_no_cache_specified'] = "You did not specify a cache to view.";
+$l['error_cannot_rebuild'] = "Esta cache não pode ser reconstruído.";
+$l['error_empty_cache'] = "O cache está vazia.";
+$l['error_incorrect_cache'] = "Cache especificado incorreto.";
+$l['error_no_cache_specified'] = "Você não especificou um cache.";
 
-$l['success_cache_rebuilt'] = "The cache has been rebuilt successfully.";
-$l['success_cache_reloaded'] = "The cache has been reloaded successfully.";
-
+$l['success_cache_rebuilt'] = "O cache foi reconstruído com sucesso.";
+$l['success_cache_reloaded'] = "O cache foi recarregado com sucesso.";
