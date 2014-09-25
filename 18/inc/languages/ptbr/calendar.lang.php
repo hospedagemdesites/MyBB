@@ -12,7 +12,7 @@ $l['nav_addevent'] = "Adicionar Evento";
 $l['nav_editevent'] = "Editar Evento";
 $l['nav_move_event'] = "Mover Evento";
 
-$l['calendar_disabled'] = "Você não pode usar a funcionalidade de calendário, pois ele foi desativado pelo administrador.";
+$l['calendar_disabled'] = "Você não pode usar o calendário, pois ele foi desativado pelo administrador.";
 
 // In some languages these months need to be slightly different than those defined in global.lang.php
 $l['alt_month_1'] = "Janeiro";
@@ -36,7 +36,7 @@ $l['calendar'] = "Calendário";
 $l['jump_month'] ="Pular para o mês:";
 
 $l['birthdays_on_day'] = "Aniversários em {1}";
-$l['birthdayhidden'] = "Escondido";
+$l['birthdayhidden'] = "Oculto";
 
 $l['event'] = "evento";
 $l['events'] = "eventos";
@@ -63,12 +63,12 @@ $l['alt_edit'] = "Editar este Evento";
 $l['alt_delete'] = "Excluir este Evento";
 $l['moderator_options'] = "Opções do Moderador";
 $l['approve_event'] = "Aprovar Evento";
-$l['unapprove_event'] = "Desaprovar Evento";
+$l['unapprove_event'] = "Reprovar Evento";
 $l['move_event'] = "Mover Evento";
 $l['repeats_every_day'] = "Repetir evento diariamente";
 $l['repeats_every_x_days'] = "Repetir a cada {1} dias";
-$l['repeats_on_weekdays'] = "Repete de segunda a sexta-feira";
-$l['every_week_on_days'] = "Repete-se a cada semana em {1}";
+$l['repeats_on_weekdays'] = "Repetir de segunda a sexta-feira";
+$l['every_week_on_days'] = "Repetir semanalmente em {1}";
 $l['every_week'] = "Repete-se semanalmente";
 $l['every_x_weeks_on_days'] = "Repete-se a cada {1} semanas em<br />{2}";
 $l['every_x_weeks'] = "Repete-se a cada {1} semanas";
@@ -134,10 +134,9 @@ $l['finishes'] = "Finaliza: ";
 $l['error_incorrectday'] = "O dia que você digitou parece não existir. Por favor volte e tente novamente.";
 $l['error_invalidevent'] = "O evento que você especificou é inválido ou não existe.";
 $l['invalid_calendar'] = "O calendário especificado parece não existir. Tens a certeza de que você está visitando a página correta?";
-$l['redirect_eventdeleted'] = "O evento foi excluído com êxito.<br />Você vai agora ser levado de volta para o calendário.";
-$l['redirect_eventupdated'] = "O evento foi atualizado com sucesso.<br />Você agora será levado a ele.";
-$l['redirect_eventadded'] = "Seu evento foi adicionado com sucesso.<br />Você agora será levado a ele.";
-$l['redirect_eventadded_moderation'] = "Seu evento foi adicionado com sucesso, mas exige moderação por um moderador antes de estar visível.<br />Você vai agora ser levado de volta para o calendário.";
-$l['redirect_eventunapproved'] = "O evento foi desaprovado com sucesso.<br />Você agora será levado a ele.";
-$l['redirect_eventapproved'] = "O evento foi aprovado com sucesso.<br />Você agora será levado a ele.";
-$l['redirect_eventmoved'] = "O evento foi movido com sucesso.<br />Você agora será levado a ele.";
+$l['redirect_eventdeleted'] = "O evento foi excluído com êxito.<br />Você será redirecionado para o calendário.";
+$l['redirect_eventupdated'] = "O evento foi atualizado com sucesso.<br />Você será redirecionado a ele.";
+$l['redirect_eventadded'] = "Seu evento foi adicionado com sucesso.<br />Você será redirecionadção por um moderador antes de estar visível.<br />Você será redirecionado para o calendário.";
+$l['redirect_eventunapproved'] = "O evento foi desaprovado com sucesso.<br />Você será redirecionado a ele.";
+$l['redirect_eventapproved'] = "O evento foi aprovado com sucesso.<br />Você será redirecionado  a ele.";
+$l['redirect_eventmoved'] = "O evento foi movido com sucesso.<br />Você será redirecionado a ele.";
