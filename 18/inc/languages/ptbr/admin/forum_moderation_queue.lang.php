@@ -1,49 +1,43 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-// Tabs
-$l['moderation_queue'] = "Moderation Queue";
-$l['threads'] = "Threads";
-$l['threads_desc'] = "Here you can view and approve threads in the moderation queue.";
-$l['posts'] = "Posts";
-$l['posts_desc'] = "Here you can view and approve posts in the moderation queue.";
-$l['attachments'] = "Attachments";
-$l['attachments_desc'] = "Here you can view and approve attachments in the moderation queue.";
-$l['threads_awaiting_moderation'] = "Threads Awaiting Moderation";
-$l['posts_awaiting_moderation'] = "Posts Awaiting Moderation";
-$l['attachments_awaiting_moderation'] = "Attachments Awaiting Moderation";
+$l['moderation_queue'] = "Moderação em Fila";
+$l['threads'] = "Tópicos";
+$l['threads_desc'] = "Aqui você pode ver e aprovar tópicos na fila de moderação.";
+$l['posts'] = "Mensagens";
+$l['posts_desc'] = "Aqui você pode ver e aprovar mensagens na fila de moderação.";
+$l['attachments'] = "Anexos";
+$l['attachments_desc'] = "Aqui você pode ver e aprovar anexos na fila de moderação.";
+$l['threads_awaiting_moderation'] = "Tópicos aguardando moderação";
+$l['posts_awaiting_moderation'] = "Mensagens aguardando  Moderação";
+$l['attachments_awaiting_moderation'] = "Anexos aguardando  Moderação";
 
-// Errors
-$l['error_no_posts'] = "There are no posts currently awaiting moderation.";
-$l['error_no_attachments'] = "There are no attachments currently awaiting moderation.";
-$l['error_no_threads'] = "There are no threads, posts or attachments currently awaiting moderation.";
+$l['error_no_posts'] = "Atualmente não existem mensagens aguardando  moderação.";
+$l['error_no_attachments'] = "Atualmente não existem anexos aguardando moderação.";
+$l['error_no_threads'] = "Atualmenten ão existem tópicos aguardando  moderação.";
 
-// Success
-$l['success_threads'] = "The selected threads have been moderated successfully.";
-$l['success_posts'] = "The selected posts have been moderated successfully.";
-$l['success_attachments'] = "The selected attachments have been moderated successfully.";
+$l['success_threads'] = "Os tópicos seleccionados foram moderados com sucesso.";
+$l['success_posts'] = "As mensagens seleccionadas foram moderadas com sucesso.";
+$l['success_attachments'] = "Os anexos seleccionados foram moderados com sucesso.";
 
-// Pages
-$l['subject'] = "Subject";
-$l['author'] = "Author";
-$l['posted'] = "Posted";
-$l['ignore'] = "Ignore";
-$l['approve'] = "Approve";
-$l['forum'] = "Forum:";
-$l['thread'] = "Thread:";
-$l['post'] = "Post:";
+$l['subject'] = "Assunto";
+$l['author'] = "Autor";
+$l['posted'] = "Postada";
+$l['ignore'] = "ignorar";
+$l['approve'] = "Aprovar";
+$l['forum'] = "Fórum:";
+$l['thread'] = "Tópico:";
+$l['post'] = "Mensagem:";
 $l['re'] = "RE:";
-$l['filename'] = "File Name";
-$l['uploadedby'] = "Uploaded by";
-$l['controls'] = "Controls";
+$l['filename'] = "Nome do Arquivo";
+$l['uploadedby'] = "Inserido por";
+$l['controls'] = "Controles";
 
-// Buttons
-$l['mark_as_ignored'] = "Mark all as ignored";
-$l['mark_as_deleted'] = "Mark all for deletion";
-$l['mark_as_approved'] = "Mark all as approved";
-$l['perform_action'] = "Perform Actions";
-
+$l['mark_as_ignored'] = "Marcar tudo como ignorado";
+$l['mark_as_deleted'] = "Marcar tudo para exclusão";
+$l['mark_as_approved'] = "Marcar tudo como aprovado";
+$l['perform_action'] = "Executar Ação";
