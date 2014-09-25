@@ -1,55 +1,54 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
+ 
+$l['dashboard'] = "Painel";
+$l['dashboard_description'] = "Esta seção permite-lhe ver algumas das várias estatísticas referentes ao seu fórum. Você pode também adicionar outras notas para outros Administradores visualizarem.";
 
-$l['dashboard'] = "Dashboard";
-$l['dashboard_description'] = "This section allows you to see some of the various statistics relating to your board. You may also add other notes for other administrators to see.";
+$l['mybb_server_stats'] = "MyBB e as Estatísticas do Servidor";
+$l['forum_stats'] = "Estatísticas do Fórum";
+$l['mybb_version'] = "Versão MyBB";
+$l['threads'] = "Tópicos";
+$l['new_today'] = "Novidades do Dia";
+$l['unapproved'] = "Por Aprovar";
+$l['php_version'] = "Versão do PHP";
+$l['posts'] = "Mensagens";
+$l['sql_engine'] = "Motor SQL";
+$l['users'] = "Usuários";
+$l['registered_users'] = "Registrados";
+$l['active_users'] = "Usuários Ativos";
+$l['registrations_today'] = "Registros do Dia";
+$l['awaiting_activation'] = "Aguardam Ativação";
+$l['server_load'] = "Carga do Servidor";
+$l['attachments'] = "Anexos";
+$l['used'] = "Em Uso";
+$l['reported_posts'] = "Mensagens reportadas";
+$l['unread_reports'] = "Reportes por ler";
 
-$l['mybb_server_stats'] = "MyBB and Server Statistics";
-$l['forum_stats'] = "Forum Statistics";
-$l['mybb_version'] = "MyBB Version";
-$l['threads'] = "Threads";
-$l['new_today'] = "New Today";
-$l['unapproved'] = "Unapproved";
-$l['php_version'] = "PHP Version";
-$l['posts'] = "Posts";
-$l['sql_engine'] = "SQL Engine";
-$l['users'] = "Users";
-$l['registered_users'] = "Registered Users";
-$l['active_users'] = "Active Users";
-$l['registrations_today'] = "Registrations Today";
-$l['awaiting_activation'] = "Awaiting Activation";
-$l['server_load'] = "Server Load";
-$l['attachments'] = "Attachments";
-$l['used'] = "Used";
-$l['reported_posts'] = "Reported Posts";
-$l['unread_reports'] = "Unread Reports";
+$l['version_check'] = "Verificar atualizações";
+$l['last_update_check_two_weeks'] = "A sua última <a href=\"{1}\">verificação de versão MyBB</a> foi há mais de duas semanas atrás.";
+$l['new_version_available'] = "Você atualmente está usando a versão {1} , enquanto a última versão disponível é {2}.";
+$l['version_check_description'] = "Aqui você pode verificar se está usando a última cópia do MyBB e verificar os anúncios diretamente do MyBB";
+$l['latest_mybb_announcements'] = "Últimos anúncios do MyBB ";
+$l['no_announcements'] = "Sem anúncios alocados. <a href=\"index.php?module=home&amp;action=version_check\">Verificar atualizações</a>.";
+$l['your_version'] = "A sua versão";
+$l['latest_version'] = "Última versão";
+$l['update_forum'] = "Por favor, atualize para a última versão do MyBB, visitando o <a href=\"http://www.mybb.com\" target=\"_blank\">WebSite MyBB</a>.";
+$l['read_more'] = "Leia mais";
 
-$l['version_check'] = "Check for Updates";
-$l['last_update_check_two_weeks'] = "Your last <a href=\"{1}\">MyBB version check</a> was more than two weeks ago.";
-$l['new_version_available'] = "You are currently running {1} whilst the latest generally available release is {2}.";
-$l['version_check_description'] = "Here you can check that you are currently running the latest copy of MyBB and see the latest announcements directly from MyBB.";
-$l['latest_mybb_announcements'] = "Latest MyBB Announcements";
-$l['no_announcements'] = "No stored announcements. <a href=\"index.php?module=home&amp;action=version_check\">Check for Updates</a>.";
-$l['your_version'] = "Your Version";
-$l['latest_version'] = "Latest Version";
-$l['update_forum'] = "Please upgrade to the latest version of MyBB by visiting the <a href=\"http://www.mybb.com\" target=\"_blank\">MyBB Website</a>.";
-$l['read_more'] = "Read more";
+$l['success_up_to_date'] = "Parabéns, você está usando a última versão do MyBB.";
 
-$l['success_up_to_date'] = "Congratulations, you are running the latest version of MyBB.";
+$l['error_out_of_date'] = "A sua cópia do MyBB está desatualizada.";
+$l['error_communication'] = "Existe um problema de comunicação com o servidor. Por favor, tente novamente dentro de alguns minutos.";
+$l['error_fetch_news'] = "Não foi possível  obter os últimos anúncios do WebSite via Mybb.";
 
-$l['error_out_of_date'] = "Your copy of MyBB is out of date.";
-$l['error_communication'] = "There was a problem communicating with the version server. Please try again in a few minutes.";
-$l['error_fetch_news'] = "MyBB was unable to successfully fetch the latest announcements from the MyBB website.";
+$l['news_description'] = "As últimas notícias do <a href=\"http://blog.mybb.com/\" target=\"_blank\"> Blog  MyBB</a>.";
 
-$l['news_description'] = "The latest news from the <a href=\"http://blog.mybb.com/\" target=\"_blank\">MyBB Blog</a>.";
+$l['admin_notes_public'] = "Estas notas são visíveis a todos os Administradores.";
+$l['admin_notes'] = "Notas do Administrador";
+$l['save_notes'] = "Salvar Notas";
 
-$l['admin_notes_public'] = "These notes are public to all administrators.";
-$l['admin_notes'] = "Administrator Notes";
-$l['save_notes'] = "Save Notes";
-
-$l['success_notes_updated'] = "The administrator notes have been successfully updated.";
-
+$l['success_notes_updated'] = "As notas do Administrador foram atualizadas com sucesso.";
