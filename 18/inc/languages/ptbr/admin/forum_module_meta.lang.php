@@ -1,19 +1,19 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['forums_and_posts'] = "Forums &amp; Posts";
+$l['forums_and_posts'] = "Fóruns &amp; Tópicos";
 
-$l['forum_management'] = "Forum Management";
-$l['forum_announcements'] = "Forum Announcements";
-$l['moderation_queue'] = "Moderation Queue";
-$l['attachments'] = "Attachments";
+$l['forum_management'] = "Administração do Fórum";
+$l['forum_announcements'] = "Anúncios do Fórum";
+$l['moderation_queue'] = " Moderação em Fila";
+$l['attachments'] = "Anexos";
 
-$l['can_manage_forums'] = "Can manage forums?";
-$l['can_manage_forum_announcements'] = "Can manage forum announcements?";
-$l['can_moderate'] = "Can moderate posts, threads, and attachments?";
-$l['can_manage_attachments'] = "Can manage attachments?";
+$l['can_manage_forums'] = "Pode gerenciar fóruns?";
+$l['can_manage_forum_announcements'] = "Pode gerenciar anúncios do fórum?";
+$l['can_moderate'] = "Pode moderar mensagens, tópicos e anexos?";
+$l['can_manage_attachments'] = "Pode gerenciar anexos?";
 
