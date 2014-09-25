@@ -1,24 +1,23 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['home'] = "Home";
+$l['home'] = "Página Inicial";
 
-$l['dashboard'] = "Dashboard";
-$l['preferences'] = "Preferences";
-$l['mybb_credits'] = "MyBB Credits";
+$l['dashboard'] = "Painel";
+$l['preferences'] = "Preferências";
+$l['mybb_credits'] = "Créditos do MyBB";
 
-$l['add_new_forum'] = "Add New Forum";
-$l['search_for_users'] = "Search for Users";
-$l['themes'] = "Themes";
-$l['templates'] = "Templates";
+$l['add_new_forum'] = "Adicionar Novo Fórum";
+$l['search_for_users'] = "Procurar Usuários";
+$l['themes'] = "Temas";
+$l['templates'] = "Modelos";
 $l['plugins'] = "Plugins";
-$l['database_backups'] = "Database Backups";
-$l['quick_access'] = "Quick Access";
-$l['online_admins'] = "Online Admins";
-$l['ipaddress'] = "IP Address:";
-$l['mybb_documentation'] = "MyBB Documentation";
-
+$l['database_backups'] = "Backups  da Base Dados ";
+$l['quick_access'] = "Acesso Rápido";
+$l['online_admins'] = "Admins Ligados";
+$l['ipaddress'] = "Endereço IP:";
+$l['mybb_documentation'] = "Documentação do MyBB";
