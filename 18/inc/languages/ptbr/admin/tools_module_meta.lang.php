@@ -1,46 +1,44 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['tools_and_maintenance'] = "Tools &amp; Maintenance";
+$l['tools_and_maintenance'] = "Ferramentas &amp; Manutenção";
 
-$l['maintenance'] = "Maintenance";
-$l['logs'] = "Logs";
+$l['maintenance'] = "Manutenção";
+$l['logs'] = "Relatórios";
 
-$l['system_health'] = "System Health";
-$l['cache_manager'] = "Cache Manager";
-$l['task_manager'] = "Task Manager";
-$l['recount_and_rebuild'] = "Recount &amp; Rebuild";
-$l['view_php_info'] = "View PHP Info";
-$l['database_backups'] = "Database Backups";
-$l['optimize_database'] = "Optimize Database";
-$l['file_verification'] = "File Verification";
+$l['system_health'] = "Estado do Sistema";
+$l['cache_manager'] = "Gerenciador de Cache";
+$l['task_manager'] = "Gerenciador de Tarefas";
+$l['recount_and_rebuild'] = "Recontar &amp; Reconstruir";
+$l['view_php_info'] = "Ver Informação PHP";
+$l['database_backups'] = "Backups da Base de Dados";
+$l['optimize_database'] = "Otimizar a Base de Dados";
+$l['file_verification'] = "Verificação de Arquivos";
 
-$l['administrator_log'] = "Administrator Log";
-$l['moderator_log'] = "Moderator Log";
-$l['user_email_log'] = "User Email Log";
-$l['system_mail_log'] = "System Mail Log";
-$l['user_warning_log'] = "User Warning Log";
-$l['spam_log'] = "Spam Log";
-$l['statistics'] = "Statistics";
+$l['administrator_log'] = "Relatórios de Administração";
+$l['moderator_log'] = "Relatórios de Moderação";
+$l['user_email_log'] = "Relatórios Email de Usuários";
+$l['system_mail_log'] = "Relatórios do Sistema de Email";
+$l['user_warning_log'] = "Relatórios de Aviso aos Usuários";
+$l['spam_log'] = "Relatório de Spam";
+$l['statistics'] = "Estatísticas";
 
-$l['can_access_system_health'] = "Can access system health?";
-$l['can_manage_cache'] = "Can manage cache?";
-$l['can_manage_tasks'] = "Can manage scheduled tasks?";
-$l['can_manage_db_backup'] = "Can manage backup database?";
-$l['can_optimize_db'] = "Can optimize database?";
-$l['can_recount_and_rebuild'] = "Can recount and rebuild?";
-$l['can_manage_admin_logs'] = "Can manage administrator log?";
-$l['can_manage_mod_logs'] = "Can manage moderator log?";
-$l['can_manage_user_mail_log'] = "Can manage user mail Log?";
-$l['can_manage_system_mail_log'] = "Can manage system mail log?";
-$l['can_manage_user_warning_log'] = "Can manage user warning logs?";
-$l['can_manage_spam_log'] = "Can manage spam logs?";
-$l['can_view_php_info'] = "Can view PHP info?";
-$l['can_manage_file_verification'] = "Can manage file verification?";
-$l['can_view_statistics'] = "Can view statistics?";
-
-
+$l['can_access_system_health'] = "Pode gerenciar a saúde do sistema?";
+$l['can_manage_cache'] = "Pode gerenciar o cache?";
+$l['can_manage_tasks'] = "Pode gerenciar a programação de tarefas?";
+$l['can_manage_db_backup'] = "Pode gerenciar backups da base de dados?";
+$l['can_optimize_db'] = "Pode otimizar a base de dados?";
+$l['can_recount_and_rebuild'] = "Pode recontar e reconstruir?";
+$l['can_manage_admin_logs'] = "Pode gerenciar relatórios de Administração?";
+$l['can_manage_mod_logs'] = "Pode gerenciar relatórios de Moderação?";
+$l['can_manage_user_mail_log'] = "Pode gerenciar relatórios de email de usuário?";
+$l['can_manage_system_mail_log'] = "Pode gerenciar relatórios do sistema de email?";
+$l['can_manage_user_warning_log'] = "Pode gerenciar relatórios de Aviso ao Usuários?";
+$l['can_manage_spam_log'] = "Pode gerenciar relatórios de spam?";
+$l['can_view_php_info'] = "Pode visualizar informações sobre o PHP?";
+$l['can_manage_file_verification'] = "Pode gerenciar arquivos de verificação?";
+$l['can_view_statistics'] = "Pode visualizar estatísticas?";
