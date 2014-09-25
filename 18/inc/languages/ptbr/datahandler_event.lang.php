@@ -3,6 +3,7 @@
  * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Copyright 2014 MyBB Group, All Rights Reserved
  * Traduzido por "Leandro dos Santos" "www.hospedagemecriacaodesites.com.br"
+ * Revisado por "NewtonPDL" "http://community.mybb.com/user-35908.html"
  */
 
 $l['eventdata_missing_name'] = 'O nome para o evento está faltando. Por favor digite um nome de evento.';
@@ -24,8 +25,8 @@ $l['eventdata_invalid_timezone'] = "O fuso horário selecionado para este evento
 $l['eventdata_end_in_past'] = "O fim de data ou horário para o seu evento é antes da data ou do horário inicial.";
 
 $l['eventdata_only_ranged_events_repeat'] = "Somente eventos variáveis (eventos com uma data de início e término) podem repetir-se.";
-$l['eventdata_invalid_repeat_day_interval'] = "Você digitou um dia para intervalo de repetição inválido.";
-$l['eventdata_invalid_repeat_week_interval'] = "Você digitou uma semana para intervalo de repetição inválida.";
+$l['eventdata_invalid_repeat_day_interval'] = "Você digitou um dia inválido para o intervalo de repetição.";
+$l['eventdata_invalid_repeat_week_interval'] = "Você digitou uma semana inválida para intervalo de repetição.";
 $l['eventdata_invalid_repeat_weekly_days'] = " Você não selecionou nenhum dia da semana para o evento ocorrer.";
 $l['eventdata_invalid_repeat_month_interval'] = "Você digitou um intervalo de repetição mensal inválido.";
 $l['eventdata_invalid_repeat_year_interval'] = "Você digitou um intervalo de repetição anual inválido.";
