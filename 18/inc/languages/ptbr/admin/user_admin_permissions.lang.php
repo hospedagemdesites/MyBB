@@ -1,46 +1,46 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['admin_permissions'] = "Admin Permissions";
-$l['user_permissions'] = "User Permissions";
-$l['user_permissions_desc'] = "Here you can manage the administrator permissions for individual users. This effectively allows you to lock certain administrators out of different areas of the Admin CP.";
-$l['group_permissions'] = "Group Permissions";
-$l['group_permissions_desc'] = "Administrator permissions can also be applied to user groups that have permission to access the Admin CP. Similarly you can use this tool to lock out entire administrative groups from accessing the different areas of the Admin CP.";
-$l['default_permissions'] = "Default Permissions";
-$l['default_permissions_desc'] = "The default administrative permissions are those applied to users who do not have custom administrator permissions set for them or are not inheriting group administrator permissions.";
+$l['admin_permissions'] = "Permissões de Administrador";
+$l['user_permissions'] = "Permissões de Usuário";
+$l['user_permissions_desc'] = "Aqui você pode gerenciar as permissões de administrador para usuários individuais. Isto permite-lhe bloquear diferentes áreas do Painel Administrativo para certos administradores.";
+$l['group_permissions'] = "Permissões de Grupo";
+$l['group_permissions_desc'] = "As permissões de administrador também podem ser aplicadas a grupos que têm permissão para acessar ao Painel Administrativo. Essencialmente você pode usar esta ferramenta para bloquear diferentes áreas do Painel Administrativo para certos grupos.";
+$l['default_permissions'] = "Permissão Padrão";
+$l['default_permissions_desc'] = "As permissões administrativas são aquelas aplicadas aos usuários que não têm permissões administrativas personalizadas definidas ou herdadas de um grupo administrativo.";
 
-$l['admin_permissions_updated'] = "The admin permissions have been updated successfully.";
-$l['revoke_permissions'] = "Revoke Permissions";
-$l['edit_permissions'] = "Edit Permissions";
-$l['set_permissions'] = "Set Permissions";
-$l['edit_permissions_desc'] = "Here you can restrict access to entire tabs or individual pages. Be aware that the \"Home\" tab is accessible to all administrators.";
-$l['update_permissions'] = "Update Permissions";
-$l['view_log'] = "View Log";
-$l['permissions_type_group'] = "Permission type of the group";
-$l['permissions_type_user'] = "Permission type of the user";
-$l['no_group_perms'] = "There are currently no set group permissions.";
-$l['no_user_perms'] = "There are currently no set user permissions.";
-$l['edit_user'] = "Edit User Profile";
-$l['using_individual_perms'] = "Using Individual Permissions";
-$l['using_custom_perms'] = "Using Custom Permissions";
-$l['using_group_perms'] = "Using Group Permissions";
-$l['using_default_perms'] = "Using Default Permissions";
-$l['last_active'] = "Last Active";
-$l['user'] = "User";
-$l['edit_group'] = "Edit Group";
-$l['default'] = "Default";
-$l['group'] = "Group";
+$l['admin_permissions_updated'] = "As permissões de admin foram atualizadas com sucesso.";
+$l['revoke_permissions'] = "Revogar Permissões";
+$l['edit_permissions'] = "Editar Permissões";
+$l['set_permissions'] = "Configurar Permissões";
+$l['edit_permissions_desc'] = "Aqui você pode restringir o acesso a abas inteiras ou a páginas individuais. Tenha atenção que a aba \"Início\" é acessível a todos os administradores.";
+$l['update_permissions'] = "Atualizar Permissões";
+$l['view_log'] = "Visualizar Relatório";
+$l['permissions_type_group'] = "Tipo de permissões para este grupo";
+$l['permissions_type_user'] = "Tipo de permissões para este utilizador";
+$l['no_group_perms'] = "Atualmente não estão configuradas permissões para este grupo.";
+$l['no_user_perms'] = "Atualmente não estão configuradas permissões para este usuário.";
+$l['edit_user'] = "Editar o Perfil deste usuário";
+$l['using_individual_perms'] = "Usar Permissões Individuais";
+$l['using_custom_perms'] = "Usar Permissões Personalizadas";
+$l['using_group_perms'] = "Usar Permissões de Grupo";
+$l['using_default_perms'] = "A usar Permissões Padrão";
+$l['last_active'] = "Última Vez Ativo";
+$l['user'] = "Usuário";
+$l['edit_group'] = "Editar Grupo";
+$l['default'] = "Padrão";
+$l['group'] = "Grupo";
 
-$l['error_super_admin'] = 'Sorry, but you cannot perform this action on the specified user as they are a super administrator.<br /><br />To be able to perform this action, you need to add your user ID to the list of super administrators in inc/config.php.';
-$l['error_delete_no_uid'] = 'You did not enter a admin user/usergroup permission id';
-$l['error_delete_invalid_uid'] = 'You did not enter a valid admin user/usergroup permission id';
+$l['error_super_admin'] = 'Desculpe-me , mas você não pode executar esta ação no usuário especificado porque ele é Super Administrador.<br /><br />Para ser capaz de executar esta ação você deve adicionar o seu ID de usuário à lista de Super Administradores em inc/config.php.';
+$l['error_delete_no_uid'] = 'Você não colocou nas permissões uma id de admin de usuário /grupo';
+$l['error_delete_invalid_uid'] = 'Você não colocou nas permissões uma id de admin de usuário/grupo válido';
 
-$l['success_perms_deleted'] = 'The admin user/usergroup permissions has been revoked successfully.';
+$l['success_perms_deleted'] = 'As permissões admin usuário/grupo foram revogadas com sucesso.';
 
-$l['confirm_perms_deletion'] = "Are you sure you wish to revoked this admin user/usergroup permissions?";
-$l['confirm_perms_deletion2'] = "Are you sure you wish to revoke this user\'s permissions?";
+$l['confirm_perms_deletion'] = "Tem a certeza que deseja revogar as permissões deste admin usuário/grupo?";
+$l['confirm_perms_deletion2'] = "Tem a certeza que deseja revogar as permissões deste(s) usuário(s)\?";
 
