@@ -1,91 +1,91 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
- *
+ * MyBB 1.8 Pacote de Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
+ * Traduzido por dthiago ArnoldLayne-xXx http://bf4brasil.com.br/
  */
 
-$l['user_group_promotions'] = "User Group Promotions";
-$l['user_group_promotions_desc'] = "Here you can manage User Group Promotions.";
-$l['edit_promotion'] = "Edit Promotion";
-$l['edit_promotion_desc'] = "Here you can edit promotions which are automatically run on your board.";
-$l['add_new_promotion'] = "Add New Promotion";
-$l['add_new_promotion_desc'] = "Here you can create new promotions which are automatically run on your board.";
+$l['user_group_promotions'] = "Promoções de Grupos";
+$l['user_group_promotions_desc'] = "Aqui você pode gerenciar as promoções de grupos de usuários.";
+$l['edit_promotion'] = "Editar Promoções";
+$l['edit_promotion_desc'] = "Aqui você pode editar as promoções que são executadas automaticamente no seu fórum.";
+$l['add_new_promotion'] = "Adicionar Novas Promoções";
+$l['add_new_promotion_desc'] = "Aqui você pode criar novas promoções que são executadas automaticamente no seu fórum.";
 
-$l['title'] = "Title";
-$l['short_desc'] = "Short Description";
-$l['post_count'] = "Post Count";
-$l['thread_count'] = "Thread Count";
-$l['reputation'] = "Reputation";
-$l['referrals'] = "Referrals";
-$l['time_registered'] = "Time Registered";
-$l['time_online'] = "Time Online";
-$l['promo_requirements'] = "Promotion Requirements";
-$l['promo_requirements_desc'] = "Select which criteria must be met for this promotion. Holding down CTRL selects multiple criteria.";
-$l['greater_than_or_equal_to'] = "Greater than or equal to";
-$l['greater_than'] = "Greater than";
-$l['equal_to'] = "Equal to";
-$l['less_than_or_equal_to'] = "Less than or equal to";
-$l['less_than'] = "Less than";
-$l['reputation_count'] = "Reputation Count";
-$l['reputation_count_desc'] = "Enter the amount of reputation to be required. Reputation must be selected as a required value for this to be included. Select the type of comparison for reputation.";
-$l['referral_count'] = "Referral Count";
-$l['referral_count_desc'] = "Enter the number of referrals required. Referral count must be selected as a required value for this to be included. Select the type of comparison for referrals.";
-$l['warning_points'] = "Warning Points";
-$l['warning_points_desc'] = "Enter the number of warning points required. Warning Points must be selected as a required value for this to be included. Select the type of comparison for warning points.";
-$l['post_count_desc'] = "Enter the number of posts required. Post count must be selected as a required value for this to be included. Select the type of comparison for posts.";
-$l['thread_count_desc'] = "Enter the number of threads required. Thread count must be selected as a required value for this to be included. Select the type of comparison for threads.";
-$l['hours'] = "Hours";
-$l['days'] = "Days";
-$l['weeks'] = "Weeks";
-$l['months'] = "Months";
-$l['years'] = "Years";
-$l['time_registered_desc'] = "Enter the number of hours, days, weeks, months, or years that this user must have been registered for. Time registered must be selected as a required value for this to be included. Select whether the time registered should be counted in hours, days, weeks, months, or years.";
-$l['time_online_desc'] = "Enter the number of hours, days, weeks, months, or years that this user must have been online for. Time online must be selected as a required value for this to be included. Select whether the time spend online should be counted in hours, days, weeks, months, or years.";
-$l['all_user_groups'] = 'All User Groups';
-$l['orig_user_group'] = 'Original User Group';
-$l['orig_user_group_desc'] = "Select which user group or user groups that the user must be in for the promotion to run. Holding down CTRL selects multiple groups.";
-$l['new_user_group'] = 'New User Group';
-$l['new_user_group_desc'] = "Select the user group that the user will be moved into after this promotion.";
-$l['primary_user_group'] = 'Primary User Group';
-$l['secondary_user_group'] = 'Secondary User Group';
-$l['user_group_change_type'] = 'User Group Change Type';
-$l['user_group_change_type_desc'] = "Select 'Primary User Group' if the user should have their primary user group changed to the new user group. Select 'Secondary User Group' if the user should have the new user group added as an secondary user group to their profile.";
-$l['enabled'] = "Enabled?";
-$l['enable_logging'] = "Enable Logging?";
-$l['promotion_logs'] = "Promotion Logs";
-$l['view_promotion_logs'] = "View Promotion Logs";
-$l['view_promotion_logs_desc'] = 'Here you can view logs of promotions previously run.';
-$l['promoted_user'] = "Promoted User";
-$l['time_promoted'] = "Time Promoted";
-$l['no_promotion_logs'] = "There are currently no promotions logged.";
-$l['promotion_manager'] = "Promotions Manager";
-$l['promotion'] = "Promotion";
-$l['disable_promotion'] = "Disable Promotion";
-$l['enable_promotion'] = "Enable Promotion";
-$l['delete_promotion'] = "Delete Promotion";
-$l['no_promotions_set'] = "There are currently no set promotions.";
-$l['update_promotion'] = "Save Promotion";
-$l['multiple_usergroups'] = "Multiple User Groups";
-$l['secondary'] = "Secondary";
-$l['primary'] = "Primary";
+$l['title'] = "Título";
+$l['short_desc'] = "Descrição Curta";
+$l['post_count'] = "Contagem de Mensagens";
+$l['thread_count'] = "Contagem de Tópicos";
+$l['reputation'] = "Reputação";
+$l['referrals'] = "Referência";
+$l['time_registered'] = "Tempo de Registro";
+$l['time_online'] = "Tempo Online";
+$l['promo_requirements'] = "Requisitos da Promoção";
+$l['promo_requirements_desc'] = "Selecione qual critério necessário para esta promoção. Mantenha a tecla CTRL pressionada e escolha vários critérios.";
+$l['greater_than_or_equal_to'] = "Maior que ou igual a";
+$l['greater_than'] = "Maior que";
+$l['equal_to'] = "Igual a";
+$l['less_than_or_equal_to'] = "Menor que ou igual a";
+$l['less_than'] = "Menor que";
+$l['reputation_count'] = "Contagem de Reputação";
+$l['reputation_count_desc'] = "Indique a quantidade de reputação requerida. A reputação deve ser selecionada como requerida ser incluída. Selecione o tipo de comparação para a reputação.";
+$l['referral_count'] = "Contagem de Referência";
+$l['referral_count_desc'] = "Indique a quantidade de referências requerida. A contagem de referência deve ser selecionada como requerida para ser incluída. Selecione o tipo de comparação para a referência.";
+$l['warning_points'] = "Pontos de Aviso";
+$l['warning_points_desc'] = "Indique o número de pontos de aviso necessários. A contagem de pontos de aviso deve ser selecionada como requerida para ser incluída. Selecione o tipo de comparação para os pontos de aviso.";
+$l['post_count_desc'] = "Indique a quantidade de mensagens necessárias. A contagem de mensagens deve ser selecionada como requerida inclusão. Seleccione o tipo de comparação para as mensagens.";
+$l['thread_count_desc'] = "Indique a quantidade tópicos necessários. A contagem de tópicos deve ser selecionada como requerida para ser incluída. Selecione o tipo de comparação para os tópicos.";
+$l['hours'] = "Horas";
+$l['days'] = "Dias";
+$l['weeks'] = "Semanas";
+$l['months'] = "Meses";
+$l['years'] = "Anos";
+$l['time_registered_desc'] = "Indique o número de horas, dias, semanas, meses ou anos que este usuário esteve Online. O tempo Online deve ser selecionado como um valor requerido para que seja incluído. Selecione se o tempo que esteve Online deve ser contabilizado em horas, dias, semanas, meses ou anos.";
+$l['time_online_desc'] = "Indique o número de horas, dias, semanas, meses ou anos que este usuário esteve Online. O tempo Online deve ser selecionado como um valor requerido para que seja incluído. Selecione se o tempo que esteve Online deve ser contabilizado em horas, dias, semanas, meses ou anos.";
+$l['all_user_groups'] = 'Todos os Grupos';
+$l['orig_user_group'] = 'Grupo de Origem';
+$l['orig_user_group_desc'] = "Selecione qual grupo ou grupos de usuários, o usuário deve fazer parte, para a promoção ser executada. Mantenha a tecla CTRL pressionada para selecionar vários grupos.";
+$l['new_user_group'] = 'Novo Grupo de usuários';
+$l['new_user_group_desc'] = "Selecione o grupo ao qual o usuário deve ser inserido depois desta promoção.";
+$l['primary_user_group'] = 'Grupo Primário';
+$l['secondary_user_group'] = 'Grupo Secundário';
+$l['user_group_change_type'] = 'Tipo de Mudança de Grupo';
+$l['user_group_change_type_desc'] = "Selecione 'Grupo Primário' se o grupo primário do usuário deva ser mudado para o novo grupo. Selecione 'Grupo Secundário' se o novo grupo do usuário deva ser adicionado como um grupo secundário no seu perfil.";
+$l['enabled'] = "Ativado?";
+$l['enable_logging'] = "Ativar Acesso?";
+$l['promotion_logs'] = "Relatórios de Promoções";
+$l['view_promotion_logs'] = "Visualizar os relatórios de Promoções";
+$l['view_promotion_logs_desc'] = 'Aqui você pode visualizar os relatórios de promoções já executados.';
+$l['promoted_user'] = "Usuário Promovido";
+$l['time_promoted'] = "Data de Promoção";
+$l['no_promotion_logs'] = "Atualmente não existem relatórios de promoções.";
+$l['promotion_manager'] = "Gestão de Promoções";
+$l['promotion'] = "Promoções";
+$l['disable_promotion'] = "Desativar Promoção";
+$l['enable_promotion'] = "Ativar Promoção";
+$l['delete_promotion'] = "Eliminar Promoção";
+$l['no_promotions_set'] = "De momento não existem promoções configuradas.";
+$l['update_promotion'] = "Salvar Promoção";
+$l['multiple_usergroups'] = "Vários Grupos";
+$l['secondary'] = "Secundário";
+$l['primary'] = "Primário";
 
-$l['error_no_promo_id'] = 'You did not enter a promotion id';
-$l['error_invalid_promo_id'] = 'You did not enter a valid promotion id';
+$l['error_no_promo_id'] = 'Você não inseriu um ID de Promoção';
+$l['error_invalid_promo_id'] = 'Você não inseriu um ID de Promoção válido';
 
-$l['error_no_title'] = "You did not enter a title for this promotion";
-$l['error_no_desc'] = "You did not enter a description for this promotion";
-$l['error_no_requirements'] = "You did not select at least one requirement for this promotion";
-$l['error_no_orig_usergroup'] = "You did not select at least one original user group for this promotion";
-$l['error_no_new_usergroup'] = "You did not select at least one new user group for this promotion";
-$l['error_no_usergroup_change_type'] = "You did not select at least one user group change type for this promotion";
+$l['error_no_title'] = "Você não inseriu um título para esta promoção";
+$l['error_no_desc'] = "Você não inseriu uma descrição para esta promoção";
+$l['error_no_requirements'] = "Você não selecionou ao menos um campo obrigatório para esta promoção";
+$l['error_no_orig_usergroup'] = "Você não selecionou ao menos um grupo original para esta promoção";
+$l['error_no_new_usergroup'] = "Você não selecionou ao menos um novo grupo para esta promoção";
+$l['error_no_usergroup_change_type'] = "Você não selecionou ao menos um tipo de mudança de grupo para esta promoção";
 
-$l['success_promo_disabled'] = 'The selected group promotion has been disabled successfully.';
-$l['success_promo_deleted'] = 'The selected group promotion has been deleted successfully.';
-$l['success_promo_enabled'] = 'The selected group promotion has been enabled successfully.';
-$l['success_promo_updated'] = 'The selected group promotion has been updated successfully.';
-$l['success_promo_added'] = 'The promotion has been created successfully.';
+$l['success_promo_disabled'] = 'A promoção de grupo selecionada foi desativada com sucesso.';
+$l['success_promo_deleted'] = 'A promoção de grupo selecionada foi eliminada com sucesso.';
+$l['success_promo_enabled'] = 'A promoção de grupo selecionada foi ativada com sucesso.';
+$l['success_promo_updated'] = 'A promoção de grupo selecionada foi atualizada com sucesso.';
+$l['success_promo_added'] = 'A promoção foi criada com sucesso.';
 
-$l['confirm_promo_disable'] = "Are you sure you want to disable this promotion?";
-$l['confirm_promo_deletion'] = "Are you sure you wish to delete this promotion?";
+$l['confirm_promo_disable'] = "Tem a certeza que quer desativar esta promoção?";
+$l['confirm_promo_deletion'] = "Tem a certeza que deseja excluir esta promoção?";
 
