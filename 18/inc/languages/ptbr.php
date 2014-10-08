@@ -1,6 +1,6 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Língua Brasileira
+ * MyBB 1.8 Pacote de Idioma Português do Brasil
  * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por Leandro dos Santos "www.hospedagemecriacaodesites.com.br"
  * Traduzido por dthiago ArnoldLayne-xXx "http://bf4brasil.com.br/"
@@ -20,7 +20,7 @@ $langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/";"http://bf
 $langinfo['version'] = "1800";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
-$langinfo['admin'] = 0;
+$langinfo['admin'] = 1;
 
 // Sets if the language is RTL (Right to Left) (1 = yes, 0 = no)
 $langinfo['rtl'] = 0;
