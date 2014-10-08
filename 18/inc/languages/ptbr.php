@@ -1,18 +1,20 @@
 <?php
 /**
- * MyBB 1.8 Pacote de Idioma Português do Brasil
- * Copyright 2014 MyBB Group, All Rights Reserved
+ * MyBB 1.8 Pacote de Idioma Língua Brasileira
+ * Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por Leandro dos Santos "www.hospedagemecriacaodesites.com.br"
+ * Traduzido por dthiago ArnoldLayne-xXx "http://bf4brasil.com.br/"
+ * Revisado por NewtonPDL
  */
 
 // The friendly name of the language
-$langinfo['name'] = "Português (Brasileiro)";
+$langinfo['name'] = "Língua Brasileira";
 
 // The author of the language
-$langinfo['author'] = "Leandro dos Santos";
+$langinfo['author'] = "Leandro dos Santos";"ArnoldLayne-xXx";
 
 // The language authors website
-$langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/";
+$langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/";"http://bf4brasil.com.br/"
 
 // Compatible version of MyBB
 $langinfo['version'] = "1800";
