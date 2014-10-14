@@ -1,4 +1,4 @@
-MyBB Projeto de Tradução para a Língua Brasileira
+MyBB Projeto de Tradução para Português do Brasil
 ====
 
 Projetos para MyBB
