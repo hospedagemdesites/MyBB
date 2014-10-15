@@ -1,0 +1,104 @@
+MyBB Pacote de Língua Brasileira
+
+
+  MyBB Pacote de Língua Brasileira
+
+
+     O que é o pacote MyBB Pacote de Língua Brasileira?
+
+O MyBB Pacote de Língua Brasileira é a tradução do MyBB - MyBulletin
+Board - projeto Open Source de fóruns de discussão.Usados por vários
+sites pela internet devido sua facilidade de uso e customização.Este
+pacote é - que eu saiba, pela primeira vez, coletivo.O projeto foi todo
+traduzido via GitHub <https://github.com/hospedagemdesites/MyBB.git>
+aceitando sugestões de qualquer usuário que por lá esteja.
+
+O pacote de tradução do front-end - ou seja, da parte mais usual do
+fórum foi traduzido pelo usuário umarizal e revisado por NewtonPDL e o
+ACP - Painel Administrativo foi traduzido por dthiago e revisado por
+NewtonPDL até o momento.
+
+
+    Como instalar o MyBB Pacote de Língua Brasileira?,
+
+Acesse o site oficial do MyBB e procure pelo pacote de idioma Brazilian
+Portuguese.Observe que somente desta maneira você obterá um pacote
+oficial pois as versões do GitHub são para desenvolvimentos apesar de
+poder ,em geral, ser usadas.Adquira o seu pacote de idioma e descompacte
+o arquivo em seu computador.As imagens do arquivo de grupos traduzidos
+também estão com o caminho pré-configurados.O pacote está pronto para
+upload com o caminho configurado desde o download, tal como:
+
+
+        inc/languages/ptbr
+
+
+
+Você vai ter que ter a mesma estrutura no seu servidor e colocar os
+ficheiros do idioma nas respectivas pastas. Abaixo estão as instruções
+detalhadas sobre como fazer isso.
+
+   1.
+
+      Abra o seu programa de FTP preferido e conecte-se ao servidor. (
+      Posso recomendar o Programa FileZilla
+      <https://filezilla-project.org>- Open Source e de fácil uso )
+
+   2.
+
+      Navegue com seu programa de FTP até à pasta do servidor onde você
+      instalou o MyBB. (.../public_html ou .../www - são a mesma pasta)
+
+
+    Como configurar o idioma do fórum para outro idioma?
+
+Após o upload dos arquivos necessários você poderá usar o seu fórum na
+Língua Brasileira.
+
+    *
+
+      Para usar o idioma Português Brasileiro na parte de usuário
+      (front-end) do fórum, o utilizador deve acessr  ao User CP (
+      Painel de Usuário ) e clicar em "Other Options". em seguida deve
+      selecionar o idioma Português Brasileiro como "Language Board"
+      abaixo de "Other options".
+
+    *
+
+      Para configurar o idioma Português Brasileiro como idioma padrão
+      do fórum você deve acessar como administrador o Admin CP (Painel
+      Administrativo) e clicar "General Configuration". Selecione o
+      idioma Português Brasileiro no "Default Language" e clicar em
+      "Save Settings" para guardar as alterações.
+
+    *
+
+      Para usar o idioma Português Brasileiro na parte administrativa do
+      seu fórum um administrador deve acessar ao Admin CP (Painel
+      Administrativo) e clicar em "Control Panel Preferences (Global)".
+      Depois pode selecione o idioma Brazilian Portuguese no "Control
+      Panel Language" e clicar "Save Settings" para salvar as alterações.
+
+
+
+  Autores e Direitos Autorais
+
+Todos os Direitos Reservados ao MyBB Group.Saiba mais sobre a licensa
+aqui. <http://www.mybb.com/about/license/>.
+Acesse o site do MyBB Group <http://www.mybb.com> para obter suporte
+adicional.
+Tópico Oficial no fórum MyBB aqui
+<http://community.mybb.com/thread-158485.html>
+
+
+  Tradutores
+
+LEANDRO DOS SANTOS- umarizal - Colocar SITE
+NEWTONPDL - NEWTONPDL - Colocar SITE
+DTHIAGO - dthiago - http://bf4brasil.com.br/ e
+http://portal.bf4brasil.com.br/ <http://bf4brasil.com.br/>
+
+Esta página foi criada por dthiago
+<http://community.mybb.com/user-57003.html> - usuário do Mybb.com
+<http://www.mybb.com/> - e usa em seu fórum http://bf4brasil.com.br/
+
