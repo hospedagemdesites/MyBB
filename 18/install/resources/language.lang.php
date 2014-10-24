@@ -6,208 +6,208 @@
  */
 
 /* INSTALL LANGUAGE VARIABLES */
-$l['none'] = 'None';
-$l['not_installed'] = 'Not Installed';
-$l['installed'] = 'Installed';
-$l['not_writable'] = 'Not Writable';
-$l['writable'] = 'Writable';
-$l['done'] = 'done';
-$l['next'] = 'Next';
-$l['error'] = 'Error';
+$l['none'] = 'Nenhum';
+$l['not_installed'] = 'Não Instalado';
+$l['installed'] = 'Instalado';
+$l['not_writable'] = 'Não gravável';
+$l['writable'] = 'Gravável';
+$l['done'] = 'Feito';
+$l['next'] = 'Próximo';
+$l['error'] = 'Erro';
 $l['multi_byte'] = 'Multi-Byte';
-$l['recheck'] = 'Recheck';
+$l['recheck'] = 'Reverificando';
 
-$l['title'] = "MyBB Installation Wizard";
-$l['welcome'] = 'Welcome';
-$l['license_agreement'] = 'License Agreement';
-$l['req_check'] = 'Requirements Check';
-$l['db_config'] = 'Database Configuration';
-$l['table_creation'] = 'Table Creation';
-$l['data_insertion'] = 'Data Insertion';
-$l['theme_install'] = 'Theme Installation';
-$l['board_config'] = 'Board Configuration';
-$l['admin_user'] = 'Administrator User';
-$l['finish_setup'] = 'Finish Setup';
+$l['title'] = "Assistente de Instalação MyBB";
+$l['welcome'] = 'Olá';
+$l['license_agreement'] = 'Concordância da Licensa';
+$l['req_check'] = 'Checagem de Requerimentos';
+$l['db_config'] = 'Configuração da Base de Dados';
+$l['table_creation'] = 'Criação de Tabela';
+$l['data_insertion'] = 'Inserindo Dados';
+$l['theme_install'] = 'Instalação de Temas';
+$l['board_config'] = 'Confiuração do Fórum';
+$l['admin_user'] = 'Usuário Administrador';
+$l['finish_setup'] = 'Finalização da Configuração';
 
-$l['table_population'] = 'Table Population';
-$l['theme_installation'] = 'Theme Insertion';
-$l['create_admin'] = 'Create Administrator Account';
+$l['table_population'] = 'Propagação da Tabela';
+$l['theme_installation'] = 'Inserção de Tema';
+$l['create_admin'] = 'Criando Conta Administrativa';
 
-$l['already_installed'] = "MyBB is already installed";
-$l['mybb_already_installed'] = "<p>Welcome to the installation wizard for MyBB {1}. MyBB has detected it is already configured this directory.</p>
-<p>Please choose a suitable action below:</p>
+$l['already_installed'] = "MyBB está instalado";
+$l['mybb_already_installed'] = "<p>Bem vindo ao Assistente de Instalça do MyBB {1}. MyBB detectou diretório configurado.</p>
+<p>Por favor escolha uma das opções possíveis abaixo:</p>
 
 <div class=\"border_wrapper upgrade_note\" style=\"padding: 4px;\">
-	<h3>Upgrade my existing copy of MyBB to {1} <span style=\"font-size: 80%; color: maroon;\">(Recommended)</span></h3>
-	<p>This option will upgrade your current version of MyBB to MyBB {1}.</p>
-	<p>You should choose this option when you wish to retain your current forum threads, posts, users and other information.</p>
+	<h3>Atualizar cópia existente para {1} <span style=\"font-size: 80%; color: maroon;\">(Recomendado)</span></h3>
+	<p>Esta opção vai atualizar a sua atual instalação do MyNN para o MyBB {1}.</p>
+	<p>Você deve escolher esta opção se deseja manter mensagens,usuários e configurações existentes.</p>
 	<form method=\"post\" action=\"upgrade.php\">
-		<div class=\"next_button\"><input type=\"submit\" class=\"submit_button\" value=\"Upgrade to MyBB {1} &raquo;\" /></div>
+		<div class=\"next_button\"><input type=\"submit\" class=\"submit_button\" value=\"Atualizar para MyBB {1} &raquo;\" /></div>
 	</form>
 </div>
 
 <div style=\"padding: 4px;\">
-	<h3>Install a new copy of MyBB</h3>
-	<p>This option will <span style=\"color: red;\">delete any existing forum you may have set up</span> and install a fresh version of MyBB.</p>
-	<p>You should choose this option to erase your existing copy of MyBB if you wish to start again.</p>
-	<form method=\"post\" action=\"index.php\" onsubmit=\"return confirm('Are you sure you wish to install a fresh copy of MyBB?\\n\\nThis will delete your existing forum. THIS PROCESS CANNOT BE UNDONE.');\">
+	<h3>Instalar uma nova cópia</h3>
+	<p>Esta opção irá  <span style=\"color: red;\">excluir qualquer dado em seu fórum </span> e instalará uma nova cópia do MyBB.</p>
+	<p>Você deve escolher esta opção para começar do zero excluindo todos os dados existentes.</p>
+	<form method=\"post\" action=\"index.php\" onsubmit=\"return confirm('Você tem certeza que desaja instalar uma nova cópia do MyBB?\\n\\nIsto excluirá todo o conteúdo. ESTE PROCESSO NÃO PODERÁ SER REVERTIDO.');\">
 		<input type=\"hidden\" name=\"action\" value=\"intro\" />
-		<div class=\"next_button\"><input type=\"submit\" class=\"submit_button\" value=\"Install MyBB {1} &raquo;\" /></div>
+		<div class=\"next_button\"><input type=\"submit\" class=\"submit_button\" value=\"Instalar MyBB {1} &raquo;\" /></div>
 	</form>
 </div>";
 
 $l['mybb_incorrect_folder'] = "<div class=\"border_wrapper upgrade_note\" style=\"padding: 4px;\">
-	<h3>MyBB has detected that it is running from the \"Upload\" directory.</h3>
-	<p>While there is nothing wrong with this, it is recommended that your upload the contents of the \"Upload\" directory and not the directory itself.<br /><br />For more information please see the <a href=\"http://docs.mybb.com/Help-Upload_Directory.html\" target=\"_blank\">MyBB Docs</a>.</p>
+	<h3>MyBB detectou que está sendo executado através da pasta \"Upload\" .</h3>
+	<p>Embora não haja nada de errado com isso, é recomendado que o conteúdo da pasta upload  \"Upload\" seja enviado e nãoo a pasta em si.<br /><br />Para mais informações veja o  <a href=\"http://docs.mybb.com/Help-Upload_Directory.html\" target=\"_blank\">MyBB Docs</a>.</p>
 </div>";
 
-$l['welcome_step'] = '<p>Welcome to the installation wizard for MyBB {1}. This wizard will install and configure a copy of MyBB on your server.</p>
-<p>Now that you\'ve uploaded the MyBB files the database and settings need to be created and imported. Below is an outline of what is going to be completed during installation.</p>
+$l['welcome_step'] = '<p>Bem vindo ao Assistente de Instalação do {1}. Este Assistente ajudará a instalar e a configurar uma nova cópia do MyBB.</p>
+<p>Agora que você enviou os arquivos do MyBB o banco de dados e configurações precisam ser criados e importados. Abaixo está um esboço do que vai ser concluída durante a instalação.</p>
 <ul>
-	<li>MyBB requirements checked</li>
-	<li>Configuration of database engine</li>
-	<li>Creation of database tables</li>
-	<li>Default data inserted</li>
-	<li>Default themes and templates imported</li>
-	<li>Creation of an administrator account to manage your board</li>
-	<li>Basic board settings configured</li>
+	<li>Requerimentos do MyBB checados</li>
+	<li>Configuração da Base de Dados</li>
+	<li>Criação de Tabela da Base de Dados</li>
+	<li>Data padrão inserida</li>
+	<li>Tema e Modelo padrão inseridos</li>
+	<li>Criação de uma conta administrativa para gerenciar o fórum</li>
+	<li>Configurações básicas setadas</li>
 </ul>
-<p>After each step has successfully been completed, click Next to move on to the next step.</p>
-<p>Click "Next" to view the MyBB license agreement.</p>
-<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Send anonymous statistics about your server specifications to the MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank"><small>What information is sent?</small></a>)</p>';
+<p>Após cada passo completado com sucesso cliquem em PRÓXIMO para a etapa seguinte.</p>
+<p>Clique "PRÓXIMO" para ver a licença de adesão ao MyBB.</p>
+<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Enviar estatísticas anônimas sobreas especificações do servidor ao MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank"><small>Quais informações são enviadas?</small></a>)</p>';
 
 $l['license_step'] = '<div class="license_agreement">
 {1}
 </div>
-<p><strong>By clicking Next, you agree to the terms stated in the MyBB License Agreement above.</strong></p>';
+<p><strong>Clicando em Próximot você concorda com os termos descritos na Licença de Adesão ao MyBB.</strong></p>';
 
 
-$l['req_step_top'] = '<p>Before you can install MyBB, we must check that you meet the minimum requirements for installation.</p>';
+$l['req_step_top'] = '<p>Antes da instalaçao você deve verificar os requerimentos mínimos para a instalação do MyBB.</p>';
 $l['req_step_reqtable'] = '<div class="border_wrapper">
-			<div class="title">Requirements Check</div>
+			<div class="title">Verificação de Requerimentos</div>
 		<table class="general" cellspacing="0">
 		<thead>
 			<tr>
-				<th colspan="2" class="first last">Requirements</th>
+				<th colspan="2" class="first last">Requerementos</th>
 			</tr>
 		</thead>
 		<tbody>
 		<tr class="first">
-			<td class="first">PHP Version:</td>
+			<td class="first">Versão PHP:</td>
 			<td class="last alt_col">{1}</td>
 		</tr>
 		<tr class="alt_row">
-			<td class="first">Supported DB Extensions:</td>
+			<td class="first">Extensões de DB suportadas:</td>
 			<td class="last alt_col">{2}</td>
 		</tr>
 		<tr class="alt_row">
-			<td class="first">Supported Translation Extensions:</td>
+			<td class="first">Extensões de tradução suportados:</td>
 			<td class="last alt_col">{3}</td>
 		</tr>
 		<tr class="alt_row">
-			<td class="first">PHP XML Extensions:</td>
+			<td class="first">Extensões PHP XML:</td>
 			<td class="last alt_col">{4}</td>
 		</tr>
 		<tr class="alt_row">
-			<td class="first">Configuration File Writable:</td>
+			<td class="first">Gravação de Arquivos possível?:</td>
 			<td class="last alt_col">{5}</td>
 		</tr>
 		<tr>
-			<td class="first">Settings File Writable:</td>
+			<td class="first">Configuração de Gravação de Arquivo:</td>
 			<td class="last alt_col">{6}</td>
 		</tr>
 		<tr>
-			<td class="first">Cache Directory Writable:</td>
+			<td class="first">Pasta de Cache gravável?:</td>
 			<td class="last alt_col">{7}</td>
 		</tr>
 		<tr class="alt_row">
-			<td class="first">File Uploads Directory Writable:</td>
+			<td class="first">Pasta de UPLOADS gravável?:</td>
 			<td class="last alt_col">{8}</td>
 		</tr>
 		<tr class="last">
-			<td class="first">Avatar Uploads Directory Writable:</td>
+			<td class="first">Pasta de Avatares gravável?:</td>
 			<td class="last alt_col">{9}</td>
 		</tr>
 		</tbody>
 		</table>
 		</div>';
-$l['req_step_reqcomplete'] = '<p><strong>Congratulations, you meet the requirements to run MyBB.</strong></p>
-<p>Click Next to continue with the installation process.</p>';
+$l['req_step_reqcomplete'] = '<p><strong>Parabéns, você possui os requerimentos mínimos para a instalação do MyBB.</strong></p>
+<p>Clique em Próximo para continuar o processo de instalação.</p>';
 
 $l['req_step_span_fail'] = '<span class="fail"><strong>{1}</strong></span>';
 $l['req_step_span_pass'] = '<span class="pass">{1}</span>';
 
 $l['req_step_error_box'] = '<p><strong>{1}</strong></p>';
-$l['req_step_error_phpversion'] = 'MyBB Requires PHP 5.2.0 or later to run. You currently have {1} installed.';
-$l['req_step_error_dboptions'] = 'MyBB requires one or more suitable database extensions to be installed. Your server reported that none were available.';
-$l['req_step_error_xmlsupport'] = 'MyBB requires PHP to be compiled with support for XML Data Handling. Please see <a href="http://www.php.net/xml" target="_blank">PHP.net</a> for more information.';
-$l['req_step_error_configdefaultfile'] = 'The configuration file (inc/config.default.php) could not be renamed. Please manually rename the <u>config.default.php</u> file to <u>config.php</u> to allow it to be written to or contact <a href="http://www.mybb.com/support" target="_blank">MyBB Support.</a>';
-$l['req_step_error_configfile'] = 'The configuration file (inc/config.php) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
-$l['req_step_error_settingsfile'] = 'The settings file (inc/settings.php) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
-$l['req_step_error_cachedir'] = 'The cache directory (cache/) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
-$l['req_step_error_uploaddir'] = 'The uploads directory (uploads/) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
-$l['req_step_error_avatardir'] = 'The avatars directory (uploads/avatars/) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
-$l['req_step_error_cssddir'] = 'The css directory (css/) is not writable. Please adjust the <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> permissions to allow it to be written to.';
+$l['req_step_error_phpversion'] = 'MyBB requer PHP 5.2.0  ou posterior par instalar.Atualmente está instalado a {1}.';
+$l['req_step_error_dboptions'] = 'MyBB requer uma ou mais extensões de banco de dados adequados para serem instalados. O servidor informou que nenhum disponíveis.';
+$l['req_step_error_xmlsupport'] = 'MyBB requer PHP para ser compilado com suporte a manipulação de dados XML. Veja <a href="http://www.php.net/xml" target="_blank">PHP.net</a> para mais informações.';
+$l['req_step_error_configdefaultfile'] = 'O arquivo de configuração (inc/config.default.php) não pôde ser renomeado.Faça-o manualmente de <u>config.default.php</u> para <u>config.php</u> para permitir que ele seja escrito ou entre em contato com <a href="http://www.mybb.com/support" target="_blank">MyBB Support.</a>';
+$l['req_step_error_configfile'] = 'O arquivo de confiuração (inc/config.php) não está gravável. Por favor ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para permitir a escrita.';
+$l['req_step_error_settingsfile'] = 'O arquivo de setagens (inc/settings.php) não está gravável veja em <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_cachedir'] = 'A pasta de cache (cache/) não é gravável. Ajuste o  <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_uploaddir'] = 'A pasta de uploads (uploads/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_avatardir'] = 'A pasta de avatares (uploads/avatars/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_cssddir'] = 'A pasta de CSS (css/) não é gravável. Ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
 $l['req_step_error_tablelist'] = '<div class="error">
-<h3>Error</h3>
-<p>The MyBB Requirements check failed due to the reasons below. MyBB installation cannot continue because you did not meet the MyBB requirements. Please correct the errors below and try again:</p>
+<h3>Erro</h3>
+<p>A Verificação de Requerimentos do MyBB falhou devido as razões abaixo.A instalação não pôde continuar porque você não alcançou os requerimentos para a instalação do MyBB. Corrija-os e tente novamente:</p>
 {1}
 </div>';
 
 
-$l['db_step_config_db'] = '<p>It is now time to configure the database that MyBB will use as well as your database authentication details. If you do not have this information, it can usually be obtained from your webhost.</p>';
+$l['db_step_config_db'] = '<p>Agora é hora de configurar o banco de dados que irá utilizar MyBB, bem como seus detalhes de autenticação do banco de dados. Se você não tiver essas informações, ele pode ser obtida a partir do seu serviço de hospedagem.</p>';
 $l['db_step_config_table'] = '<div class="border_wrapper">
-<div class="title">Database Configuration</div>
+<div class="title">Configuração da Base de Dados</div>
 <table class="general" cellspacing="0">
 <tr>
-	<th colspan="2" class="first last">Database Settings</th>
+	<th colspan="2" class="first last">Configuração da Base de Dados</th>
 </tr>
 <tr class="first">
-	<td class="first"><label for="dbengine">Database Engine:</label></td>
+	<td class="first"><label for="dbengine">Motor da Base de Dados:</label></td>
 	<td class="last alt_col"><select name="dbengine" id="dbengine" onchange="updateDBSettings();">{1}</select></td>
 </tr>
 {2}
 </table>
 </div>
-<p>Once you\'ve checked these details are correct, click next to continue.</p>';
+<p>Uma vez que você verificou estes detalhes estão corretos, clique em Próximo para continuar.</p>';
 
-$l['database_settings'] = "Database Settings";
-$l['database_path'] = "Database Path:";
-$l['database_host'] = "Database Server Hostname:";
-$l['database_user'] = "Database Username:";
-$l['database_pass'] = "Database Password:";
-$l['database_name'] = "Database Name:";
-$l['table_settings'] = "Table Settings";
-$l['table_prefix'] = "Table Prefix:";
-$l['table_encoding'] = "Table Encoding:";
+$l['database_settings'] = "Configuração da Base de Dados";
+$l['database_path'] = "Caminho da Base de dados:";
+$l['database_host'] = "Nome do servidor do Banco de dados:";
+$l['database_user'] = "Nome de Usuário do Banco de Dados:";
+$l['database_pass'] = "Senha do Banco de Dados:";
+$l['database_name'] = "Nome do Bando de Dados:";
+$l['table_settings'] = "Configurações de Tabela";
+$l['table_prefix'] = "Prefixo da Tavela:";
+$l['table_encoding'] = "Codificação da Tabela:";
 
 $l['db_step_error_config'] = '<div class="error">
-<h3>Error</h3>
-<p>There seems to be one or more errors with the database configuration information that you supplied:</p>
+<h3>Erro</h3>
+<p>Um ou mais erros com as informações fornecidas:</p>
 {1}
-<p>Once the above are corrected, continue with the installation.</p>
+<p>Com os dados corretos continue com a instalação.</p>
 </div>';
-$l['db_step_error_invalidengine'] = 'You have selected an invalid database engine. Please make your selection from the list below.';
-$l['db_step_error_noconnect'] = 'Could not connect to the database server at \'{1}\' with the supplied username and password. Are you sure the hostname and user details are correct?';
-$l['db_step_error_nodbname'] = 'Could not select the database \'{1}\'. Are you sure it exists and the specified username and password have access to it?';
-$l['db_step_error_missingencoding'] = 'You have not selected an encoding yet. Please make sure you selected an encoding before continuing. (Select \'UTF-8 Unicode\' if you are not sure)';
-$l['db_step_error_sqlite_invalid_dbname'] = 'You may not use relative URLs for SQLite databases. Please use a file system path (ex: /home/user/database.db) for your SQLite database.';
-$l['db_step_error_invalid_tableprefix'] = 'You may only use an underscore (_) and alphanumeric characters in a table prefix. Please use a valid table prefix before continuing.';
-$l['db_step_error_tableprefix_too_long'] = 'You may only use a table prefix with a length of 40 characters or less. Please use a shorter table prefix before continuing.';
-$l['db_step_error_utf8mb4_error'] = '\'4-Byte UTF-8 Unicode\' requires MySQL 5.5.3 or above. Please select an encoding which is compatible with your MySQL version.';
+$l['db_step_error_invalidengine'] = 'Você selecionou um motor de banco de dados inválido. Por favor, faça sua seleção na lista abaixo.';
+$l['db_step_error_noconnect'] = 'Não foi possível conectar ao servidor de banco de dados \'{1}\' com o nome de usuário e senha fornecida. Tem certeza que o nome de host e do usuário dados estão corretos?';
+$l['db_step_error_nodbname'] = 'Não foi possível selecionar o banco de dados \'{1}\'. Tem a certeza que existe e o nome de usuário e senha especificados tenham acesso a ele?';
+$l['db_step_error_missingencoding'] = 'Você não selecionou uma codificação ainda. Por favor, verifique se você selecionou uma codificação antes de continuar. (Selecione \'UTF-8 Unicode\' se não tiver certeza)';
+$l['db_step_error_sqlite_invalid_dbname'] = 'Você não pode usar URLs relativos para bancos de dados SQLite. Utilize um caminho de sistema de arquivos (ex: /home/user/database.db) para bancos de dados SQLite.';
+$l['db_step_error_invalid_tableprefix'] = 'Você pode usar apenas um sublinhado (_) e caracteres alfanuméricos em um prefixo de tabela. Por favor, use um prefixo de tabela válido antes de continuar.';
+$l['db_step_error_tableprefix_too_long'] = 'Você só pode usar o prefixo da tabela com um comprimento de 40 caracteres ou menos. Por favor, use um prefixo de tabela mais curta antes de continuar.';
+$l['db_step_error_utf8mb4_error'] = '\'4-Byte UTF-8 Unicode\' requer MySQL 5.5.3 ou acima. Por favor selecione uma codificação que é compatível com a sua versão do MySQL.';
 
-$l['tablecreate_step_connected'] = '<p>Connection to the database server and database you specified was successful.</p>
+$l['tablecreate_step_connected'] = '<p>A conexão com o servidor de banco de dados e banco de dados especificado foi bem sucedida.</p>
 <p>Database Engine: {1} {2}</p>
-<p>The MyBB database tables will now be created.</p>';
-$l['tablecreate_step_created'] = 'Creating table {1}...';
-$l['tablecreate_step_done'] = '<p>All tables have been created, click Next to populate them.</p>';
+<p>As tabelas do banco de dados MyBB serão criadas agora.</p>';
+$l['tablecreate_step_created'] = 'Criando tabelas {1}...';
+$l['tablecreate_step_done'] = '<p>Todos as tabelas foram criadas, clique em Avançar para propagar.</p>';
 
-$l['populate_step_insert'] = '<p>Now that the basic tables have been created, it\'s time to insert the default data.</p>';
-$l['populate_step_inserted'] = '<p>The default data has successfully been inserted into the database. Click Next to insert the default MyBB template and theme sets.</p>';
+$l['populate_step_insert'] = '<p>Agora que as tabelas básicas foram criadas, está na hora de inserir os dados padrão.</p>';
+$l['populate_step_inserted'] = '<p>O padrão de dados foi inserido com sucesso no banco de dados. Clique em Avançar para inserir temas e modelos padrão do MyBB.</p>';
 
 
-$l['theme_step_importing'] = '<p>Loading and importing theme and template file...</p>';
-$l['theme_step_imported'] = '<p>The default theme and template sets have been successfully inserted. Click Next to configure the basic options for your board.</p>';
+$l['theme_step_importing'] = '<p>Carregando e importando tema e arquivo de modelo...</p>';
+$l['theme_step_imported'] = '<p>O tema padrão e modelo  foram inseridos com sucesso. Clique em Avançar para configurar as opções básicas para o seu fórum.</p>';
 
 
 $l['config_step_table'] = '<p>It is now time for you to configure the basic settings for your forums such as forum name, URL, your website details, along with your "cookie" domain and paths. These settings can easily be changed in the future through the MyBB Admin Control Panel.</p>
