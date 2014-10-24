@@ -14,6 +14,12 @@ Tópico Oficial da Comunidade para discussão
 ---
 http://community.mybb.com/thread-158485.html
 
+
+====
+Como instalar
+https://github.com/hospedagemdesites/MyBB/wiki/Como-instalar-o-pacote-de-tradu%C3%A7%C3%A3o-ptbr---Portugu%C3%AAs-Brasileiro
+
+---
 Adicional
 
 Projeto MyBB Merge - Sistema de Importação do MyBB
