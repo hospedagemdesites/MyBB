@@ -94,10 +94,10 @@ $l['search_user'] = "Pesquisar por um usuário";
 
 $l['results'] = "resultados";
 $l['mod_options'] = "Opções de Moderador";
-$l['find_all'] = "Procurar Tudo";
-$l['find_only_approved'] = "Procurar somente aprovados";
-$l['find_only_unapproved'] = "Procurar somente desaprovados";
-$l['find_only_softdeleted'] = "Procurar somente excluídos levemente";
+$l['display_all'] = "Procurar Tudo";
+$l['display_only_approved'] = "Procurar somente aprovados";
+$l['display_only_unapproved'] = "Procurar somente desaprovados";
+$l['display_only_softdeleted'] = "Procurar somente excluídos levemente";
 
 $l['redirect_searchresults'] = "Obrigado, a sua pesquisa foi efetuada e você agora será redirecionado à lista de resultados.";
 
