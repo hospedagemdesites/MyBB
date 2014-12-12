@@ -167,7 +167,6 @@ $l['december'] = "Dezembro";
 $l['access_denied'] = "Acesso Negado";
 $l['access_denied_desc'] = "Você não tem permissões para acessar  esta parte do Painel de Controle de Administração.";
 
-/
 $l['cannot_perform_action_super_admin_general'] = "Desculpe, mas não é possível efetuar esta ação porque você já não é Super Administrador.<br /><br />Para efetuar esta ação você precisa de ter o seu ID de usuário na lista de Super Administradores em inc/config.php.";
 
 

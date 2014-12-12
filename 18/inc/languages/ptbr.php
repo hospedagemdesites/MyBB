@@ -8,7 +8,7 @@
  */
 $langinfo['name'] = "Língua Brasileira";
 $langinfo['author'] = "Leandro dos Santos, dthiago ArnoldLayne-xXx";
-$langinfo['website'] = "http://www.hospedagemecriacaodesites.com.br/, http://bf4brasil.com.br/";
+$langinfo['website'] = "http://community.mybb.com/thread-158485.html";
 $langinfo['version'] = "1801";
 $langinfo['admin'] = 1;
 $langinfo['rtl'] = 0;

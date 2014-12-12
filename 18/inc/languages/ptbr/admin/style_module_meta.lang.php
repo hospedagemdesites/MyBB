@@ -8,7 +8,7 @@
 $l['templates_and_style'] = "Temas &amp; Modelos";
 
 $l['themes'] = "Temas";
-$l['templates'] = Modelos";
+$l['templates'] = "Modelos";
 
 $l['can_manage_themes'] = "Pode gerenciar  temas?";
 $l['can_manage_templates'] = "Pode gerenciar modelos?";
