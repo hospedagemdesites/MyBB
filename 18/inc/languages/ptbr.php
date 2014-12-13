@@ -6,7 +6,7 @@
  * Traduzido por dthiago ArnoldLayne-xXx "http://bf4brasil.com.br/"
  * Revisado por NewtonPDL
  */
-$langinfo['name'] = "Língua Brasileira";
+$langinfo['name'] = "Português Brasileiro";
 $langinfo['author'] = "Leandro dos Santos, dthiago ArnoldLayne-xXx";
 $langinfo['website'] = "http://community.mybb.com/thread-158485.html";
 $langinfo['version'] = "1801";

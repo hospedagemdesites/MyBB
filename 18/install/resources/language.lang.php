@@ -58,7 +58,7 @@ $l['mybb_already_installed'] = "<p>Bem vindo ao Assistente de Instalça do MyBB 
 
 $l['mybb_incorrect_folder'] = "<div class=\"border_wrapper upgrade_note\" style=\"padding: 4px;\">
 	<h3>MyBB detectou que está sendo executado através da pasta \"Upload\" .</h3>
-	<p>Embora não haja nada de errado com isso, é recomendado que o conteúdo da pasta upload  \"Upload\" seja enviado e nãoo a pasta em si.<br /><br />Para mais informações veja o  <a href=\"http://docs.mybb.com/Help-Upload_Directory.html\" target=\"_blank\">MyBB Docs</a>.</p>
+	<p>Embora não haja nada de errado com isso, é recomendado que o conteúdo da pasta upload  \"Upload\" seja enviado e nãoo a pasta em si.<br /><br />Para mais informações veja o  <a href=\"http://docs.mybb.com/Help-Upload_Directory.html\" target=\"_blank\" rel=\"nofollow\">MyBB Docs</a>.</p>
 </div>";
 
 $l['welcome_step'] = '<p>Bem vindo ao Assistente de Instalação do {1}. Este Assistente ajudará a instalar e a configurar uma nova cópia do MyBB.</p>
@@ -74,7 +74,7 @@ $l['welcome_step'] = '<p>Bem vindo ao Assistente de Instalação do {1}. Este As
 </ul>
 <p>Após cada passo completado com sucesso cliquem em PRÓXIMO para a etapa seguinte.</p>
 <p>Clique "PRÓXIMO" para ver a licença de adesão ao MyBB.</p>
-<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Enviar estatísticas anônimas sobreas especificações do servidor ao MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank"><small>Quais informações são enviadas?</small></a>)</p>';
+<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Enviar estatísticas anônimas sobreas especificações do servidor ao MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank" rel="nofollow"><small>Quais informações são enviadas?</small></a>)</p>';
 
 $l['license_step'] = '<div class="license_agreement">
 {1}
@@ -141,13 +141,13 @@ $l['req_step_error_box'] = '<p><strong>{1}</strong></p>';
 $l['req_step_error_phpversion'] = 'MyBB requer PHP 5.2.0  ou posterior par instalar.Atualmente está instalado a {1}.';
 $l['req_step_error_dboptions'] = 'MyBB requer uma ou mais extensões de banco de dados adequados para serem instalados. O servidor informou que nenhum disponíveis.';
 $l['req_step_error_xmlsupport'] = 'MyBB requer PHP para ser compilado com suporte a manipulação de dados XML. Veja <a href="http://www.php.net/xml" target="_blank">PHP.net</a> para mais informações.';
-$l['req_step_error_configdefaultfile'] = 'O arquivo de configuração (inc/config.default.php) não pôde ser renomeado.Faça-o manualmente de <u>config.default.php</u> para <u>config.php</u> para permitir que ele seja escrito ou entre em contato com <a href="http://www.mybb.com/support" target="_blank">MyBB Support.</a>';
-$l['req_step_error_configfile'] = 'O arquivo de confiuração (inc/config.php) não está gravável. Por favor ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para permitir a escrita.';
-$l['req_step_error_settingsfile'] = 'O arquivo de setagens (inc/settings.php) não está gravável veja em <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
-$l['req_step_error_cachedir'] = 'A pasta de cache (cache/) não é gravável. Ajuste o  <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
-$l['req_step_error_uploaddir'] = 'A pasta de uploads (uploads/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
-$l['req_step_error_avatardir'] = 'A pasta de avatares (uploads/avatars/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
-$l['req_step_error_cssddir'] = 'A pasta de CSS (css/) não é gravável. Ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_configdefaultfile'] = 'O arquivo de configuração (inc/config.default.php) não pôde ser renomeado.Faça-o manualmente de <u>config.default.php</u> para <u>config.php</u> para permitir que ele seja escrito ou entre em contato com <a href="http://www.mybb.com/support" target="_blank" rel="nofollow">MyBB Support.</a>';
+$l['req_step_error_configfile'] = 'O arquivo de confiuração (inc/config.php) não está gravável. Por favor ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para permitir a escrita.';
+$l['req_step_error_settingsfile'] = 'O arquivo de setagens (inc/settings.php) não está gravável veja em <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_cachedir'] = 'A pasta de cache (cache/) não é gravável. Ajuste o  <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_uploaddir'] = 'A pasta de uploads (uploads/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_avatardir'] = 'A pasta de avatares (uploads/avatars/) não é gravável. Ajuste <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para as permissões corretas para escrita.';
+$l['req_step_error_cssddir'] = 'A pasta de CSS (css/) não é gravável. Ajuste o <a href="http://docs.mybb.com/CHMOD_Files.html" target="_blank" rel="nofollow">chmod</a> para as permissões corretas para escrita.';
 $l['req_step_error_tablelist'] = '<div class="error">
 <h3>Erro</h3>
 <p>A Verificação de Requerimentos do MyBB falhou devido as razões abaixo.A instalação não pôde continuar porque você não alcançou os requerimentos para a instalação do MyBB. Corrija-os e tente novamente:</p>
@@ -238,7 +238,7 @@ $l['config_step_table'] = '<p>It is now time for you to configure the basic sett
 					<td class="last alt_col"><input type="text" class="text_input" name="websiteurl" id="websiteurl" value="{4}" /></td>
 				</tr>
 				<tr>
-					<th colspan="2" class="first last">Cookie settings <a title="What\'s this?" target="_blank" href="http://docs.mybb.com/Cookie_Settings.html">(?)</a></th>
+					<th colspan="2" class="first last">Cookie settings <a title="What\'s this?" target="_blank" rel="nofollow" href="http://docs.mybb.com/Cookie_Settings.html">(?)</a></th>
 				</tr>
 				<tr>
 					<td class="first"><label for="cookiedomain">Cookie Domain:</label></td>
@@ -335,10 +335,10 @@ $l['done_step_admincreated'] = '<p>Creating Administrator account...';
 $l['done_step_adminoptions'] = '<p>Building Administrator permissions...';
 $l['done_step_cachebuilding'] = '<p>Building data caches...';
 $l['done_step_success'] = '<p class="success">Your copy of MyBB has successfully been installed and configured correctly.</p>
-<p>The MyBB Group thanks you for your support in installing our software and we hope to see you around the <a href="http://community.mybb.com/" target="_blank">Community Forums</a> if you need help or wish to become a part of the MyBB community.</p>';
+<p>The MyBB Group thanks you for your support in installing our software and we hope to see you around the <a href="http://community.mybb.com/" target="_blank" rel="nofollow">Community Forums</a> if you need help or wish to become a part of the MyBB community.</p>';
 $l['done_step_locked'] = '<p>Your installer has been locked. To unlock the installer please delete the \'lock\' file in this directory.</p><p>You may now proceed to your new copy of <a href="../index.php">MyBB</a> or its <a href="../admin/index.php">Admin Control Panel</a>.</p>';
 $l['done_step_dirdelete'] = '<p><strong><span style="color:red">Please remove this directory before exploring your copy of MyBB.</span></strong></p>';
-$l['done_whats_next'] = '<div class="error"><p><strong>Switching from another forum software?</strong></p><p>MyBB offers a merge system for easy merging of multiple forums from various different popular forum software, allowing an easy conversion process to MyBB. If you\'re looking to switch to MyBB, you\'re heading in the right direction! Check out the <a target="_blank" href="http://www.mybb.com/downloads/merge-system">Merge System</a> for more information.</p>';
+$l['done_whats_next'] = '<div class="error"><p><strong>Switching from another forum software?</strong></p><p>MyBB offers a merge system for easy merging of multiple forums from various different popular forum software, allowing an easy conversion process to MyBB. If you\'re looking to switch to MyBB, you\'re heading in the right direction! Check out the <a target="_blank" rel="nofollow" href="http://www.mybb.com/downloads/merge-system">Merge System</a> for more information.</p>';
 
 /* UPGRADE LANGUAGE VARIABLES */
 $l['upgrade'] = "Upgrade Process";
