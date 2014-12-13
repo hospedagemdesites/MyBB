@@ -1,12 +1,12 @@
-MyBB Pacote de Língua Brasileira
+MyBB Pacote Português Brasileiro
 
 
-  MyBB Pacote de Língua Brasileira
+  MyBB Pacote Português Brasileiro
 
 
-     O que é o pacote MyBB Pacote de Língua Brasileira?
+     O que é o pacote MyBB Português Brasileiro?
 
-O MyBB Pacote de Língua Brasileira é a tradução do MyBB - MyBulletin
+O MyBB Pacote Português Brasileiro é a tradução do MyBB - MyBulletin
 Board - projeto Open Source de fóruns de discussão.Usados por vários
 sites pela internet devido sua facilidade de uso e customização.Este
 pacote é - que eu saiba, pela primeira vez, coletivo.O projeto foi todo
@@ -19,10 +19,10 @@ ACP - Painel Administrativo foi traduzido por dthiago e revisado por
 NewtonPDL até o momento.
 
 
-    Como instalar o MyBB Pacote de Língua Brasileira?,
+    Como instalar o MyBB Pacote Português Brasileiro?,
 
 Acesse o site oficial do MyBB e procure pelo pacote de idioma Brazilian
-Portuguese.Observe que somente desta maneira você obterá um pacote
+Portuguese. Observe que somente desta maneira você obterá um pacote
 oficial pois as versões do GitHub são para desenvolvimentos apesar de
 poder ,em geral, ser usadas.Adquira o seu pacote de idioma e descompacte
 o arquivo em seu computador.As imagens do arquivo de grupos traduzidos
