@@ -3,11 +3,9 @@
  * MyBB 1.8 Orgulhosamente Língua BRASILEIRA
  *  Direitos Autorais 2014 MyBB Group, Todos os Direitos Reservados
  * Traduzido por dthiago "ArnoldLayne-xXx" http://bf4brasil.com.br/t
- *
- */
-
+*/
 // Tabs
-$l['banning'] = "Bloqueados / Banimento;
+$l['banning'] = "Bloqueados / Banimento";
 $l['banned_accounts'] = "Conta bloqueadas";
 $l['banned_accounts_desc'] = "Aqui você pode gerenciar usuários com acesso bloqueado ao seu fórum.";
 $l['ban_a_user'] = "Bloquear um usuário";
