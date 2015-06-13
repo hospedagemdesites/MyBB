@@ -5,7 +5,6 @@
  * Traduzido por dthiago "ArnodLayne-xXx" http://portal.bf4brasil.com.br/
  */
 
-<<<<<<< HEAD
 $l['configuration'] = "Configuração";
 
 $l['bbsettings'] = "Definições";
@@ -44,7 +43,6 @@ $l['can_manage_mod_tools'] = "Pode gerenciar ferramentas de moderação?";
 $l['can_manage_thread_prefixes'] = "Pode gerenciar prefixos de tópico?";
 $l['can_manage_security_questions'] = "Pode gerenciar perguntas de segurança?";
 
-=======
 $l['mod_tools'] = "Ferramentas para Moderação";
 
 $l['thread_tools'] = "Ferramentas de Tópico";
@@ -170,4 +168,3 @@ $l['error_missing_description'] = "Por favor, insira uma pequena descrição par
 $l['error_no_forums_selected'] = "Por favor, selecione os fóruns em que deseja que esta ferramenta esteja disponível.";
 $l['error_no_groups_selected'] = "Por favor selecione o grupo onde esta ferramenta estará disponível.";
 $l['error_forum_is_category'] = "Você não pode selecionar um fórum do tipo categoria como um fórum de destino.";
->>>>>>> 6eeadd15ab9544b64c629f95000e18f86da7713d

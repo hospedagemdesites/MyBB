@@ -52,7 +52,7 @@ $l['error_backup_not_deleted'] = "O arquivamento não foi excluído.";
 $l['error_tables_not_selected'] = "Você não selecionou nenhuma tabela para arquivamento.";
 $l['error_no_zlib'] = "A biblioteca zlib para o PHP não está ativada - Você não pode criar arquivos compactados GZIP.";
 
-$l['alert_not_writable'] = "A sua subpasta de arquivamento ("/admin/backups" -dentro da pasta administrativa em diretório) não está com as permissões de gravação. Você não pode arquivar no servidor.";
+$l['alert_not_writable'] = "A sua subpasta de arquivamento (\"admin\/backups\/\" -dentro da pasta administrativa em diretório) não está com as permissões de gravação. Você não pode arquivar no servidor.";
 
 $l['confirm_backup_deletion'] = "Tem a certeza que deseja excluir este arquivo?";
 

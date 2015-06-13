@@ -40,7 +40,7 @@ $l['mybb_already_installed'] = "<p>Bem vindo ao Assistente de Instalça do MyBB 
 <div class=\"border_wrapper upgrade_note\" style=\"padding: 4px;\">
 	<h3>Atualizar cópia existente para {1} <span style=\"font-size: 80%; color: maroon;\">(Recomendado)</span></h3>
 	<p>Esta opção vai atualizar a sua atual instalação do MyNN para o MyBB {1}.</p>
-	<p>Você deve escolher esta opção se deseja manter mensagens,usuários e configurações existentes.</p>
+	<p>Você deve escolher esta opção se deseja manter mensagens, usuários e configurações existentes.</p>
 	<form method=\"post\" action=\"upgrade.php\">
 		<div class=\"next_button\"><input type=\"submit\" class=\"submit_button\" value=\"Atualizar para MyBB {1} &raquo;\" /></div>
 	</form>
@@ -74,7 +74,7 @@ $l['welcome_step'] = '<p>Bem vindo ao Assistente de Instalação do {1}. Este As
 </ul>
 <p>Após cada passo completado com sucesso cliquem em PRÓXIMO para a etapa seguinte.</p>
 <p>Clique "PRÓXIMO" para ver a licença de adesão ao MyBB.</p>
-<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Enviar estatísticas anônimas sobreas especificações do servidor ao MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank" rel="nofollow"><small>Quais informações são enviadas?</small></a>)</p>';
+<p><input type="checkbox" name="allow_anonymous_info" value="1" id="allow_anonymous" checked="checked" /> <label for="allow_anonymous"> Enviar estatísticas anônimas sobre as especificações do servidor ao MyBB Group</label> (<a href="http://docs.mybb.com/Anonymous_Statistics.html" style="color: #555;" target="_blank" rel="nofollow"><small>Quais informações são enviadas?</small></a>)</p>';
 
 $l['license_step'] = '<div class="license_agreement">
 {1}
